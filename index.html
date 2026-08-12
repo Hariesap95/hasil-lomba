@@ -110,11 +110,27 @@
       }
 
       document.getElementById('schoolName').textContent = school.school_name;
-      document.getElementById('totalSemua').textContent = school.total_semua;
       document.getElementById('generatedAt').textContent = data.generated_at || '-';
+
+      const adaNilai = school.ada_nilai !== false && data.ada_nilai !== false;
+      const totalBox = document.querySelector('.total-box');
+
+      if (adaNilai) {
+        totalBox.style.display = '';
+        document.getElementById('totalSemua').textContent = school.total_semua;
+      } else {
+        totalBox.style.display = 'none';
+      }
 
       const list = document.getElementById('lombaList');
       list.innerHTML = '';
+
+      if (!adaNilai) {
+        const info = document.createElement('div');
+        info.className = 'msg info';
+        info.textContent = 'Nilai belum diumumkan. Ini daftar tim yang terdaftar.';
+        list.appendChild(info);
+      }
 
       (school.mata_lomba || []).forEach(function (ml) {
         const title = document.createElement('div');
@@ -123,14 +139,18 @@
         list.appendChild(title);
 
         const table = document.createElement('table');
-        table.innerHTML = '<thead><tr><th>Tim</th><th>Juri 1</th><th>Juri 2</th><th>Total</th></tr></thead>';
+        table.innerHTML = adaNilai
+          ? '<thead><tr><th>Tim</th><th>Juri 1</th><th>Juri 2</th><th>Total</th></tr></thead>'
+          : '<thead><tr><th>Tim</th></tr></thead>';
         const tbody = document.createElement('tbody');
         (ml.teams || []).forEach(function (t) {
           const tr = document.createElement('tr');
-          tr.innerHTML = '<td>' + escapeHtml(t.team_name) + '</td>' +
-                          '<td>' + t.juri1_poin + '</td>' +
-                          '<td>' + t.juri2_poin + '</td>' +
-                          '<td><b>' + t.total_poin + '</b></td>';
+          tr.innerHTML = adaNilai
+            ? '<td>' + escapeHtml(t.team_name) + '</td>' +
+              '<td>' + t.juri1_poin + '</td>' +
+              '<td>' + t.juri2_poin + '</td>' +
+              '<td><b>' + t.total_poin + '</b></td>'
+            : '<td>' + escapeHtml(t.team_name) + '</td>';
           tbody.appendChild(tr);
         });
         table.appendChild(tbody);
