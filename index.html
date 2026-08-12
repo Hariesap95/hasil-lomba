@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cek Nilai Lomba</title>
+<style>
+  :root { --primary:#0d6efd; --bg:#f4f6f9; }
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+    background: var(--bg);
+    margin: 0;
+    padding: 24px 16px;
+    color: #1f2937;
+  }
+  .wrap { max-width: 560px; margin: 0 auto; }
+  h1 { font-size: 1.4rem; text-align: center; margin-bottom: 4px; }
+  p.sub { text-align: center; color: #6b7280; margin-top: 0; }
+  .card {
+    background: #fff; border-radius: 12px; padding: 20px;
+    box-shadow: 0 1px 4px rgba(0,0,0,.08); margin-bottom: 16px;
+  }
+  input[type=text] {
+    width: 100%; padding: 12px 14px; font-size: 1.1rem;
+    border: 1px solid #d1d5db; border-radius: 8px;
+    text-transform: uppercase; letter-spacing: 2px; text-align: center;
+  }
+  button {
+    width: 100%; padding: 12px; margin-top: 10px; font-size: 1rem;
+    border: none; border-radius: 8px; background: var(--primary);
+    color: #fff; cursor: pointer;
+  }
+  button:disabled { opacity: .6; cursor: not-allowed; }
+  .msg { text-align: center; padding: 10px; border-radius: 8px; margin-top: 10px; }
+  .msg.error { background: #fee2e2; color: #991b1b; }
+  .msg.info { background: #e0f2fe; color: #075985; }
+  table { width: 100%; border-collapse: collapse; margin-top: 8px; }
+  th, td { padding: 8px 6px; border-bottom: 1px solid #e5e7eb; font-size: .92rem; text-align: left; }
+  th { color: #6b7280; font-weight: 600; }
+  .total-box {
+    text-align: center; background: #ecfdf5; border-radius: 10px;
+    padding: 14px; margin-bottom: 12px;
+  }
+  .total-box .angka { font-size: 2rem; font-weight: 700; color: #047857; }
+  .lomba-title { font-weight: 600; margin-top: 14px; margin-bottom: 4px; }
+  footer { text-align: center; color: #9ca3af; font-size: .8rem; margin-top: 24px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>🏆 Cek Nilai Lomba</h1>
+  <p class="sub">Masukkan kode unik sekolah Anda</p>
+
+  <div class="card">
+    <input type="text" id="codeInput" maxlength="8" placeholder="MIS. AB12CD">
+    <button id="checkBtn" onclick="cekNilai()">Lihat Nilai</button>
+    <div id="messageBox"></div>
+  </div>
+
+  <div id="resultCard" class="card" style="display:none;">
+    <h3 id="schoolName"></h3>
+    <div class="total-box">
+      <div>Total Nilai Keseluruhan</div>
+      <div class="angka" id="totalSemua">0</div>
+    </div>
+    <div id="lombaList"></div>
+    <p style="color:#9ca3af; font-size:.8rem; text-align:center; margin-top:10px;">
+      Terakhir diperbarui: <span id="generatedAt"></span>
+    </p>
+  </div>
+
+  <footer>Data diperbarui otomatis setiap jam.</footer>
+</div>
+
+<script>
+  // File JSON ini otomatis diperbarui tiap jam oleh aplikasi (lewat GitHub API).
+  // Kalau halaman ini di-hosting di repo yang SAMA dengan file results.json,
+  // path relatif "./results.json" sudah cukup.
+  const RESULTS_URL = './results.json';
+
+  async function cekNilai() {
+    const input = document.getElementById('codeInput');
+    const btn = document.getElementById('checkBtn');
+    const messageBox = document.getElementById('messageBox');
+    const resultCard = document.getElementById('resultCard');
+
+    const code = input.value.trim().toUpperCase();
+    messageBox.innerHTML = '';
+    resultCard.style.display = 'none';
+
+    if (!code) {
+      messageBox.innerHTML = '<div class="msg error">Kode tidak boleh kosong.</div>';
+      return;
+    }
+
+    btn.disabled = true;
+    btn.textContent = 'Memuat...';
+
+    try {
+      const res = await fetch(RESULTS_URL + '?t=' + Date.now(), { cache: 'no-store' });
+      if (!res.ok) throw new Error('Gagal memuat data (' + res.status + ')');
+      const data = await res.json();
+
+      const school = data.schools ? data.schools[code] : null;
+
+      if (!school) {
+        messageBox.innerHTML = '<div class="msg error">Kode tidak ditemukan. Periksa kembali kode Anda.</div>';
+        return;
+      }
+
+      document.getElementById('schoolName').textContent = school.school_name;
+      document.getElementById('totalSemua').textContent = school.total_semua;
+      document.getElementById('generatedAt').textContent = data.generated_at || '-';
+
+      const list = document.getElementById('lombaList');
+      list.innerHTML = '';
+
+      (school.mata_lomba || []).forEach(function (ml) {
+        const title = document.createElement('div');
+        title.className = 'lomba-title';
+        title.textContent = ml.competition_name;
+        list.appendChild(title);
+
+        const table = document.createElement('table');
+        table.innerHTML = '<thead><tr><th>Tim</th><th>Juri 1</th><th>Juri 2</th><th>Total</th></tr></thead>';
+        const tbody = document.createElement('tbody');
+        (ml.teams || []).forEach(function (t) {
+          const tr = document.createElement('tr');
+          tr.innerHTML = '<td>' + escapeHtml(t.team_name) + '</td>' +
+                          '<td>' + t.juri1_poin + '</td>' +
+                          '<td>' + t.juri2_poin + '</td>' +
+                          '<td><b>' + t.total_poin + '</b></td>';
+          tbody.appendChild(tr);
+        });
+        table.appendChild(tbody);
+        list.appendChild(table);
+      });
+
+      resultCard.style.display = 'block';
+    } catch (err) {
+      messageBox.innerHTML = '<div class="msg error">Terjadi kesalahan: ' + escapeHtml(String(err.message || err)) + '</div>';
+    } finally {
+      btn.disabled = false;
+      btn.textContent = 'Lihat Nilai';
+    }
+  }
+
+  function escapeHtml(str) {
+    const div = document.createElement('div');
+    div.textContent = str;
+    return div.innerHTML;
+  }
+
+  document.getElementById('codeInput').addEventListener('keydown', function (e) {
+    if (e.key === 'Enter') cekNilai();
+  });
+</script>
+</body>
+</html>
