@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-10-29 11:53:28 WIB",
+    "generated_at": "2026-10-29 11:54:26 WIB",
     "ada_nilai": true,
     "ada_juara": true,
     "competitions": [
@@ -170,7 +170,16 @@
                 }
             ],
             "total_semua": 6380,
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "Juara 1",
+                    "keterangan": "Kategori tingkat Madya - total 99 poin",
+                    "urut": 1
+                }
+            ]
         },
         "5Y22RA": {
             "school_name": "SMPN 1 GUNUNGJATI",
@@ -297,7 +306,16 @@
                 }
             ],
             "total_semua": 7590,
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "Juara 1",
+                    "keterangan": "Kategori tingkat Madya - total 65 poin",
+                    "urut": 1
+                }
+            ]
         },
         "Y6ELTF": {
             "school_name": "smpn 1 talun",
@@ -444,7 +462,16 @@
                 }
             ],
             "total_semua": 2860,
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "Juara 1",
+                    "keterangan": "Kategori tingkat Madya - total 19 poin",
+                    "urut": 1
+                }
+            ]
         },
         "EEGSW2": {
             "school_name": "MTSN 4 CIREBON",
@@ -559,7 +586,16 @@
                 }
             ],
             "total_semua": 6514,
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "Juara 1",
+                    "keterangan": "Kategori tingkat Madya - total 41 poin",
+                    "urut": 1
+                }
+            ]
         },
         "WH6GAE": {
             "school_name": "SMP 12 TUK",
@@ -614,7 +650,16 @@
                 }
             ],
             "total_semua": 1865,
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "Juara 3",
+                    "keterangan": "Kategori tingkat Madya - total 0 poin",
+                    "urut": 3
+                }
+            ]
         },
         "44LQSS": {
             "school_name": "smp mamalia",
@@ -657,7 +702,16 @@
                 }
             ],
             "total_semua": 875,
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "Juara 3",
+                    "keterangan": "Kategori tingkat Madya - total 0 poin",
+                    "urut": 3
+                }
+            ]
         },
         "Y9YUH2": {
             "school_name": "SMPN 1 weru",
@@ -724,7 +778,16 @@
                 }
             ],
             "total_semua": 1105,
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "Juara 1",
+                    "keterangan": "Kategori tingkat Madya - total 9 poin",
+                    "urut": 1
+                }
+            ]
         },
         "8PXMJQ": {
             "school_name": "SMP NEGERI 1 PALIMANAN",
@@ -809,7 +872,16 @@
                 }
             ],
             "total_semua": 2415,
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "Juara 2",
+                    "keterangan": "Kategori tingkat Madya - total 2 poin",
+                    "urut": 2
+                }
+            ]
         },
         "MWW94J": {
             "school_name": "Smpn 1 Bermuda",
@@ -888,7 +960,16 @@
                 }
             ],
             "total_semua": 670,
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "Juara 3",
+                    "keterangan": "Kategori tingkat Madya - total 0 poin",
+                    "urut": 3
+                }
+            ]
         },
         "TPT8AP": {
             "school_name": "SMPN 2 PALIMANAN",
@@ -943,7 +1024,16 @@
                 }
             ],
             "total_semua": 915,
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "Juara 3",
+                    "keterangan": "Kategori tingkat Madya - total 0 poin",
+                    "urut": 3
+                }
+            ]
         },
         "SVKR24": {
             "school_name": "MTSN 1 KOTA CIREBON",
@@ -1040,7 +1130,16 @@
                 }
             ],
             "total_semua": 1800,
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "Juara 3",
+                    "keterangan": "Kategori tingkat Madya - total 0 poin",
+                    "urut": 3
+                }
+            ]
         },
         "S34VUY": {
             "school_name": "smplalala13",
@@ -1125,7 +1224,16 @@
                 }
             ],
             "total_semua": 1500,
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "Juara 3",
+                    "keterangan": "Kategori tingkat Madya - total 0 poin",
+                    "urut": 3
+                }
+            ]
         },
         "K49UNZ": {
             "school_name": "mts 1 kota cirebon",
@@ -1180,7 +1288,16 @@
                 }
             ],
             "total_semua": 645,
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "Juara 3",
+                    "keterangan": "Kategori tingkat Madya - total 0 poin",
+                    "urut": 3
+                }
+            ]
         },
         "9JLCYW": {
             "school_name": "SMPN 1 Palimanan",
@@ -1223,7 +1340,16 @@
                 }
             ],
             "total_semua": 700,
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "Juara 3",
+                    "keterangan": "Kategori tingkat Madya - total 0 poin",
+                    "urut": 3
+                }
+            ]
         },
         "R99XR3": {
             "school_name": "smpn 3 sumber",
@@ -1284,7 +1410,16 @@
                 }
             ],
             "total_semua": 1180,
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "Juara 3",
+                    "keterangan": "Kategori tingkat Madya - total 0 poin",
+                    "urut": 3
+                }
+            ]
         },
         "Z7AN9G": {
             "school_name": "smpn 2 Suranenggala",
@@ -1351,7 +1486,16 @@
                 }
             ],
             "total_semua": 955,
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "Juara 3",
+                    "keterangan": "Kategori tingkat Madya - total 0 poin",
+                    "urut": 3
+                }
+            ]
         },
         "C3USRG": {
             "school_name": "SMPN 3 PAPER",
@@ -1412,7 +1556,16 @@
                 }
             ],
             "total_semua": 1250,
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "Juara 3",
+                    "keterangan": "Kategori tingkat Madya - total 0 poin",
+                    "urut": 3
+                }
+            ]
         },
         "9M34JR": {
             "school_name": "smp jepang cirebon",
@@ -1497,7 +1650,16 @@
                 }
             ],
             "total_semua": 1185,
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "Juara 3",
+                    "keterangan": "Kategori tingkat Madya - total 0 poin",
+                    "urut": 3
+                }
+            ]
         },
         "A7PSC8": {
             "school_name": "SMPN 14 jakarta",
@@ -1588,7 +1750,16 @@
                 }
             ],
             "total_semua": 1405,
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "Juara 3",
+                    "keterangan": "Kategori tingkat Madya - total 0 poin",
+                    "urut": 3
+                }
+            ]
         },
         "PH42KY": {
             "school_name": "SMP 1 anjas",
@@ -1631,7 +1802,16 @@
                 }
             ],
             "total_semua": 815,
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "Juara 3",
+                    "keterangan": "Kategori tingkat Madya - total 0 poin",
+                    "urut": 3
+                }
+            ]
         },
         "PFYXY6": {
             "school_name": "SMP 2 Suki",
@@ -1698,7 +1878,16 @@
                 }
             ],
             "total_semua": 670,
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "Juara 3",
+                    "keterangan": "Kategori tingkat Madya - total 0 poin",
+                    "urut": 3
+                }
+            ]
         },
         "2EZK26": {
             "school_name": "Ram gmw Pkl",
@@ -1753,7 +1942,16 @@
                 }
             ],
             "total_semua": 1285,
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "Juara 3",
+                    "keterangan": "Kategori tingkat Madya - total 0 poin",
+                    "urut": 3
+                }
+            ]
         },
         "2YJVN8": {
             "school_name": "SMPN 4 SUBANG",
@@ -1852,7 +2050,16 @@
                 }
             ],
             "total_semua": 840,
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "Juara 3",
+                    "keterangan": "Kategori tingkat Madya - total 0 poin",
+                    "urut": 3
+                }
+            ]
         },
         "2Q92RT": {
             "school_name": "SMP 3 WERU",
@@ -1950,7 +2157,16 @@
                 }
             ],
             "total_semua": 150,
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "Juara 3",
+                    "keterangan": "Kategori tingkat Madya - total 0 poin",
+                    "urut": 3
+                }
+            ]
         },
         "QJQFDE": {
             "school_name": "karmon",
@@ -2089,7 +2305,16 @@
                 }
             ],
             "total_semua": 140,
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "Juara 3",
+                    "keterangan": "Kategori tingkat Madya - total 0 poin",
+                    "urut": 3
+                }
+            ]
         },
         "M2HK46": {
             "school_name": "SMPN 1 KEDAWUNG",
@@ -2507,8 +2732,8 @@
                         {
                             "team_name": "TIM 14 A PPW",
                             "juri1_poin": 1230,
-                            "juri2_poin": 0,
-                            "total_poin": 1230
+                            "juri2_poin": 1205,
+                            "total_poin": 2435
                         },
                         {
                             "team_name": "TIM 14 B PPW",
@@ -2519,7 +2744,7 @@
                     ]
                 }
             ],
-            "total_semua": 3065,
+            "total_semua": 4270,
             "ada_nilai": true
         },
         "SJ2R5E": {
