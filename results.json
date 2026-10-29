@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-10-29 12:02:36 WIB",
+    "generated_at": "2026-10-29 12:05:40 WIB",
     "ada_nilai": true,
     "ada_juara": true,
     "competitions": [
@@ -51,17 +51,20 @@
                 {
                     "competition_id": 9,
                     "competition_name": "Pertolongan Pertama Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 1 A PPM",
                             "juri1_poin": 670,
                             "juri2_poin": 1165,
+                            "waktu": "00:11:03",
                             "total_poin": 1835
                         },
                         {
                             "team_name": "TIM 1 B PPM",
                             "juri1_poin": 650,
                             "juri2_poin": 1075,
+                            "waktu": "00:12:04",
                             "total_poin": 1725
                         }
                     ]
@@ -69,41 +72,42 @@
                 {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 16 A SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 16 B SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 16 C SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 16 D SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 16 E SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 16 F SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -111,17 +115,18 @@
                 {
                     "competition_id": 10,
                     "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 18 A TPM",
                             "juri1_poin": 250,
-                            "juri2_poin": 0,
+                            "waktu": "02:10:15",
                             "total_poin": 250
                         },
                         {
                             "team_name": "TIM 18 B TPM",
                             "juri1_poin": 290,
-                            "juri2_poin": 0,
+                            "waktu": "05:25:15",
                             "total_poin": 290
                         }
                     ]
@@ -129,47 +134,47 @@
                 {
                     "competition_id": 14,
                     "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 18 A PM",
                             "juri1_poin": 225,
-                            "juri2_poin": 165,
-                            "total_poin": 390
+                            "waktu": "01:58:00",
+                            "total_poin": 225
                         },
                         {
                             "team_name": "TIM 18 B PM",
                             "juri1_poin": 230,
-                            "juri2_poin": 145,
-                            "total_poin": 375
+                            "waktu": "01:58:00",
+                            "total_poin": 230
                         },
                         {
                             "team_name": "TIM 18 C PM",
                             "juri1_poin": 250,
-                            "juri2_poin": 160,
-                            "total_poin": 410
+                            "waktu": "01:58:00",
+                            "total_poin": 250
                         },
                         {
                             "team_name": "TIM 18 D PM",
                             "juri1_poin": 210,
-                            "juri2_poin": 130,
-                            "total_poin": 340
+                            "waktu": "01:58:00",
+                            "total_poin": 210
                         },
                         {
                             "team_name": "TIM 18 E PM",
                             "juri1_poin": 235,
-                            "juri2_poin": 145,
-                            "total_poin": 380
+                            "waktu": "01:58:00",
+                            "total_poin": 235
                         },
                         {
                             "team_name": "TIM 18 F PM",
                             "juri1_poin": 175,
-                            "juri2_poin": 210,
-                            "total_poin": 385
+                            "waktu": "01:58:00",
+                            "total_poin": 175
                         }
                     ]
                 }
             ],
-            "total_semua": 6380,
             "ada_nilai": true,
             "juara": [
                 {
@@ -194,17 +199,20 @@
                 {
                     "competition_id": 9,
                     "competition_name": "Pertolongan Pertama Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 10 A PPM",
                             "juri1_poin": 675,
                             "juri2_poin": 1165,
+                            "waktu": "00:10:07",
                             "total_poin": 1840
                         },
                         {
                             "team_name": "TIM 10 B PPM",
                             "juri1_poin": 625,
                             "juri2_poin": 1165,
+                            "waktu": "00:13:02",
                             "total_poin": 1790
                         }
                     ]
@@ -212,17 +220,20 @@
                 {
                     "competition_id": 8,
                     "competition_name": "Perawatan Keluarga Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 4 A PKM",
                             "juri1_poin": 465,
                             "juri2_poin": 650,
+                            "waktu": "00:09:50",
                             "total_poin": 1115
                         },
                         {
                             "team_name": "TIM 4 B PKM",
                             "juri1_poin": 545,
                             "juri2_poin": 610,
+                            "waktu": "00:09:50",
                             "total_poin": 1155
                         }
                     ]
@@ -230,41 +241,42 @@
                 {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 13 A SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 13 B SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 13 C SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 13 D SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 13 E SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 13 F SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -272,17 +284,18 @@
                 {
                     "competition_id": 10,
                     "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 12 A TPM",
                             "juri1_poin": 205,
-                            "juri2_poin": 0,
+                            "waktu": "06:48:12",
                             "total_poin": 205
                         },
                         {
                             "team_name": "TIM 12 B TPM",
                             "juri1_poin": 240,
-                            "juri2_poin": 0,
+                            "waktu": "05:06:03",
                             "total_poin": 240
                         }
                     ]
@@ -290,29 +303,29 @@
                 {
                     "competition_id": 14,
                     "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 19 A PM",
                             "juri1_poin": 250,
-                            "juri2_poin": 135,
-                            "total_poin": 385
+                            "waktu": "01:58:00",
+                            "total_poin": 250
                         },
                         {
                             "team_name": "TIM 19 B PM",
                             "juri1_poin": 225,
-                            "juri2_poin": 235,
-                            "total_poin": 460
+                            "waktu": "01:58:00",
+                            "total_poin": 225
                         },
                         {
                             "team_name": "TIM 19 C PM",
                             "juri1_poin": 250,
-                            "juri2_poin": 150,
-                            "total_poin": 400
+                            "waktu": "01:58:00",
+                            "total_poin": 250
                         }
                     ]
                 }
             ],
-            "total_semua": 7590,
             "ada_nilai": true,
             "juara": [
                 {
@@ -337,11 +350,13 @@
                 {
                     "competition_id": 9,
                     "competition_name": "Pertolongan Pertama Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 24 A PPM",
                             "juri1_poin": 620,
                             "juri2_poin": 1165,
+                            "waktu": "00:11:06",
                             "total_poin": 1785
                         }
                     ]
@@ -349,11 +364,13 @@
                 {
                     "competition_id": 8,
                     "competition_name": "Perawatan Keluarga Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 5 A PKM",
                             "juri1_poin": 660,
                             "juri2_poin": 520,
+                            "waktu": "00:09:50",
                             "total_poin": 1180
                         }
                     ]
@@ -361,17 +378,17 @@
                 {
                     "competition_id": 10,
                     "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 15 A TPM",
                             "juri1_poin": 294,
-                            "juri2_poin": 0,
+                            "waktu": "05:15:20",
                             "total_poin": 294
                         }
                     ]
                 }
             ],
-            "total_semua": 3259,
             "ada_nilai": true
         },
         "UMZUPF": {
@@ -380,17 +397,20 @@
                 {
                     "competition_id": 9,
                     "competition_name": "Pertolongan Pertama Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 17 A PPM",
                             "juri1_poin": 645,
                             "juri2_poin": 1165,
+                            "waktu": "00:12:09",
                             "total_poin": 1810
                         },
                         {
                             "team_name": "TIM 17 B PPM",
                             "juri1_poin": 605,
                             "juri2_poin": 1165,
+                            "waktu": "00:14:03",
                             "total_poin": 1770
                         }
                     ]
@@ -398,23 +418,25 @@
                 {
                     "competition_id": 8,
                     "competition_name": "Perawatan Keluarga Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 14 A PKM",
                             "juri1_poin": 625,
                             "juri2_poin": 555,
+                            "waktu": "00:09:50",
                             "total_poin": 1180
                         },
                         {
                             "team_name": "TIM 14 B PKM",
                             "juri1_poin": 700,
                             "juri2_poin": 0,
+                            "waktu": "00:09:50",
                             "total_poin": 700
                         }
                     ]
                 }
             ],
-            "total_semua": 5460,
             "ada_nilai": true
         },
         "YR6A7D": {
@@ -423,11 +445,13 @@
                 {
                     "competition_id": 9,
                     "competition_name": "Pertolongan Pertama Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 19 A PPM",
                             "juri1_poin": 660,
                             "juri2_poin": 1165,
+                            "waktu": "00:12:05",
                             "total_poin": 1825
                         }
                     ]
@@ -435,11 +459,13 @@
                 {
                     "competition_id": 8,
                     "competition_name": "Perawatan Keluarga Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 13 A PKM",
                             "juri1_poin": 720,
                             "juri2_poin": 0,
+                            "waktu": "00:09:50",
                             "total_poin": 720
                         }
                     ]
@@ -447,17 +473,18 @@
                 {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 11 A SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 11 B SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -465,17 +492,17 @@
                 {
                     "competition_id": 10,
                     "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 13 A TPM",
                             "juri1_poin": 315,
-                            "juri2_poin": 0,
+                            "waktu": "02:59:16",
                             "total_poin": 315
                         }
                     ]
                 }
             ],
-            "total_semua": 2860,
             "ada_nilai": true,
             "juara": [
                 {
@@ -500,17 +527,20 @@
                 {
                     "competition_id": 9,
                     "competition_name": "Pertolongan Pertama Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 5 A PPM",
                             "juri1_poin": 590,
                             "juri2_poin": 1165,
+                            "waktu": "00:15:07",
                             "total_poin": 1755
                         },
                         {
                             "team_name": "TIM 5 B PPM",
                             "juri1_poin": 600,
                             "juri2_poin": 1165,
+                            "waktu": "00:09:01",
                             "total_poin": 1765
                         }
                     ]
@@ -518,17 +548,20 @@
                 {
                     "competition_id": 8,
                     "competition_name": "Perawatan Keluarga Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 19 A PKM",
                             "juri1_poin": 720,
                             "juri2_poin": 0,
+                            "waktu": "00:09:50",
                             "total_poin": 720
                         },
                         {
                             "team_name": "TIM 19 B PKM",
                             "juri1_poin": 725,
                             "juri2_poin": 0,
+                            "waktu": "00:09:50",
                             "total_poin": 725
                         }
                     ]
@@ -536,23 +569,24 @@
                 {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 2 A SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 2 B SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 2 C SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -560,23 +594,24 @@
                 {
                     "competition_id": 10,
                     "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 9 A TPM",
                             "juri1_poin": 249,
-                            "juri2_poin": 0,
+                            "waktu": "02:08:09",
                             "total_poin": 249
                         },
                         {
                             "team_name": "TIM 9 B TPM",
                             "juri1_poin": 290,
-                            "juri2_poin": 0,
+                            "waktu": "08:05:02",
                             "total_poin": 290
                         },
                         {
                             "team_name": "TIM 9 C TPM",
                             "juri1_poin": 300,
-                            "juri2_poin": 0,
+                            "waktu": "02:09:04",
                             "total_poin": 300
                         }
                     ]
@@ -584,29 +619,29 @@
                 {
                     "competition_id": 14,
                     "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 1 A PM",
                             "juri1_poin": 145,
-                            "juri2_poin": 130,
-                            "total_poin": 275
+                            "waktu": "01:58:00",
+                            "total_poin": 145
                         },
                         {
                             "team_name": "TIM 1 B PM",
                             "juri1_poin": 250,
-                            "juri2_poin": 250,
-                            "total_poin": 500
+                            "waktu": "01:58:00",
+                            "total_poin": 250
                         },
                         {
                             "team_name": "TIM 1 C PM",
                             "juri1_poin": 185,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 185
                         }
                     ]
                 }
             ],
-            "total_semua": 6764,
             "ada_nilai": true,
             "juara": [
                 {
@@ -624,17 +659,20 @@
                 {
                     "competition_id": 9,
                     "competition_name": "Pertolongan Pertama Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 12 A PPM",
                             "juri1_poin": 625,
                             "juri2_poin": 0,
+                            "waktu": "00:08:09",
                             "total_poin": 625
                         },
                         {
                             "team_name": "TIM 12 B PPM",
                             "juri1_poin": 495,
                             "juri2_poin": 0,
+                            "waktu": "00:09:09",
                             "total_poin": 495
                         }
                     ]
@@ -642,11 +680,13 @@
                 {
                     "competition_id": 8,
                     "competition_name": "Perawatan Keluarga Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 10 A PKM",
                             "juri1_poin": 505,
                             "juri2_poin": 0,
+                            "waktu": "00:11:23",
                             "total_poin": 505
                         }
                     ]
@@ -654,23 +694,23 @@
                 {
                     "competition_id": 14,
                     "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 5 A PM",
                             "juri1_poin": 95,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 95
                         },
                         {
                             "team_name": "TIM 5 B PM",
                             "juri1_poin": 145,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 145
                         }
                     ]
                 }
             ],
-            "total_semua": 1865,
             "ada_nilai": true,
             "juara": [
                 {
@@ -688,11 +728,13 @@
                 {
                     "competition_id": 9,
                     "competition_name": "Pertolongan Pertama Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 13 A PPM",
                             "juri1_poin": 625,
                             "juri2_poin": 0,
+                            "waktu": "00:10:10",
                             "total_poin": 625
                         }
                     ]
@@ -700,11 +742,13 @@
                 {
                     "competition_id": 8,
                     "competition_name": "Perawatan Keluarga Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 11 A PKM",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -712,17 +756,17 @@
                 {
                     "competition_id": 14,
                     "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 6 A PM",
                             "juri1_poin": 250,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 250
                         }
                     ]
                 }
             ],
-            "total_semua": 875,
             "ada_nilai": true,
             "juara": [
                 {
@@ -740,11 +784,13 @@
                 {
                     "competition_id": 9,
                     "competition_name": "Pertolongan Pertama Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 16 A PPM",
                             "juri1_poin": 590,
                             "juri2_poin": 0,
+                            "waktu": "00:07:07",
                             "total_poin": 590
                         }
                     ]
@@ -752,11 +798,13 @@
                 {
                     "competition_id": 8,
                     "competition_name": "Perawatan Keluarga Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 15 A PKM",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -764,11 +812,12 @@
                 {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 1 A SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -776,11 +825,12 @@
                 {
                     "competition_id": 10,
                     "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 10 A TPM",
                             "juri1_poin": 320,
-                            "juri2_poin": 0,
+                            "waktu": "04:25:96",
                             "total_poin": 320
                         }
                     ]
@@ -788,17 +838,17 @@
                 {
                     "competition_id": 14,
                     "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 8 A PM",
                             "juri1_poin": 195,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 195
                         }
                     ]
                 }
             ],
-            "total_semua": 1105,
             "ada_nilai": true,
             "juara": [
                 {
@@ -816,17 +866,20 @@
                 {
                     "competition_id": 9,
                     "competition_name": "Pertolongan Pertama Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 4 A PPM",
                             "juri1_poin": 590,
                             "juri2_poin": 0,
+                            "waktu": "00:11:01",
                             "total_poin": 590
                         },
                         {
                             "team_name": "TIM 4 B PPM",
                             "juri1_poin": 625,
                             "juri2_poin": 0,
+                            "waktu": "00:10:01",
                             "total_poin": 625
                         }
                     ]
@@ -834,11 +887,13 @@
                 {
                     "competition_id": 8,
                     "competition_name": "Perawatan Keluarga Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 9 A PKM",
                             "juri1_poin": 700,
                             "juri2_poin": 0,
+                            "waktu": "00:09:50",
                             "total_poin": 700
                         }
                     ]
@@ -846,11 +901,12 @@
                 {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 14 A SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -858,11 +914,12 @@
                 {
                     "competition_id": 10,
                     "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 14 A TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -870,29 +927,29 @@
                 {
                     "competition_id": 14,
                     "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 16 A PM",
                             "juri1_poin": 155,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 155
                         },
                         {
                             "team_name": "TIM 16 B PM",
                             "juri1_poin": 160,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 160
                         },
                         {
                             "team_name": "TIM 16 C PM",
                             "juri1_poin": 185,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 185
                         }
                     ]
                 }
             ],
-            "total_semua": 2415,
             "ada_nilai": true,
             "juara": [
                 {
@@ -910,11 +967,13 @@
                 {
                     "competition_id": 9,
                     "competition_name": "Pertolongan Pertama Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 18 A PPM",
                             "juri1_poin": 545,
                             "juri2_poin": 0,
+                            "waktu": "00:12:01",
                             "total_poin": 545
                         }
                     ]
@@ -922,11 +981,13 @@
                 {
                     "competition_id": 8,
                     "competition_name": "Perawatan Keluarga Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 6 A PKM",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -934,11 +995,12 @@
                 {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 10 A SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -946,23 +1008,24 @@
                 {
                     "competition_id": 10,
                     "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 21 A TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 21 B TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 21 C TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -970,17 +1033,17 @@
                 {
                     "competition_id": 14,
                     "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 3 A PM",
                             "juri1_poin": 125,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 125
                         }
                     ]
                 }
             ],
-            "total_semua": 670,
             "ada_nilai": true,
             "juara": [
                 {
@@ -998,11 +1061,13 @@
                 {
                     "competition_id": 9,
                     "competition_name": "Pertolongan Pertama Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 9 A PPM",
                             "juri1_poin": 675,
                             "juri2_poin": 0,
+                            "waktu": "00:11:07",
                             "total_poin": 675
                         }
                     ]
@@ -1010,11 +1075,13 @@
                 {
                     "competition_id": 8,
                     "competition_name": "Perawatan Keluarga Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 16 A PKM",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -1022,11 +1089,12 @@
                 {
                     "competition_id": 10,
                     "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 4 A TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -1034,17 +1102,17 @@
                 {
                     "competition_id": 14,
                     "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 11 A PM",
                             "juri1_poin": 240,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 240
                         }
                     ]
                 }
             ],
-            "total_semua": 915,
             "ada_nilai": true,
             "juara": [
                 {
@@ -1062,17 +1130,20 @@
                 {
                     "competition_id": 9,
                     "competition_name": "Pertolongan Pertama Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 26 A PPM",
                             "juri1_poin": 700,
                             "juri2_poin": 0,
+                            "waktu": "00:09:09",
                             "total_poin": 700
                         },
                         {
                             "team_name": "TIM 26 B PPM",
                             "juri1_poin": 760,
                             "juri2_poin": 0,
+                            "waktu": "00:10:05",
                             "total_poin": 760
                         }
                     ]
@@ -1080,17 +1151,20 @@
                 {
                     "competition_id": 8,
                     "competition_name": "Perawatan Keluarga Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 17 A PKM",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 17 B PKM",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -1098,17 +1172,18 @@
                 {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 5 A SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 5 B SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -1116,17 +1191,18 @@
                 {
                     "competition_id": 10,
                     "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 8 A TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 8 B TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -1134,23 +1210,23 @@
                 {
                     "competition_id": 14,
                     "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 15 A PM",
                             "juri1_poin": 155,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 155
                         },
                         {
                             "team_name": "TIM 15 B PM",
                             "juri1_poin": 185,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 185
                         }
                     ]
                 }
             ],
-            "total_semua": 1800,
             "ada_nilai": true,
             "juara": [
                 {
@@ -1168,17 +1244,20 @@
                 {
                     "competition_id": 9,
                     "competition_name": "Pertolongan Pertama Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 22 A PPM",
                             "juri1_poin": 585,
                             "juri2_poin": 0,
+                            "waktu": "00:08:02",
                             "total_poin": 585
                         },
                         {
                             "team_name": "TIM 22 B PPM",
                             "juri1_poin": 515,
                             "juri2_poin": 0,
+                            "waktu": "00:09:06",
                             "total_poin": 515
                         }
                     ]
@@ -1186,11 +1265,13 @@
                 {
                     "competition_id": 8,
                     "competition_name": "Perawatan Keluarga Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 2 A PKM",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -1198,11 +1279,12 @@
                 {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 4 A SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -1210,17 +1292,18 @@
                 {
                     "competition_id": 10,
                     "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 20 A TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 20 B TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -1228,23 +1311,23 @@
                 {
                     "competition_id": 14,
                     "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 2 A PM",
                             "juri1_poin": 200,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 200
                         },
                         {
                             "team_name": "TIM 2 B PM",
                             "juri1_poin": 200,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 200
                         }
                     ]
                 }
             ],
-            "total_semua": 1500,
             "ada_nilai": true,
             "juara": [
                 {
@@ -1262,11 +1345,13 @@
                 {
                     "competition_id": 9,
                     "competition_name": "Pertolongan Pertama Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 3 A PPM",
                             "juri1_poin": 495,
                             "juri2_poin": 0,
+                            "waktu": "00:08:07",
                             "total_poin": 495
                         }
                     ]
@@ -1274,11 +1359,13 @@
                 {
                     "competition_id": 8,
                     "competition_name": "Perawatan Keluarga Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 20 A PKM",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -1286,11 +1373,12 @@
                 {
                     "competition_id": 10,
                     "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 5 A TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -1298,17 +1386,17 @@
                 {
                     "competition_id": 14,
                     "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 14 A PM",
                             "juri1_poin": 150,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 150
                         }
                     ]
                 }
             ],
-            "total_semua": 645,
             "ada_nilai": true,
             "juara": [
                 {
@@ -1326,11 +1414,13 @@
                 {
                     "competition_id": 9,
                     "competition_name": "Pertolongan Pertama Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 15 A PPM",
                             "juri1_poin": 700,
                             "juri2_poin": 0,
+                            "waktu": "00:09:02",
                             "total_poin": 700
                         }
                     ]
@@ -1338,11 +1428,13 @@
                 {
                     "competition_id": 8,
                     "competition_name": "Perawatan Keluarga Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 18 A PKM",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -1350,17 +1442,17 @@
                 {
                     "competition_id": 10,
                     "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 22 A TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
                 }
             ],
-            "total_semua": 700,
             "ada_nilai": true,
             "juara": [
                 {
@@ -1378,17 +1470,20 @@
                 {
                     "competition_id": 9,
                     "competition_name": "Pertolongan Pertama Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 2 A PPM",
                             "juri1_poin": 535,
                             "juri2_poin": 0,
+                            "waktu": "00:11:00",
                             "total_poin": 535
                         },
                         {
                             "team_name": "TIM 2 B PPM",
                             "juri1_poin": 530,
                             "juri2_poin": 0,
+                            "waktu": "00:11:06",
                             "total_poin": 530
                         }
                     ]
@@ -1396,11 +1491,13 @@
                 {
                     "competition_id": 8,
                     "competition_name": "Perawatan Keluarga Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 21 A PKM",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -1408,11 +1505,12 @@
                 {
                     "competition_id": 10,
                     "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 16 A TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -1420,17 +1518,17 @@
                 {
                     "competition_id": 14,
                     "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 21 A PM",
                             "juri1_poin": 115,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 115
                         }
                     ]
                 }
             ],
-            "total_semua": 1180,
             "ada_nilai": true,
             "juara": [
                 {
@@ -1448,17 +1546,20 @@
                 {
                     "competition_id": 9,
                     "competition_name": "Pertolongan Pertama Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 7 A PPM",
                             "juri1_poin": 430,
                             "juri2_poin": 0,
+                            "waktu": "00:08:00",
                             "total_poin": 430
                         },
                         {
                             "team_name": "TIM 7 B PPM",
                             "juri1_poin": 525,
                             "juri2_poin": 0,
+                            "waktu": "00:10:04",
                             "total_poin": 525
                         }
                     ]
@@ -1466,17 +1567,20 @@
                 {
                     "competition_id": 8,
                     "competition_name": "Perawatan Keluarga Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 1 A PKM",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 1 B PKM",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -1484,29 +1588,29 @@
                 {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 7 A SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 7 B SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 7 C SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
                 }
             ],
-            "total_semua": 955,
             "ada_nilai": true,
             "juara": [
                 {
@@ -1524,17 +1628,20 @@
                 {
                     "competition_id": 9,
                     "competition_name": "Pertolongan Pertama Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 11 A PPM",
                             "juri1_poin": 675,
                             "juri2_poin": 0,
+                            "waktu": "00:09:01",
                             "total_poin": 675
                         },
                         {
                             "team_name": "TIM 11 B PPM",
                             "juri1_poin": 575,
                             "juri2_poin": 0,
+                            "waktu": "00:11:06",
                             "total_poin": 575
                         }
                     ]
@@ -1542,17 +1649,18 @@
                 {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 8 A SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 8 B SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -1560,23 +1668,23 @@
                 {
                     "competition_id": 10,
                     "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 1 A TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 1 B TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
                 }
             ],
-            "total_semua": 1250,
             "ada_nilai": true,
             "juara": [
                 {
@@ -1594,17 +1702,20 @@
                 {
                     "competition_id": 9,
                     "competition_name": "Pertolongan Pertama Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 27 A PPM",
                             "juri1_poin": 515,
                             "juri2_poin": 0,
+                            "waktu": "00:11:05",
                             "total_poin": 515
                         },
                         {
                             "team_name": "TIM 27 B PPM",
                             "juri1_poin": 525,
                             "juri2_poin": 0,
+                            "waktu": "00:10:10",
                             "total_poin": 525
                         }
                     ]
@@ -1612,23 +1723,24 @@
                 {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 9 A SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 9 B SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 9 C SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -1636,23 +1748,24 @@
                 {
                     "competition_id": 10,
                     "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 2 A TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 2 B TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 2 C TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -1660,17 +1773,17 @@
                 {
                     "competition_id": 14,
                     "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 9 A PM",
                             "juri1_poin": 145,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 145
                         }
                     ]
                 }
             ],
-            "total_semua": 1185,
             "ada_nilai": true,
             "juara": [
                 {
@@ -1688,17 +1801,20 @@
                 {
                     "competition_id": 9,
                     "competition_name": "Pertolongan Pertama Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 8 A PPM",
                             "juri1_poin": 535,
                             "juri2_poin": 0,
+                            "waktu": "00:09:09",
                             "total_poin": 535
                         },
                         {
                             "team_name": "TIM 8 B PPM",
                             "juri1_poin": 575,
                             "juri2_poin": 0,
+                            "waktu": "00:07:09",
                             "total_poin": 575
                         }
                     ]
@@ -1706,11 +1822,13 @@
                 {
                     "competition_id": 8,
                     "competition_name": "Perawatan Keluarga Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 7 A PKM",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -1718,17 +1836,18 @@
                 {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 15 A SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 15 B SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -1736,17 +1855,18 @@
                 {
                     "competition_id": 10,
                     "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 3 A TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 3 B TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -1754,23 +1874,23 @@
                 {
                     "competition_id": 14,
                     "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 4 A PM",
                             "juri1_poin": 125,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 125
                         },
                         {
                             "team_name": "TIM 4 B PM",
                             "juri1_poin": 170,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 170
                         }
                     ]
                 }
             ],
-            "total_semua": 1405,
             "ada_nilai": true,
             "juara": [
                 {
@@ -1788,11 +1908,13 @@
                 {
                     "competition_id": 9,
                     "competition_name": "Pertolongan Pertama Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 21 A PPM",
                             "juri1_poin": 645,
                             "juri2_poin": 0,
+                            "waktu": "00:07:06",
                             "total_poin": 645
                         }
                     ]
@@ -1800,11 +1922,12 @@
                 {
                     "competition_id": 10,
                     "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 17 A TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -1812,17 +1935,17 @@
                 {
                     "competition_id": 14,
                     "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 7 A PM",
                             "juri1_poin": 170,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 170
                         }
                     ]
                 }
             ],
-            "total_semua": 815,
             "ada_nilai": true,
             "juara": [
                 {
@@ -1840,11 +1963,13 @@
                 {
                     "competition_id": 9,
                     "competition_name": "Pertolongan Pertama Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 23 A PPM",
                             "juri1_poin": 525,
                             "juri2_poin": 0,
+                            "waktu": "00:08:01",
                             "total_poin": 525
                         }
                     ]
@@ -1852,11 +1977,13 @@
                 {
                     "competition_id": 8,
                     "competition_name": "Perawatan Keluarga Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 8 A PKM",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -1864,11 +1991,12 @@
                 {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 3 A SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -1876,11 +2004,12 @@
                 {
                     "competition_id": 10,
                     "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 11 A TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -1888,17 +2017,17 @@
                 {
                     "competition_id": 14,
                     "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 13 A PM",
                             "juri1_poin": 145,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 145
                         }
                     ]
                 }
             ],
-            "total_semua": 670,
             "ada_nilai": true,
             "juara": [
                 {
@@ -1916,11 +2045,13 @@
                 {
                     "competition_id": 9,
                     "competition_name": "Pertolongan Pertama Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 28 A PPM",
                             "juri1_poin": 475,
                             "juri2_poin": 0,
+                            "waktu": "00:07:08",
                             "total_poin": 475
                         }
                     ]
@@ -1928,41 +2059,41 @@
                 {
                     "competition_id": 14,
                     "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 17 A PM",
                             "juri1_poin": 170,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 170
                         },
                         {
                             "team_name": "TIM 17 B PM",
                             "juri1_poin": 145,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 145
                         },
                         {
                             "team_name": "TIM 17 C PM",
                             "juri1_poin": 155,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 155
                         },
                         {
                             "team_name": "TIM 17 D PM",
                             "juri1_poin": 180,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 180
                         },
                         {
                             "team_name": "TIM 17 E PM",
                             "juri1_poin": 160,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 160
                         }
                     ]
                 }
             ],
-            "total_semua": 1285,
             "ada_nilai": true,
             "juara": [
                 {
@@ -1980,17 +2111,18 @@
                 {
                     "competition_id": 9,
                     "competition_name": "Pertolongan Pertama Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 6 A PPM",
                             "juri1_poin": 560,
                             "juri2_poin": 0,
+                            "waktu": "00:07:04",
                             "total_poin": 560
                         }
                     ]
                 }
             ],
-            "total_semua": 560,
             "ada_nilai": true
         },
         "UHKAB4": {
@@ -1999,23 +2131,25 @@
                 {
                     "competition_id": 9,
                     "competition_name": "Pertolongan Pertama Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 20 A PPM",
                             "juri1_poin": 535,
                             "juri2_poin": 0,
+                            "waktu": "00:08:04",
                             "total_poin": 535
                         },
                         {
                             "team_name": "TIM 20 B PPM",
                             "juri1_poin": 550,
                             "juri2_poin": 0,
+                            "waktu": "00:07:03",
                             "total_poin": 550
                         }
                     ]
                 }
             ],
-            "total_semua": 1085,
             "ada_nilai": true
         },
         "4RNXQR": {
@@ -2024,11 +2158,13 @@
                 {
                     "competition_id": 9,
                     "competition_name": "Pertolongan Pertama Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 25 A PPM",
                             "juri1_poin": 695,
                             "juri2_poin": 0,
+                            "waktu": "00:07:02",
                             "total_poin": 695
                         }
                     ]
@@ -2036,11 +2172,13 @@
                 {
                     "competition_id": 8,
                     "competition_name": "Perawatan Keluarga Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 3 A PKM",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -2048,11 +2186,12 @@
                 {
                     "competition_id": 10,
                     "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 23 A TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -2060,17 +2199,17 @@
                 {
                     "competition_id": 14,
                     "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 10 A PM",
                             "juri1_poin": 145,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 145
                         }
                     ]
                 }
             ],
-            "total_semua": 840,
             "ada_nilai": true,
             "juara": [
                 {
@@ -2088,11 +2227,13 @@
                 {
                     "competition_id": 9,
                     "competition_name": "Pertolongan Pertama Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 14 A PPM",
                             "juri1_poin": 545,
                             "juri2_poin": 0,
+                            "waktu": "00:09:05",
                             "total_poin": 545
                         }
                     ]
@@ -2100,11 +2241,13 @@
                 {
                     "competition_id": 8,
                     "competition_name": "Perawatan Keluarga Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 12 A PKM",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -2112,17 +2255,17 @@
                 {
                     "competition_id": 10,
                     "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 6 A TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
                 }
             ],
-            "total_semua": 545,
             "ada_nilai": true
         },
         "G2AQST": {
@@ -2131,11 +2274,13 @@
                 {
                     "competition_id": 8,
                     "competition_name": "Perawatan Keluarga Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 23 A PKM",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -2143,11 +2288,12 @@
                 {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 12 A SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -2155,11 +2301,12 @@
                 {
                     "competition_id": 10,
                     "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 19 A TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -2167,17 +2314,17 @@
                 {
                     "competition_id": 14,
                     "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 12 A PM",
                             "juri1_poin": 150,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 150
                         }
                     ]
                 }
             ],
-            "total_semua": 150,
             "ada_nilai": true,
             "juara": [
                 {
@@ -2195,17 +2342,20 @@
                 {
                     "competition_id": 8,
                     "competition_name": "Perawatan Keluarga Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 22 A PKM",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 22 B PKM",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -2213,35 +2363,36 @@
                 {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 6 A SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 6 B SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 6 C SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 6 D SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 6 E SRCM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -2249,65 +2400,66 @@
                 {
                     "competition_id": 10,
                     "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 7 A TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 7 B TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 7 C TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 7 D TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 7 E TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 7 F TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 7 G TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 7 H TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 7 I TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 7 J TPM",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -2315,17 +2467,17 @@
                 {
                     "competition_id": 14,
                     "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 20 A PM",
                             "juri1_poin": 140,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 140
                         }
                     ]
                 }
             ],
-            "total_semua": 140,
             "ada_nilai": true,
             "juara": [
                 {
@@ -2343,17 +2495,18 @@
                 {
                     "competition_id": 8,
                     "competition_name": "Perawatan Keluarga Madya",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 1A PKM",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
                 }
             ],
-            "total_semua": 0,
             "ada_nilai": true
         },
         "CWJT6T": {
@@ -2362,83 +2515,85 @@
                 {
                     "competition_id": 5,
                     "competition_name": "Tandu Putri Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 3 A TPW",
                             "juri1_poin": 325,
-                            "juri2_poin": 280,
-                            "total_poin": 605
+                            "waktu": "03:36:17",
+                            "total_poin": 325
                         },
                         {
                             "team_name": "TIM 3 B TPW",
                             "juri1_poin": 315,
-                            "juri2_poin": 297,
-                            "total_poin": 612
+                            "waktu": "04:03:12",
+                            "total_poin": 315
                         },
                         {
                             "team_name": "TIM 3 C TPW",
                             "juri1_poin": 310,
-                            "juri2_poin": 264,
-                            "total_poin": 574
+                            "waktu": "03:45:19",
+                            "total_poin": 310
                         },
                         {
                             "team_name": "TIM 3 D TPW",
                             "juri1_poin": 330,
-                            "juri2_poin": 269,
-                            "total_poin": 599
+                            "waktu": "03:14:19",
+                            "total_poin": 330
                         },
                         {
                             "team_name": "TIM 3 E TPW",
                             "juri1_poin": 340,
-                            "juri2_poin": 259,
-                            "total_poin": 599
+                            "waktu": "03:45:13",
+                            "total_poin": 340
                         },
                         {
                             "team_name": "TIM 3 F TPW",
                             "juri1_poin": 330,
-                            "juri2_poin": 248,
-                            "total_poin": 578
+                            "waktu": "04:05:13",
+                            "total_poin": 330
                         }
                     ]
                 },
                 {
                     "competition_id": 4,
                     "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 14 A PW",
                             "juri1_poin": 180,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 180
                         },
                         {
                             "team_name": "TIM 14 B PW",
                             "juri1_poin": 165,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 165
                         },
                         {
                             "team_name": "TIM 14 C PW",
                             "juri1_poin": 170,
-                            "juri2_poin": 0,
+                            "waktu": "01:59:00",
                             "total_poin": 170
                         },
                         {
                             "team_name": "TIM 14 D PW",
                             "juri1_poin": 250,
-                            "juri2_poin": 0,
+                            "waktu": "01:59:00",
                             "total_poin": 250
                         },
                         {
                             "team_name": "TIM 14 E PW",
                             "juri1_poin": 250,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 250
                         },
                         {
                             "team_name": "TIM 14 F PW",
                             "juri1_poin": 180,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 180
                         }
                     ]
@@ -2446,29 +2601,30 @@
                 {
                     "competition_id": 7,
                     "competition_name": "Smart Red Cross Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 12 A SRCW",
                             "juri1_poin": 100,
-                            "juri2_poin": 0,
+                            "waktu": "00:05:00",
                             "total_poin": 100
                         },
                         {
                             "team_name": "TIM 12 B SRCW",
                             "juri1_poin": 100,
-                            "juri2_poin": 0,
+                            "waktu": "00:04:00",
                             "total_poin": 100
                         },
                         {
                             "team_name": "TIM 12 C SRCW",
                             "juri1_poin": 100,
-                            "juri2_poin": 0,
+                            "waktu": "00:05:00",
                             "total_poin": 100
                         },
                         {
                             "team_name": "TIM 12 D SRCW",
                             "juri1_poin": 100,
-                            "juri2_poin": 0,
+                            "waktu": "00:07:00",
                             "total_poin": 100
                         }
                     ]
@@ -2476,65 +2632,68 @@
                 {
                     "competition_id": 6,
                     "competition_name": "Tandu Campuran Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 3 A TCW",
                             "juri1_poin": 325,
-                            "juri2_poin": 224,
-                            "total_poin": 549
+                            "waktu": "03:38:13",
+                            "total_poin": 325
                         },
                         {
                             "team_name": "TIM 3 B TCW",
                             "juri1_poin": 340,
-                            "juri2_poin": 252,
-                            "total_poin": 592
+                            "waktu": "03:41:15",
+                            "total_poin": 340
                         },
                         {
                             "team_name": "TIM 3 C TCW",
                             "juri1_poin": 325,
-                            "juri2_poin": 203,
-                            "total_poin": 528
+                            "waktu": "03:58:16",
+                            "total_poin": 325
                         },
                         {
                             "team_name": "TIM 3 D TCW",
                             "juri1_poin": 310,
-                            "juri2_poin": 235,
-                            "total_poin": 545
+                            "waktu": "03:45:13",
+                            "total_poin": 310
                         },
                         {
                             "team_name": "TIM 3 E TCW",
                             "juri1_poin": 325,
-                            "juri2_poin": 280,
-                            "total_poin": 605
+                            "waktu": "03:39:18",
+                            "total_poin": 325
                         },
                         {
                             "team_name": "TIM 3 F TCW",
                             "juri1_poin": 335,
-                            "juri2_poin": 275,
-                            "total_poin": 610
+                            "waktu": "03:29:18",
+                            "total_poin": 335
                         }
                     ]
                 },
                 {
                     "competition_id": 2,
                     "competition_name": "Pertolongan Pertama Wira",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 18 A PPW",
                             "juri1_poin": 1185,
                             "juri2_poin": 735,
+                            "waktu": "00:11:53",
                             "total_poin": 1920
                         },
                         {
                             "team_name": "TIM 18 B PPW",
                             "juri1_poin": 1225,
                             "juri2_poin": 710,
+                            "waktu": "00:11:53",
                             "total_poin": 1935
                         }
                     ]
                 }
             ],
-            "total_semua": 12446,
             "ada_nilai": true
         },
         "3UNH8F": {
@@ -2543,23 +2702,25 @@
                 {
                     "competition_id": 5,
                     "competition_name": "Tandu Putri Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 9 A TPW",
                             "juri1_poin": 330,
-                            "juri2_poin": 183,
-                            "total_poin": 513
+                            "waktu": "03:52:19",
+                            "total_poin": 330
                         }
                     ]
                 },
                 {
                     "competition_id": 4,
                     "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 12 A PW",
                             "juri1_poin": 180,
-                            "juri2_poin": 0,
+                            "waktu": "01:59:00",
                             "total_poin": 180
                         }
                     ]
@@ -2567,11 +2728,12 @@
                 {
                     "competition_id": 7,
                     "competition_name": "Smart Red Cross Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 2 A SRCW",
                             "juri1_poin": 100,
-                            "juri2_poin": 0,
+                            "waktu": "00:33:00",
                             "total_poin": 100
                         }
                     ]
@@ -2579,29 +2741,31 @@
                 {
                     "competition_id": 6,
                     "competition_name": "Tandu Campuran Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 12 A TCW",
                             "juri1_poin": 320,
-                            "juri2_poin": 225,
-                            "total_poin": 545
+                            "waktu": "03:28:12",
+                            "total_poin": 320
                         }
                     ]
                 },
                 {
                     "competition_id": 2,
                     "competition_name": "Pertolongan Pertama Wira",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 20 A PPW",
                             "juri1_poin": 1230,
                             "juri2_poin": 755,
+                            "waktu": "00:11:53",
                             "total_poin": 1985
                         }
                     ]
                 }
             ],
-            "total_semua": 3323,
             "ada_nilai": true
         },
         "CGRJRD": {
@@ -2610,29 +2774,31 @@
                 {
                     "competition_id": 5,
                     "competition_name": "Tandu Putri Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 14 A TPW",
                             "juri1_poin": 325,
-                            "juri2_poin": 263,
-                            "total_poin": 588
+                            "waktu": "03:42:19",
+                            "total_poin": 325
                         },
                         {
                             "team_name": "TIM 14 B TPW",
                             "juri1_poin": 320,
-                            "juri2_poin": 260,
-                            "total_poin": 580
+                            "waktu": "04:12:09",
+                            "total_poin": 320
                         }
                     ]
                 },
                 {
                     "competition_id": 4,
                     "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 8 A PW",
                             "juri1_poin": 250,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 250
                         }
                     ]
@@ -2640,17 +2806,18 @@
                 {
                     "competition_id": 7,
                     "competition_name": "Smart Red Cross Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 5 A SRCW",
                             "juri1_poin": 100,
-                            "juri2_poin": 0,
+                            "waktu": "00:07:00",
                             "total_poin": 100
                         },
                         {
                             "team_name": "TIM 5 B SRCW",
                             "juri1_poin": 100,
-                            "juri2_poin": 0,
+                            "waktu": "00:05:00",
                             "total_poin": 100
                         }
                     ]
@@ -2658,17 +2825,18 @@
                 {
                     "competition_id": 6,
                     "competition_name": "Tandu Campuran Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 6 A TCW",
                             "juri1_poin": 325,
-                            "juri2_poin": 250,
-                            "total_poin": 575
+                            "waktu": "03:28:15",
+                            "total_poin": 325
                         },
                         {
                             "team_name": "TIM 6 B TCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -2676,17 +2844,18 @@
                 {
                     "competition_id": 2,
                     "competition_name": "Pertolongan Pertama Wira",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 21 A PPW",
                             "juri1_poin": 1230,
                             "juri2_poin": 740,
+                            "waktu": "00:11:53",
                             "total_poin": 1970
                         }
                     ]
                 }
             ],
-            "total_semua": 4163,
             "ada_nilai": true
         },
         "WPPPLX": {
@@ -2695,17 +2864,18 @@
                 {
                     "competition_id": 5,
                     "competition_name": "Tandu Putri Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 2 A TPW",
                             "juri1_poin": 335,
-                            "juri2_poin": 0,
+                            "waktu": "02:59:18",
                             "total_poin": 335
                         },
                         {
                             "team_name": "TIM 2 B TPW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -2713,11 +2883,12 @@
                 {
                     "competition_id": 4,
                     "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 5 A PW",
                             "juri1_poin": 240,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 240
                         }
                     ]
@@ -2725,11 +2896,12 @@
                 {
                     "competition_id": 7,
                     "competition_name": "Smart Red Cross Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 6 A SRCW",
                             "juri1_poin": 100,
-                            "juri2_poin": 0,
+                            "waktu": "00:07:00",
                             "total_poin": 100
                         }
                     ]
@@ -2737,11 +2909,12 @@
                 {
                     "competition_id": 6,
                     "competition_name": "Tandu Campuran Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 8 A TCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -2749,23 +2922,25 @@
                 {
                     "competition_id": 2,
                     "competition_name": "Pertolongan Pertama Wira",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 14 A PPW",
                             "juri1_poin": 1230,
                             "juri2_poin": 1205,
+                            "waktu": "00:12:00",
                             "total_poin": 2435
                         },
                         {
                             "team_name": "TIM 14 B PPW",
                             "juri1_poin": 1160,
                             "juri2_poin": 1230,
+                            "waktu": "00:10:52",
                             "total_poin": 2390
                         }
                     ]
                 }
             ],
-            "total_semua": 5500,
             "ada_nilai": true
         },
         "SJ2R5E": {
@@ -2774,11 +2949,12 @@
                 {
                     "competition_id": 5,
                     "competition_name": "Tandu Putri Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 5 A TPW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -2786,11 +2962,12 @@
                 {
                     "competition_id": 4,
                     "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 18 A PW",
                             "juri1_poin": 245,
-                            "juri2_poin": 0,
+                            "waktu": "01:58:00",
                             "total_poin": 245
                         }
                     ]
@@ -2798,17 +2975,18 @@
                 {
                     "competition_id": 7,
                     "competition_name": "Smart Red Cross Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 10 A SRCW",
                             "juri1_poin": 100,
-                            "juri2_poin": 0,
+                            "waktu": "00:06:00",
                             "total_poin": 100
                         },
                         {
                             "team_name": "TIM 10 B SRCW",
                             "juri1_poin": 100,
-                            "juri2_poin": 0,
+                            "waktu": "00:10:00",
                             "total_poin": 100
                         }
                     ]
@@ -2816,17 +2994,18 @@
                 {
                     "competition_id": 2,
                     "competition_name": "Pertolongan Pertama Wira",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 24 A PPW",
                             "juri1_poin": 1230,
                             "juri2_poin": 1230,
+                            "waktu": "00:09:20",
                             "total_poin": 2460
                         }
                     ]
                 }
             ],
-            "total_semua": 2905,
             "ada_nilai": true
         },
         "CWEUBS": {
@@ -2835,11 +3014,12 @@
                 {
                     "competition_id": 5,
                     "competition_name": "Tandu Putri Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 10 A TPW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -2847,11 +3027,12 @@
                 {
                     "competition_id": 4,
                     "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 15 A PW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -2859,11 +3040,12 @@
                 {
                     "competition_id": 7,
                     "competition_name": "Smart Red Cross Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 7 A SRCW",
                             "juri1_poin": 100,
-                            "juri2_poin": 0,
+                            "waktu": "00:08:00",
                             "total_poin": 100
                         }
                     ]
@@ -2871,11 +3053,12 @@
                 {
                     "competition_id": 6,
                     "competition_name": "Tandu Campuran Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 11 A TCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -2883,17 +3066,18 @@
                 {
                     "competition_id": 2,
                     "competition_name": "Pertolongan Pertama Wira",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 9 A PPW",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
                 }
             ],
-            "total_semua": 100,
             "ada_nilai": true
         },
         "JG8YJK": {
@@ -2902,11 +3086,12 @@
                 {
                     "competition_id": 5,
                     "competition_name": "Tandu Putri Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 1 A TPW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -2914,11 +3099,12 @@
                 {
                     "competition_id": 4,
                     "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 9 A PW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -2926,11 +3112,12 @@
                 {
                     "competition_id": 7,
                     "competition_name": "Smart Red Cross Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 17 A SRCW",
                             "juri1_poin": 100,
-                            "juri2_poin": 0,
+                            "waktu": "00:09:00",
                             "total_poin": 100
                         }
                     ]
@@ -2938,11 +3125,12 @@
                 {
                     "competition_id": 6,
                     "competition_name": "Tandu Campuran Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 16 A TCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -2950,17 +3138,18 @@
                 {
                     "competition_id": 2,
                     "competition_name": "Pertolongan Pertama Wira",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 17 A PPW",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
                 }
             ],
-            "total_semua": 100,
             "ada_nilai": true
         },
         "G7EXVX": {
@@ -2969,11 +3158,12 @@
                 {
                     "competition_id": 5,
                     "competition_name": "Tandu Putri Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 15 A TPW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -2981,11 +3171,12 @@
                 {
                     "competition_id": 4,
                     "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 10 A PW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -2993,11 +3184,12 @@
                 {
                     "competition_id": 7,
                     "competition_name": "Smart Red Cross Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 3 A SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3005,11 +3197,12 @@
                 {
                     "competition_id": 6,
                     "competition_name": "Tandu Campuran Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 7 A TCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3017,23 +3210,25 @@
                 {
                     "competition_id": 2,
                     "competition_name": "Pertolongan Pertama Wira",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 16 A PPW",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 16 B PPW",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
                 }
             ],
-            "total_semua": 0,
             "ada_nilai": true
         },
         "JMS8NA": {
@@ -3042,11 +3237,12 @@
                 {
                     "competition_id": 5,
                     "competition_name": "Tandu Putri Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 4 A TPW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3054,11 +3250,12 @@
                 {
                     "competition_id": 4,
                     "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 13 A PW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3066,11 +3263,12 @@
                 {
                     "competition_id": 7,
                     "competition_name": "Smart Red Cross Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 16 A SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3078,11 +3276,12 @@
                 {
                     "competition_id": 6,
                     "competition_name": "Tandu Campuran Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 14 A TCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3090,17 +3289,18 @@
                 {
                     "competition_id": 2,
                     "competition_name": "Pertolongan Pertama Wira",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 13 A PPW",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
                 }
             ],
-            "total_semua": 0,
             "ada_nilai": true
         },
         "ZSMZC3": {
@@ -3109,23 +3309,24 @@
                 {
                     "competition_id": 5,
                     "competition_name": "Tandu Putri Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 12 A TPW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 12 B TPW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 12 C TPW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3133,35 +3334,36 @@
                 {
                     "competition_id": 4,
                     "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 11 A PW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 11 B PW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 11 C PW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 11 D PW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 11 E PW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3169,41 +3371,42 @@
                 {
                     "competition_id": 7,
                     "competition_name": "Smart Red Cross Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 1 A SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 1 B SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 1 C SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 1 D SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 1 E SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 1 F SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3211,41 +3414,41 @@
                 {
                     "competition_id": 6,
                     "competition_name": "Tandu Campuran Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 18 A TCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 18 B TCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 18 C TCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 18 D TCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 18 E TCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
                 }
             ],
-            "total_semua": 0,
             "ada_nilai": true
         },
         "UNNE2R": {
@@ -3254,83 +3457,84 @@
                 {
                     "competition_id": 5,
                     "competition_name": "Tandu Putri Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 6 A TPW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 6 B TPW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 6 C TPW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 6 D TPW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 6 E TPW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 6 F TPW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 6 G TPW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 6 H TPW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 6 I TPW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 6 J TPW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 6 K TPW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 6 L TPW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 6 M TPW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3338,11 +3542,12 @@
                 {
                     "competition_id": 4,
                     "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 1 A PW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3350,41 +3555,42 @@
                 {
                     "competition_id": 7,
                     "competition_name": "Smart Red Cross Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 4 A SRCW",
                             "juri1_poin": 100,
-                            "juri2_poin": 0,
+                            "waktu": "00:05:00",
                             "total_poin": 100
                         },
                         {
                             "team_name": "TIM 4 B SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 4 C SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 4 D SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 4 E SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 4 F SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3392,11 +3598,12 @@
                 {
                     "competition_id": 6,
                     "competition_name": "Tandu Campuran Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 10 A TCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3404,23 +3611,25 @@
                 {
                     "competition_id": 2,
                     "competition_name": "Pertolongan Pertama Wira",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 12 A PPW",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 12 B PPW",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
                 }
             ],
-            "total_semua": 100,
             "ada_nilai": true
         },
         "ZCRTA4": {
@@ -3429,23 +3638,24 @@
                 {
                     "competition_id": 5,
                     "competition_name": "Tandu Putri Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 13 A TPW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 13 B TPW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 13 C TPW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3453,17 +3663,18 @@
                 {
                     "competition_id": 4,
                     "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 16 A PW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 16 B PW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3471,17 +3682,18 @@
                 {
                     "competition_id": 7,
                     "competition_name": "Smart Red Cross Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 19 A SRCW",
                             "juri1_poin": 100,
-                            "juri2_poin": 0,
+                            "waktu": "00:17:00",
                             "total_poin": 100
                         },
                         {
                             "team_name": "TIM 19 B SRCW",
                             "juri1_poin": 100,
-                            "juri2_poin": 0,
+                            "waktu": "00:06:00",
                             "total_poin": 100
                         }
                     ]
@@ -3489,11 +3701,12 @@
                 {
                     "competition_id": 6,
                     "competition_name": "Tandu Campuran Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 13 A TCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3501,23 +3714,25 @@
                 {
                     "competition_id": 2,
                     "competition_name": "Pertolongan Pertama Wira",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 22 A PPW",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 22 B PPW",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
                 }
             ],
-            "total_semua": 200,
             "ada_nilai": true
         },
         "55V3PC": {
@@ -3526,11 +3741,12 @@
                 {
                     "competition_id": 5,
                     "competition_name": "Tandu Putri Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 8 A TPW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3538,11 +3754,12 @@
                 {
                     "competition_id": 4,
                     "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 7 A PW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3550,11 +3767,12 @@
                 {
                     "competition_id": 7,
                     "competition_name": "Smart Red Cross Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 14 A SRCW",
                             "juri1_poin": 100,
-                            "juri2_poin": 0,
+                            "waktu": "00:07:00",
                             "total_poin": 100
                         }
                     ]
@@ -3562,11 +3780,12 @@
                 {
                     "competition_id": 6,
                     "competition_name": "Tandu Campuran Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 17 A TCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3574,17 +3793,18 @@
                 {
                     "competition_id": 2,
                     "competition_name": "Pertolongan Pertama Wira",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 23 A PPW",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
                 }
             ],
-            "total_semua": 100,
             "ada_nilai": true
         },
         "PC9N6Q": {
@@ -3593,11 +3813,12 @@
                 {
                     "competition_id": 5,
                     "competition_name": "Tandu Putri Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 7 A TPW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3605,11 +3826,12 @@
                 {
                     "competition_id": 4,
                     "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 3 A PW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3617,23 +3839,24 @@
                 {
                     "competition_id": 7,
                     "competition_name": "Smart Red Cross Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 18 A SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 18 B SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 18 C SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3641,11 +3864,12 @@
                 {
                     "competition_id": 6,
                     "competition_name": "Tandu Campuran Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 15 A TCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3653,23 +3877,25 @@
                 {
                     "competition_id": 2,
                     "competition_name": "Pertolongan Pertama Wira",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 6 A PPW",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 6 B PPW",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
                 }
             ],
-            "total_semua": 0,
             "ada_nilai": true
         },
         "7HQPT4": {
@@ -3678,11 +3904,12 @@
                 {
                     "competition_id": 5,
                     "competition_name": "Tandu Putri Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 11 A TPW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3690,11 +3917,12 @@
                 {
                     "competition_id": 4,
                     "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 6 A PW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3702,11 +3930,12 @@
                 {
                     "competition_id": 7,
                     "competition_name": "Smart Red Cross Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 13 A SRCW",
                             "juri1_poin": 100,
-                            "juri2_poin": 0,
+                            "waktu": "00:08:00",
                             "total_poin": 100
                         }
                     ]
@@ -3714,11 +3943,12 @@
                 {
                     "competition_id": 6,
                     "competition_name": "Tandu Campuran Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 9 A TCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3726,17 +3956,18 @@
                 {
                     "competition_id": 2,
                     "competition_name": "Pertolongan Pertama Wira",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 1 A PPW",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
                 }
             ],
-            "total_semua": 100,
             "ada_nilai": true
         },
         "99245D": {
@@ -3745,11 +3976,12 @@
                 {
                     "competition_id": 4,
                     "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 17 A PW",
                             "juri1_poin": 195,
-                            "juri2_poin": 0,
+                            "waktu": "01:59:00",
                             "total_poin": 195
                         }
                     ]
@@ -3757,11 +3989,12 @@
                 {
                     "competition_id": 6,
                     "competition_name": "Tandu Campuran Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 2 A TCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3769,17 +4002,18 @@
                 {
                     "competition_id": 2,
                     "competition_name": "Pertolongan Pertama Wira",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 3 A PPW",
                             "juri1_poin": 1040,
                             "juri2_poin": 765,
+                            "waktu": "00:12:50",
                             "total_poin": 1805
                         }
                     ]
                 }
             ],
-            "total_semua": 2000,
             "ada_nilai": true
         },
         "Z2QJ7Z": {
@@ -3788,11 +4022,12 @@
                 {
                     "competition_id": 4,
                     "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 4 A PW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3800,11 +4035,12 @@
                 {
                     "competition_id": 7,
                     "competition_name": "Smart Red Cross Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 15 A SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3812,23 +4048,25 @@
                 {
                     "competition_id": 2,
                     "competition_name": "Pertolongan Pertama Wira",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 15 A PPW",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 15 B PPW",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
                 }
             ],
-            "total_semua": 0,
             "ada_nilai": true
         },
         "BEWZG8": {
@@ -3837,11 +4075,12 @@
                 {
                     "competition_id": 4,
                     "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 2 A PW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3849,11 +4088,12 @@
                 {
                     "competition_id": 6,
                     "competition_name": "Tandu Campuran Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 5 A TCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3861,17 +4101,18 @@
                 {
                     "competition_id": 2,
                     "competition_name": "Pertolongan Pertama Wira",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 2 A PPW",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
                 }
             ],
-            "total_semua": 0,
             "ada_nilai": true
         },
         "CSLM6Y": {
@@ -3880,29 +4121,30 @@
                 {
                     "competition_id": 7,
                     "competition_name": "Smart Red Cross Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 11 A SRCW",
                             "juri1_poin": 100,
-                            "juri2_poin": 0,
+                            "waktu": "00:07:00",
                             "total_poin": 100
                         },
                         {
                             "team_name": "TIM 11 B SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 11 C SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 11 D SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3910,41 +4152,44 @@
                 {
                     "competition_id": 6,
                     "competition_name": "Tandu Campuran Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 4 A TCW",
                             "juri1_poin": 335,
-                            "juri2_poin": 243,
-                            "total_poin": 578
+                            "waktu": "04:05:12",
+                            "total_poin": 335
                         },
                         {
                             "team_name": "TIM 4 B TCW",
                             "juri1_poin": 330,
-                            "juri2_poin": 217,
-                            "total_poin": 547
+                            "waktu": "03:28:09",
+                            "total_poin": 330
                         }
                     ]
                 },
                 {
                     "competition_id": 2,
                     "competition_name": "Pertolongan Pertama Wira",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 10 A PPW",
                             "juri1_poin": 925,
                             "juri2_poin": 785,
+                            "waktu": "00:11:53",
                             "total_poin": 1710
                         },
                         {
                             "team_name": "TIM 10 B PPW",
                             "juri1_poin": 890,
                             "juri2_poin": 745,
+                            "waktu": "00:11:53",
                             "total_poin": 1635
                         }
                     ]
                 }
             ],
-            "total_semua": 4570,
             "ada_nilai": true
         },
         "BNQDZZ": {
@@ -3953,11 +4198,12 @@
                 {
                     "competition_id": 7,
                     "competition_name": "Smart Red Cross Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 8 A SRCW",
                             "juri1_poin": 100,
-                            "juri2_poin": 0,
+                            "waktu": "00:05:00",
                             "total_poin": 100
                         }
                     ]
@@ -3965,11 +4211,12 @@
                 {
                     "competition_id": 6,
                     "competition_name": "Tandu Campuran Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 1 A TCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -3977,17 +4224,18 @@
                 {
                     "competition_id": 2,
                     "competition_name": "Pertolongan Pertama Wira",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 7 A PPW",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
                 }
             ],
-            "total_semua": 100,
             "ada_nilai": true
         },
         "44ELPX": {
@@ -3996,23 +4244,24 @@
                 {
                     "competition_id": 7,
                     "competition_name": "Smart Red Cross Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 20 A SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 20 B SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 20 C SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -4020,23 +4269,25 @@
                 {
                     "competition_id": 2,
                     "competition_name": "Pertolongan Pertama Wira",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 8 A PPW",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 8 B PPW",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
                 }
             ],
-            "total_semua": 0,
             "ada_nilai": true
         },
         "DK2EGG": {
@@ -4045,95 +4296,96 @@
                 {
                     "competition_id": 7,
                     "competition_name": "Smart Red Cross Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 21 A SRCW",
                             "juri1_poin": 50,
-                            "juri2_poin": 0,
+                            "waktu": "00:06:00",
                             "total_poin": 50
                         },
                         {
                             "team_name": "TIM 21 B SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 21 C SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 21 D SRCW",
                             "juri1_poin": 100,
-                            "juri2_poin": 0,
+                            "waktu": "00:06:00",
                             "total_poin": 100
                         },
                         {
                             "team_name": "TIM 21 E SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 21 F SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 21 G SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 21 H SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 21 I SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 21 J SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 21 K SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 21 L SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 21 M SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 21 N SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 21 O SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -4141,17 +4393,18 @@
                 {
                     "competition_id": 2,
                     "competition_name": "Pertolongan Pertama Wira",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 11 A PPW",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
                 }
             ],
-            "total_semua": 150,
             "ada_nilai": true
         },
         "QU8TXN": {
@@ -4160,29 +4413,30 @@
                 {
                     "competition_id": 7,
                     "competition_name": "Smart Red Cross Wira",
+                    "jumlah_juri": 1,
                     "teams": [
                         {
                             "team_name": "TIM 9 A SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 9 B SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 9 C SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 9 D SRCW",
                             "juri1_poin": 0,
-                            "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
@@ -4190,23 +4444,25 @@
                 {
                     "competition_id": 2,
                     "competition_name": "Pertolongan Pertama Wira",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 5 A PPW",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         },
                         {
                             "team_name": "TIM 5 B PPW",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
                 }
             ],
-            "total_semua": 0,
             "ada_nilai": true
         },
         "4VJTP7": {
@@ -4215,17 +4471,18 @@
                 {
                     "competition_id": 2,
                     "competition_name": "Pertolongan Pertama Wira",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 19 A PPW",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
                 }
             ],
-            "total_semua": 0,
             "ada_nilai": true
         },
         "GLM4CF": {
@@ -4234,17 +4491,18 @@
                 {
                     "competition_id": 2,
                     "competition_name": "Pertolongan Pertama Wira",
+                    "jumlah_juri": 2,
                     "teams": [
                         {
                             "team_name": "TIM 4 A PPW",
                             "juri1_poin": 0,
                             "juri2_poin": 0,
+                            "waktu": "-",
                             "total_poin": 0
                         }
                     ]
                 }
             ],
-            "total_semua": 0,
             "ada_nilai": true
         }
     }
