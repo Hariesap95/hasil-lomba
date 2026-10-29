@@ -196,6 +196,7 @@
   th:first-child, td:first-child { text-align: left; padding-left: 0; }
   th { color: var(--muted); font-weight: 600; font-size: .85rem; }
   td:last-child { font-weight: 700; color: var(--wine); padding-right: 0; }
+  td.waktu { white-space: nowrap; }
   tbody tr:last-child td { border-bottom: none; }
 
   @media (prefers-reduced-motion: reduce) {
@@ -233,7 +234,6 @@
     <div class="school-head">
       <h2 id="schoolName"></h2>
       <div class="school-meta">
-        <div class="total-box">Total nilai <strong id="totalSemua">0</strong></div>
         <div class="updated">Diperbarui <span id="generatedAt"></span></div>
       </div>
     </div>
@@ -286,10 +286,6 @@
 
       const mataLomba = school.mata_lomba || [];
       const adaNilai = school.ada_nilai !== false && data.ada_nilai !== false;
-
-      // Total hanya relevan bila nilai sudah diumumkan dan sekolah punya mata lomba
-      document.querySelector('.total-box').style.display = (adaNilai && mataLomba.length) ? '' : 'none';
-      document.getElementById('totalSemua').textContent = school.total_semua;
 
       renderLomba(mataLomba, adaNilai);
 
@@ -373,8 +369,13 @@
       const wrap = document.createElement('div');
       wrap.className = 'table-scroll';
       const table = document.createElement('table');
+      // Jumlah juri mengikuti pengaturan mata lomba (1 atau 2).
+      // Data lama tanpa field jumlah_juri: dianggap 2 bila ada juri2_poin.
+      const duaJuri = ml.jumlah_juri != null
+        ? Number(ml.jumlah_juri) >= 2
+        : (ml.teams || []).some(function (t) { return t.juri2_poin != null; });
       table.innerHTML = adaNilai
-        ? '<thead><tr><th>Tim</th><th>Juri 1</th><th>Juri 2</th><th>Total</th></tr></thead>'
+        ? '<thead><tr><th>Tim</th><th>Juri 1</th>' + (duaJuri ? '<th>Juri 2</th>' : '') + '<th>Waktu</th><th>Total</th></tr></thead>'
         : '<thead><tr><th>Tim</th></tr></thead>';
       const tbody = document.createElement('tbody');
       (ml.teams || []).forEach(function (t) {
@@ -382,7 +383,8 @@
         tr.innerHTML = adaNilai
           ? '<td>' + escapeHtml(t.team_name) + '</td>' +
             '<td>' + escapeHtml(t.juri1_poin) + '</td>' +
-            '<td>' + escapeHtml(t.juri2_poin) + '</td>' +
+            (duaJuri ? '<td>' + escapeHtml(t.juri2_poin) + '</td>' : '') +
+            '<td class="waktu">' + escapeHtml(t.waktu || '-') + '</td>' +
             '<td>' + escapeHtml(t.total_poin) + '</td>'
           : '<td>' + escapeHtml(t.team_name) + '</td>';
         tbody.appendChild(tr);
