@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-10-29 11:54:26 WIB",
+    "generated_at": "2026-10-29 11:55:12 WIB",
     "ada_nilai": true,
     "ada_juara": true,
     "competitions": [
@@ -178,6 +178,13 @@
                     "nama_juara": "Juara 1",
                     "keterangan": "Kategori tingkat Madya - total 99 poin",
                     "urut": 1
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
+                    "nama_juara": "Juara 2",
+                    "keterangan": "Pertolongan Pertama Madya - Tim TIM 1 A PPM (nilai 1835)",
+                    "urut": 2
                 }
             ]
         },
@@ -313,6 +320,13 @@
                     "jenis_label": "Juara Kategori Madya",
                     "nama_juara": "Juara 1",
                     "keterangan": "Kategori tingkat Madya - total 65 poin",
+                    "urut": 1
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
+                    "nama_juara": "Juara 1",
+                    "keterangan": "Pertolongan Pertama Madya - Tim TIM 10 A PPM (nilai 1840)",
                     "urut": 1
                 }
             ]
@@ -470,6 +484,13 @@
                     "nama_juara": "Juara 1",
                     "keterangan": "Kategori tingkat Madya - total 19 poin",
                     "urut": 1
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
+                    "nama_juara": "Juara 3",
+                    "keterangan": "Pertolongan Pertama Madya - Tim TIM 19 A PPM (nilai 1825)",
+                    "urut": 3
                 }
             ]
         },
