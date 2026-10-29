@@ -369,22 +369,19 @@
       const wrap = document.createElement('div');
       wrap.className = 'table-scroll';
       const table = document.createElement('table');
-      // Jumlah juri mengikuti pengaturan mata lomba (1 atau 2).
-      // Data lama tanpa field jumlah_juri: dianggap 2 bila ada juri2_poin.
-      const duaJuri = ml.jumlah_juri != null
-        ? Number(ml.jumlah_juri) >= 2
-        : (ml.teams || []).some(function (t) { return t.juri2_poin != null; });
+      const teams = ml.teams || [];
+      const duaJuri = adaJuri2(ml, teams);
       table.innerHTML = adaNilai
         ? '<thead><tr><th>Tim</th><th>Juri 1</th>' + (duaJuri ? '<th>Juri 2</th>' : '') + '<th>Waktu</th><th>Total</th></tr></thead>'
         : '<thead><tr><th>Tim</th></tr></thead>';
       const tbody = document.createElement('tbody');
-      (ml.teams || []).forEach(function (t) {
+      teams.forEach(function (t) {
         const tr = document.createElement('tr');
         tr.innerHTML = adaNilai
           ? '<td>' + escapeHtml(t.team_name) + '</td>' +
             '<td>' + escapeHtml(t.juri1_poin) + '</td>' +
             (duaJuri ? '<td>' + escapeHtml(t.juri2_poin) + '</td>' : '') +
-            '<td class="waktu">' + escapeHtml(t.waktu || '-') + '</td>' +
+            '<td class="waktu">' + escapeHtml(ambilWaktu(t)) + '</td>' +
             '<td>' + escapeHtml(t.total_poin) + '</td>'
           : '<td>' + escapeHtml(t.team_name) + '</td>';
         tbody.appendChild(tr);
@@ -394,6 +391,28 @@
       block.appendChild(wrap);
       list.appendChild(block);
     });
+  }
+
+  // Apakah mata lomba ini memakai 2 juri?
+  // 1) Pakai field jumlah_juri / juri bila ada di data.
+  // 2) Kalau tidak ada: kolom Juri 2 hanya tampil bila ada tim yang punya nilai Juri 2 (bukan 0 / kosong).
+  function adaJuri2(ml, teams) {
+    const n = ml.jumlah_juri != null ? ml.jumlah_juri : (ml.juri != null ? ml.juri : null);
+    if (n != null && n !== '') return Number(n) >= 2;
+    return teams.some(function (t) {
+      const v = t.juri2_poin;
+      return v != null && v !== '' && Number(v) !== 0;
+    });
+  }
+
+  // Waktu tim: coba beberapa nama field yang umum dipakai.
+  function ambilWaktu(t) {
+    const keys = ['waktu', 'waktu_juri1', 'waktu_juri_1', 'waktu_juri', 'durasi', 'duration', 'time'];
+    for (let i = 0; i < keys.length; i++) {
+      const v = t[keys[i]];
+      if (v != null && String(v).trim() !== '') return String(v).trim();
+    }
+    return '-';
   }
 
   function escapeHtml(str) {
