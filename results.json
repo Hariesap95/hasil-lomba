@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-10-29 11:55:12 WIB",
+    "generated_at": "2026-10-29 12:02:36 WIB",
     "ada_nilai": true,
     "ada_juara": true,
     "competitions": [
@@ -594,8 +594,8 @@
                         {
                             "team_name": "TIM 1 B PM",
                             "juri1_poin": 250,
-                            "juri2_poin": 0,
-                            "total_poin": 250
+                            "juri2_poin": 250,
+                            "total_poin": 500
                         },
                         {
                             "team_name": "TIM 1 C PM",
@@ -606,7 +606,7 @@
                     ]
                 }
             ],
-            "total_semua": 6514,
+            "total_semua": 6764,
             "ada_nilai": true,
             "juara": [
                 {
@@ -2759,13 +2759,13 @@
                         {
                             "team_name": "TIM 14 B PPW",
                             "juri1_poin": 1160,
-                            "juri2_poin": 0,
-                            "total_poin": 1160
+                            "juri2_poin": 1230,
+                            "total_poin": 2390
                         }
                     ]
                 }
             ],
-            "total_semua": 4270,
+            "total_semua": 5500,
             "ada_nilai": true
         },
         "SJ2R5E": {
@@ -2820,13 +2820,13 @@
                         {
                             "team_name": "TIM 24 A PPW",
                             "juri1_poin": 1230,
-                            "juri2_poin": 0,
-                            "total_poin": 1230
+                            "juri2_poin": 1230,
+                            "total_poin": 2460
                         }
                     ]
                 }
             ],
-            "total_semua": 1675,
+            "total_semua": 2905,
             "ada_nilai": true
         },
         "CWEUBS": {
