@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-10-30 15:43:35 WIB",
+    "generated_at": "2026-10-30 15:50:43 WIB",
     "ada_nilai": true,
     "ada_juara": true,
     "competitions": [
@@ -257,9 +257,9 @@
                 {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Poster Madya",
-                    "nama_juara": "JUARA UTAMA 2",
+                    "nama_juara": "JUARA UTAMA 1",
                     "keterangan": "Poster Madya - Tim TIM 19 C PM (nilai 250)",
-                    "urut": 2
+                    "urut": 1
                 },
                 {
                     "jenis": "lomba",
@@ -749,17 +749,17 @@
                 },
                 {
                     "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Madya",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Poster Madya - Tim TIM 1 B PM (nilai 250)",
+                    "urut": 1
+                },
+                {
+                    "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Tandu Campuran Madya",
                     "nama_juara": "JUARA UTAMA 2",
                     "keterangan": "Tandu Campuran Madya - Tim TIM 8 A TCM (nilai 245)",
                     "urut": 2
-                },
-                {
-                    "jenis": "lomba",
-                    "jenis_label": "Juara Mata Lomba Poster Madya",
-                    "nama_juara": "JUARA UTAMA 3",
-                    "keterangan": "Poster Madya - Tim TIM 1 B PM (nilai 250)",
-                    "urut": 3
                 },
                 {
                     "jenis": "lomba",
@@ -980,18 +980,18 @@
             "ada_nilai": true,
             "juara": [
                 {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Madya",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Poster Madya - Tim TIM 6 A PM (nilai 250)",
+                    "urut": 1
+                },
+                {
                     "jenis": "kategori",
                     "jenis_label": "Juara Kategori Madya",
                     "nama_juara": "JUARA UTAMA 3",
                     "keterangan": "Kategori tingkat Madya - total 0 poin",
                     "urut": 3
-                },
-                {
-                    "jenis": "lomba",
-                    "jenis_label": "Juara Mata Lomba Poster Madya",
-                    "nama_juara": "JUARA 1",
-                    "keterangan": "Poster Madya - Tim TIM 6 A PM (nilai 250)",
-                    "urut": 4
                 }
             ]
         },
@@ -3556,9 +3556,9 @@
                 {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Smart Red Cross Wira",
-                    "nama_juara": "JUARA HARAPAN 1",
+                    "nama_juara": "JUARA 3",
                     "keterangan": "Smart Red Cross Wira - Tim TIM 5 B SRCW (nilai 100)",
-                    "urut": 7
+                    "urut": 6
                 }
             ]
         },
@@ -4011,9 +4011,9 @@
                 {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Poster Wira",
-                    "nama_juara": "JUARA UTAMA 2",
+                    "nama_juara": "JUARA UTAMA 1",
                     "keterangan": "Poster Wira - Tim TIM 15 A PW (nilai 250)",
-                    "urut": 2
+                    "urut": 1
                 },
                 {
                     "jenis": "lomba",
@@ -4140,9 +4140,9 @@
                 {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Poster Wira",
-                    "nama_juara": "JUARA UTAMA 3",
+                    "nama_juara": "JUARA UTAMA 1",
                     "keterangan": "Poster Wira - Tim TIM 9 A PW (nilai 250)",
-                    "urut": 3
+                    "urut": 1
                 },
                 {
                     "jenis": "lomba",
@@ -4324,17 +4324,17 @@
             "juara": [
                 {
                     "jenis": "lomba",
-                    "jenis_label": "Juara Mata Lomba Tandu Campuran Wira",
+                    "jenis_label": "Juara Mata Lomba Poster Wira",
                     "nama_juara": "JUARA UTAMA 1",
-                    "keterangan": "Tandu Campuran Wira - Tim TIM 7 A TCW (nilai 390)",
+                    "keterangan": "Poster Wira - Tim TIM 10 A PW (nilai 250)",
                     "urut": 1
                 },
                 {
                     "jenis": "lomba",
-                    "jenis_label": "Juara Mata Lomba Poster Wira",
-                    "nama_juara": "JUARA 1",
-                    "keterangan": "Poster Wira - Tim TIM 10 A PW (nilai 250)",
-                    "urut": 4
+                    "jenis_label": "Juara Mata Lomba Tandu Campuran Wira",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Tandu Campuran Wira - Tim TIM 7 A TCW (nilai 390)",
+                    "urut": 1
                 },
                 {
                     "jenis": "lomba",
@@ -4543,9 +4543,9 @@
                 {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Smart Red Cross Wira",
-                    "nama_juara": "JUARA HARAPAN 2",
+                    "nama_juara": "JUARA 3",
                     "keterangan": "Smart Red Cross Wira - Tim TIM 8 A SRCW (nilai 100)",
-                    "urut": 8
+                    "urut": 6
                 },
                 {
                     "jenis": "lomba",
@@ -4764,24 +4764,24 @@
             "juara": [
                 {
                     "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Wira",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Poster Wira - Tim TIM 11 D PW (nilai 250)",
+                    "urut": 1
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Wira",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Poster Wira - Tim TIM 11 E PW (nilai 250)",
+                    "urut": 1
+                },
+                {
+                    "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Tandu Putri Wira",
                     "nama_juara": "JUARA 1",
                     "keterangan": "Tandu Putri Wira - Tim TIM 12 A TPW (nilai 345)",
                     "urut": 4
-                },
-                {
-                    "jenis": "lomba",
-                    "jenis_label": "Juara Mata Lomba Poster Wira",
-                    "nama_juara": "JUARA 2",
-                    "keterangan": "Poster Wira - Tim TIM 11 D PW (nilai 250)",
-                    "urut": 5
-                },
-                {
-                    "jenis": "lomba",
-                    "jenis_label": "Juara Mata Lomba Poster Wira",
-                    "nama_juara": "JUARA 3",
-                    "keterangan": "Poster Wira - Tim TIM 11 E PW (nilai 250)",
-                    "urut": 6
                 },
                 {
                     "jenis": "lomba",
@@ -5009,6 +5009,13 @@
             "juara": [
                 {
                     "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Wira",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Poster Wira - Tim TIM 1 A PW (nilai 250)",
+                    "urut": 1
+                },
+                {
+                    "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Pertolongan Pertama Wira",
                     "nama_juara": "JUARA UTAMA 2",
                     "keterangan": "Pertolongan Pertama Wira - Tim TIM 12 A PPW (nilai 2460)",
@@ -5016,23 +5023,16 @@
                 },
                 {
                     "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Smart Red Cross Wira",
+                    "nama_juara": "JUARA 3",
+                    "keterangan": "Smart Red Cross Wira - Tim TIM 4 A SRCW (nilai 100)",
+                    "urut": 6
+                },
+                {
+                    "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Pertolongan Pertama Wira",
                     "nama_juara": "JUARA HARAPAN 3",
                     "keterangan": "Pertolongan Pertama Wira - Tim TIM 12 B PPW (nilai 2185)",
-                    "urut": 9
-                },
-                {
-                    "jenis": "lomba",
-                    "jenis_label": "Juara Mata Lomba Poster Wira",
-                    "nama_juara": "JUARA HARAPAN 3",
-                    "keterangan": "Poster Wira - Tim TIM 1 A PW (nilai 250)",
-                    "urut": 9
-                },
-                {
-                    "jenis": "lomba",
-                    "jenis_label": "Juara Mata Lomba Smart Red Cross Wira",
-                    "nama_juara": "JUARA HARAPAN 3",
-                    "keterangan": "Smart Red Cross Wira - Tim TIM 4 A SRCW (nilai 100)",
                     "urut": 9
                 }
             ]
@@ -5175,6 +5175,20 @@
             "juara": [
                 {
                     "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Wira",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Poster Wira - Tim TIM 16 A PW (nilai 250)",
+                    "urut": 1
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Wira",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Poster Wira - Tim TIM 16 B PW (nilai 250)",
+                    "urut": 1
+                },
+                {
+                    "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Tandu Putri Wira",
                     "nama_juara": "JUARA UTAMA 1",
                     "keterangan": "Tandu Putri Wira - Tim TIM 13 B TPW (nilai 390)",
@@ -5293,7 +5307,16 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Wira",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Poster Wira - Tim TIM 7 A PW (nilai 250)",
+                    "urut": 1
+                }
+            ]
         },
         "PC9N6Q": {
             "school_name": "SMK Muhammadiyah salaman",
@@ -5422,10 +5445,17 @@
             "juara": [
                 {
                     "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Wira",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Poster Wira - Tim TIM 3 A PW (nilai 250)",
+                    "urut": 1
+                },
+                {
+                    "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Smart Red Cross Wira",
-                    "nama_juara": "JUARA 1",
+                    "nama_juara": "JUARA UTAMA 1",
                     "keterangan": "Smart Red Cross Wira - Tim TIM 18 B SRCW (nilai 100)",
-                    "urut": 4
+                    "urut": 1
                 }
             ]
         },
@@ -5528,6 +5558,13 @@
             ],
             "ada_nilai": true,
             "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Wira",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Poster Wira - Tim TIM 6 A PW (nilai 250)",
+                    "urut": 1
+                },
                 {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Tandu Putra Wira",
@@ -6442,9 +6479,9 @@
                 {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Poster Wira",
-                    "nama_juara": "JUARA HARAPAN 1",
+                    "nama_juara": "JUARA UTAMA 1",
                     "keterangan": "Poster Wira - Tim TIM 4 A PW (nilai 250)",
-                    "urut": 7
+                    "urut": 1
                 }
             ]
         },
@@ -6497,9 +6534,9 @@
                 {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Poster Wira",
-                    "nama_juara": "JUARA HARAPAN 2",
+                    "nama_juara": "JUARA UTAMA 1",
                     "keterangan": "Poster Wira - Tim TIM 2 A PW (nilai 250)",
-                    "urut": 8
+                    "urut": 1
                 }
             ]
         },
@@ -6558,22 +6595,22 @@
                 {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Smart Red Cross Wira",
-                    "nama_juara": "JUARA UTAMA 2",
+                    "nama_juara": "JUARA UTAMA 1",
                     "keterangan": "Smart Red Cross Wira - Tim TIM 20 A SRCW (nilai 100)",
-                    "urut": 2
+                    "urut": 1
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Smart Red Cross Wira",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Smart Red Cross Wira - Tim TIM 20 B SRCW (nilai 100)",
+                    "urut": 1
                 },
                 {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Pertolongan Pertama Wira",
                     "nama_juara": "JUARA UTAMA 3",
                     "keterangan": "Pertolongan Pertama Wira - Tim TIM 8 B PPW (nilai 2445)",
-                    "urut": 3
-                },
-                {
-                    "jenis": "lomba",
-                    "jenis_label": "Juara Mata Lomba Smart Red Cross Wira",
-                    "nama_juara": "JUARA UTAMA 3",
-                    "keterangan": "Smart Red Cross Wira - Tim TIM 20 B SRCW (nilai 100)",
                     "urut": 3
                 },
                 {
