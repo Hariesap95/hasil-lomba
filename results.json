@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-10-30 15:22:14 WIB",
+    "generated_at": "2026-10-30 15:24:51 WIB",
     "ada_nilai": true,
     "ada_juara": true,
     "competitions": [
@@ -6199,6 +6199,356 @@
                     ]
                 }
             ],
+            "ada_nilai": true
+        },
+        "HTT8XR": {
+            "school_name": "SMK TELETUBBIES",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "SFZKF8": {
+            "school_name": "smkn 1 kedawung",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "GZBNTD": {
+            "school_name": "smpn  1 kedawung",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "QMAY35": {
+            "school_name": "SMPN 10 KOTA CIREBON",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "36K5HH": {
+            "school_name": "SMK anak anak",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "HQNFFA": {
+            "school_name": "smp 11 kota cirebon",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "Y3JPC8": {
+            "school_name": "SMAN 20 BANDUNG",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "LBM7S6": {
+            "school_name": "SMAN 3 BANDUNG",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "YX3K8S": {
+            "school_name": "SMAN 4 CIREBON",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "CHPTNK": {
+            "school_name": "SMPN 1 NEW",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "C28RGT": {
+            "school_name": "SMANkeanhoku",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "BP3LA2": {
+            "school_name": "SMPN 3 BEKASI",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "AZLNL2": {
+            "school_name": "SMPN 3 JAKARTA",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "9MLSY8": {
+            "school_name": "SMPN 3 PAPERLINE",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "WL7WTW": {
+            "school_name": "smp12tututbau",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "8SHA3L": {
+            "school_name": "smplilili13",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "HALP3Y": {
+            "school_name": "Spentut",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "5PE8W6": {
+            "school_name": "mtslalilu1",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "WL8YR5": {
+            "school_name": "smp12tutut",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "V5YCR9": {
+            "school_name": "smp12tututtitut",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "Z4ZGM3": {
+            "school_name": "smp aca ganteng",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "2KWJNX": {
+            "school_name": "Spentuti15",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "BJRV7Q": {
+            "school_name": "smp aca ganteng bgt",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "MZ93SP": {
+            "school_name": "smp aca ganteng bgtt12",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "QGTDE8": {
+            "school_name": "smp kucing bauuu",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "GWQHCE": {
+            "school_name": "smp kucing bauuu bgt",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "2VBMSK": {
+            "school_name": "Smp ga tau",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "3EUUW7": {
+            "school_name": "Smp ga tau bgt",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "TJ3KRF": {
+            "school_name": "Smp kota jepang",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "NMUVNU": {
+            "school_name": "Smp kota jepang korea",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "L97YLB": {
+            "school_name": "SMK 1 KUNTIl",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "W45QYD": {
+            "school_name": "SMA HARAPAN DUNIA",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "5BPSZ4": {
+            "school_name": "SMA HARAPAN DUNIA TUHAN",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "43JSRP": {
+            "school_name": "SMA HARAPAN BANGSA",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "AMZ6ST": {
+            "school_name": "SMA HARAPAN BANGSA Indonesia",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "XY2AKN": {
+            "school_name": "SMA HARAPAN BANGSAKURNIAl",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "SJG5N7": {
+            "school_name": "SMA HARAPAN BANGSAKURNIAli",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "Z8GE2H": {
+            "school_name": "SMKN 11 KUYANG",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "P6XHT3": {
+            "school_name": "smp 4",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "WAF6CV": {
+            "school_name": "smp kadang kiding",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "AG5L2D": {
+            "school_name": "SMK 1 Judes",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "ZQS635": {
+            "school_name": "SMK 13 TERSERAH",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "69ARUF": {
+            "school_name": "SMK 13 Gatau",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "AQXQ59": {
+            "school_name": "sman 1 tangerang",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "72B5VE": {
+            "school_name": "sma 167 bandung",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "SGLUKV": {
+            "school_name": "sman 1 kota Cirebon",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "3HZS45": {
+            "school_name": "smpn 4 kota Cirebon",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "QCLU32": {
+            "school_name": "SMAN 1 ASTANAJAPURA",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "PDDGPJ": {
+            "school_name": "MAN 1 CIREBON",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "7MJHVR": {
+            "school_name": "SMK RISE KEDAWUNG",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "L4HFKA": {
+            "school_name": "SMKN 1 CIREBON",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "PQFFVB": {
+            "school_name": "SMKN 2 CIREBON",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "GGU8VQ": {
+            "school_name": "SMPN 1 Suranenggala",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "AFPXFS": {
+            "school_name": "SMAN 1 CIREBON",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "7G4YT7": {
+            "school_name": "MTs Negeri 2 Cirebon",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "HFXR78": {
+            "school_name": "Smpn 2 Kapetakan",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "WCVM6E": {
+            "school_name": "SMP Negeri 1 Kota Cirebon",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "E72MTK": {
+            "school_name": "SMAN 5 Bandung",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "SSLGHE": {
+            "school_name": "SMP NEGERI 1 PLUMBON",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "RPLWZQ": {
+            "school_name": "smp negri 16 kota Cirebon",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "5VGSAG": {
+            "school_name": "SMAN 1 CIWARINGIN",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "KNQ6GJ": {
+            "school_name": "SMK PRESIDEN CIREBON",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "KB8M74": {
+            "school_name": "SMPN 1 GEGESIK",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "H9C4E2": {
+            "school_name": "SMP Negeri 10 Kota Cirebon",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "BM244Q": {
+            "school_name": "SMPN 1 GUNUNG JATI",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "NWA6T2": {
+            "school_name": "SMPN 2 GUNUNG JATI",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "F2UR93": {
+            "school_name": "SMKN 1 mangga",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "7AQQ8B": {
+            "school_name": "smpn28jakarta",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "EFB4VC": {
+            "school_name": "ciremai",
+            "mata_lomba": [],
+            "ada_nilai": true
+        },
+        "DHSABU": {
+            "school_name": "SMP 1 SUBAG",
+            "mata_lomba": [],
             "ada_nilai": true
         }
     }
