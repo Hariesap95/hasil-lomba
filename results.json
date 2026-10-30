@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-10-30 15:43:05 WIB",
+    "generated_at": "2026-10-30 15:43:35 WIB",
     "ada_nilai": true,
     "ada_juara": true,
     "competitions": [
@@ -260,6 +260,62 @@
                     "nama_juara": "JUARA UTAMA 2",
                     "keterangan": "Poster Madya - Tim TIM 19 C PM (nilai 250)",
                     "urut": 2
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Perawatan Keluarga Madya",
+                    "nama_juara": "JUARA 2",
+                    "keterangan": "Perawatan Keluarga Madya - Tim TIM 4 B PKM (nilai 1155)",
+                    "urut": 5
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
+                    "nama_juara": "JUARA 3",
+                    "keterangan": "Pertolongan Pertama Madya - Tim TIM 10 A PPM (nilai 1840)",
+                    "urut": 6
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putri Madya",
+                    "nama_juara": "JUARA 3",
+                    "keterangan": "Tandu Putri Madya - Tim TIM 11 A TPM (nilai 330)",
+                    "urut": 6
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Perawatan Keluarga Madya",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Perawatan Keluarga Madya - Tim TIM 4 A PKM (nilai 1115)",
+                    "urut": 7
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putri Madya",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Tandu Putri Madya - Tim TIM 11 B TPM (nilai 305)",
+                    "urut": 7
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Madya",
+                    "nama_juara": "JUARA HARAPAN 3",
+                    "keterangan": "Poster Madya - Tim TIM 19 B PM (nilai 225)",
+                    "urut": 9
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Campuran Madya",
+                    "nama_juara": "JUARA HARAPAN 3",
+                    "keterangan": "Tandu Campuran Madya - Tim TIM 11 B TCM (nilai 230)",
+                    "urut": 9
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putri Madya",
+                    "nama_juara": "JUARA HARAPAN 3",
+                    "keterangan": "Tandu Putri Madya - Tim TIM 11 C TPM (nilai 295)",
+                    "urut": 9
                 }
             ]
         },
@@ -316,6 +372,13 @@
                     "nama_juara": "JUARA UTAMA 3",
                     "keterangan": "Perawatan Keluarga Madya - Tim TIM 5 A PKM (nilai 1180)",
                     "urut": 3
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putra Madya",
+                    "nama_juara": "JUARA 1",
+                    "keterangan": "Tandu Putra Madya - Tim TIM 15 A TPM (nilai 294)",
+                    "urut": 4
                 }
             ]
         },
@@ -488,6 +551,13 @@
                     "nama_juara": "JUARA UTAMA 2",
                     "keterangan": "Tandu Putra Madya - Tim TIM 13 A TPM (nilai 315)",
                     "urut": 2
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
+                    "nama_juara": "JUARA HARAPAN 3",
+                    "keterangan": "Pertolongan Pertama Madya - Tim TIM 19 A PPM (nilai 1825)",
+                    "urut": 9
                 }
             ]
         },
@@ -704,6 +774,34 @@
                     "nama_juara": "JUARA UTAMA 3",
                     "keterangan": "Tandu Putra Madya - Tim TIM 9 C TPM (nilai 300)",
                     "urut": 3
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Perawatan Keluarga Madya",
+                    "nama_juara": "JUARA 3",
+                    "keterangan": "Perawatan Keluarga Madya - Tim TIM 19 A PKM (nilai 1130)",
+                    "urut": 6
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Smart Red Cross Madya",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Smart Red Cross Madya - Tim TIM 2 A SRCM (nilai 85)",
+                    "urut": 7
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Smart Red Cross Madya",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Smart Red Cross Madya - Tim TIM 2 B SRCM (nilai 85)",
+                    "urut": 7
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putra Madya",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Tandu Putra Madya - Tim TIM 9 B TPM (nilai 290)",
+                    "urut": 7
                 }
             ]
         },
@@ -798,6 +896,13 @@
                     "nama_juara": "JUARA UTAMA 3",
                     "keterangan": "Kategori tingkat Madya - total 0 poin",
                     "urut": 3
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Campuran Madya",
+                    "nama_juara": "JUARA 1",
+                    "keterangan": "Tandu Campuran Madya - Tim TIM 12 B TCM (nilai 240)",
+                    "urut": 4
                 }
             ]
         },
@@ -880,6 +985,13 @@
                     "nama_juara": "JUARA UTAMA 3",
                     "keterangan": "Kategori tingkat Madya - total 0 poin",
                     "urut": 3
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Madya",
+                    "nama_juara": "JUARA 1",
+                    "keterangan": "Poster Madya - Tim TIM 6 A PM (nilai 250)",
+                    "urut": 4
                 }
             ]
         },
@@ -995,6 +1107,13 @@
                     "nama_juara": "JUARA UTAMA 1",
                     "keterangan": "Tandu Putra Madya - Tim TIM 10 A TPM (nilai 320)",
                     "urut": 1
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Smart Red Cross Madya",
+                    "nama_juara": "JUARA 1",
+                    "keterangan": "Smart Red Cross Madya - Tim TIM 1 A SRCM (nilai 85)",
+                    "urut": 4
                 }
             ]
         },
@@ -1273,6 +1392,20 @@
                     "nama_juara": "JUARA UTAMA 3",
                     "keterangan": "Kategori tingkat Madya - total 0 poin",
                     "urut": 3
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putra Madya",
+                    "nama_juara": "JUARA HARAPAN 2",
+                    "keterangan": "Tandu Putra Madya - Tim TIM 21 C TPM (nilai 275)",
+                    "urut": 8
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putra Madya",
+                    "nama_juara": "JUARA HARAPAN 3",
+                    "keterangan": "Tandu Putra Madya - Tim TIM 21 B TPM (nilai 275)",
+                    "urut": 9
                 }
             ]
         },
@@ -1368,6 +1501,20 @@
                     "nama_juara": "JUARA UTAMA 3",
                     "keterangan": "Kategori tingkat Madya - total 0 poin",
                     "urut": 3
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Madya",
+                    "nama_juara": "JUARA 3",
+                    "keterangan": "Poster Madya - Tim TIM 11 A PM (nilai 240)",
+                    "urut": 6
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Pertolongan Pertama Madya - Tim TIM 9 A PPM (nilai 1840)",
+                    "urut": 7
                 }
             ]
         },
@@ -2206,6 +2353,13 @@
                     "nama_juara": "JUARA UTAMA 3",
                     "keterangan": "Kategori tingkat Madya - total 0 poin",
                     "urut": 3
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Smart Red Cross Madya",
+                    "nama_juara": "JUARA HARAPAN 3",
+                    "keterangan": "Smart Red Cross Madya - Tim TIM 15 A SRCM (nilai 85)",
+                    "urut": 9
                 }
             ]
         },
@@ -2300,6 +2454,13 @@
                     "nama_juara": "JUARA UTAMA 3",
                     "keterangan": "Kategori tingkat Madya - total 0 poin",
                     "urut": 3
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Campuran Madya",
+                    "nama_juara": "JUARA HARAPAN 2",
+                    "keterangan": "Tandu Campuran Madya - Tim TIM 7 A TCM (nilai 235)",
+                    "urut": 8
                 }
             ]
         },
@@ -2601,6 +2762,13 @@
                     "nama_juara": "JUARA UTAMA 3",
                     "keterangan": "Kategori tingkat Madya - total 0 poin",
                     "urut": 3
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Perawatan Keluarga Madya",
+                    "nama_juara": "JUARA HARAPAN 3",
+                    "keterangan": "Perawatan Keluarga Madya - Tim TIM 8 A PKM (nilai 1110)",
+                    "urut": 9
                 }
             ]
         },
@@ -2702,6 +2870,13 @@
                     "nama_juara": "JUARA UTAMA 3",
                     "keterangan": "Kategori tingkat Madya - total 0 poin",
                     "urut": 3
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
+                    "nama_juara": "JUARA 1",
+                    "keterangan": "Pertolongan Pertama Madya - Tim TIM 25 A PPM (nilai 1860)",
+                    "urut": 4
                 }
             ]
         },
@@ -2750,7 +2925,23 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putra Madya",
+                    "nama_juara": "JUARA 2",
+                    "keterangan": "Tandu Putra Madya - Tim TIM 6 A TPM (nilai 290)",
+                    "urut": 5
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Perawatan Keluarga Madya",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Perawatan Keluarga Madya - Tim TIM 12 A PKM (nilai 1115)",
+                    "urut": 7
+                }
+            ]
         },
         "M2HK46": {
             "school_name": "SMPN 1 KEDAWUNG",
@@ -3057,6 +3248,62 @@
                     "nama_juara": "JUARA UTAMA 3",
                     "keterangan": "Tandu Putra Wira - Tim TIM 13 A TPW (nilai 345)",
                     "urut": 3
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Perawatan Keluarga Wira",
+                    "nama_juara": "JUARA 1",
+                    "keterangan": "Perawatan Keluarga Wira - Tim TIM 9 B PKW (nilai 1225)",
+                    "urut": 4
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putra Wira",
+                    "nama_juara": "JUARA 1",
+                    "keterangan": "Tandu Putra Wira - Tim TIM 13 E TPW (nilai 340)",
+                    "urut": 4
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putra Wira",
+                    "nama_juara": "JUARA 2",
+                    "keterangan": "Tandu Putra Wira - Tim TIM 13 B TPW (nilai 330)",
+                    "urut": 5
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putri Wira",
+                    "nama_juara": "JUARA 2",
+                    "keterangan": "Tandu Putri Wira - Tim TIM 3 E TPW (nilai 340)",
+                    "urut": 5
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Smart Red Cross Wira",
+                    "nama_juara": "JUARA 3",
+                    "keterangan": "Smart Red Cross Wira - Tim TIM 12 A SRCW (nilai 100)",
+                    "urut": 6
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Smart Red Cross Wira",
+                    "nama_juara": "JUARA 3",
+                    "keterangan": "Smart Red Cross Wira - Tim TIM 12 C SRCW (nilai 100)",
+                    "urut": 6
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putra Wira",
+                    "nama_juara": "JUARA 3",
+                    "keterangan": "Tandu Putra Wira - Tim TIM 13 D TPW (nilai 330)",
+                    "urut": 6
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putri Wira",
+                    "nama_juara": "JUARA HARAPAN 2",
+                    "keterangan": "Tandu Putri Wira - Tim TIM 3 D TPW (nilai 330)",
+                    "urut": 8
                 }
             ]
         },
@@ -3305,6 +3552,13 @@
                     "nama_juara": "JUARA UTAMA 3",
                     "keterangan": "Tandu Campuran Wira - Tim TIM 6 B TCW (nilai 390)",
                     "urut": 3
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Smart Red Cross Wira",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Smart Red Cross Wira - Tim TIM 5 B SRCW (nilai 100)",
+                    "urut": 7
                 }
             ]
         },
@@ -3374,6 +3628,13 @@
                     "nama_juara": "JUARA UTAMA 2",
                     "keterangan": "Tandu Campuran Wira - Tim TIM 2 A TCW (nilai 390)",
                     "urut": 2
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Perawatan Keluarga Wira",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Perawatan Keluarga Wira - Tim TIM 8 A PKW (nilai 1055)",
+                    "urut": 7
                 }
             ]
         },
@@ -3494,7 +3755,58 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Wira",
+                    "nama_juara": "JUARA 1",
+                    "keterangan": "Pertolongan Pertama Wira - Tim TIM 14 A PPW (nilai 2435)",
+                    "urut": 4
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Campuran Wira",
+                    "nama_juara": "JUARA 1",
+                    "keterangan": "Tandu Campuran Wira - Tim TIM 8 A TCW (nilai 385)",
+                    "urut": 4
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Perawatan Keluarga Wira",
+                    "nama_juara": "JUARA 2",
+                    "keterangan": "Perawatan Keluarga Wira - Tim TIM 10 A PKW (nilai 1140)",
+                    "urut": 5
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Wira",
+                    "nama_juara": "JUARA 3",
+                    "keterangan": "Pertolongan Pertama Wira - Tim TIM 14 B PPW (nilai 2390)",
+                    "urut": 6
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putri Wira",
+                    "nama_juara": "JUARA 3",
+                    "keterangan": "Tandu Putri Wira - Tim TIM 2 A TPW (nilai 335)",
+                    "urut": 6
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putra Wira",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Tandu Putra Wira - Tim TIM 15 A TPW (nilai 330)",
+                    "urut": 7
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Perawatan Keluarga Wira",
+                    "nama_juara": "JUARA HARAPAN 3",
+                    "keterangan": "Perawatan Keluarga Wira - Tim TIM 10 B PKW (nilai 1000)",
+                    "urut": 9
+                }
+            ]
         },
         "SJ2R5E": {
             "school_name": "titutmaghrib@gmail.com",
@@ -3702,6 +4014,20 @@
                     "nama_juara": "JUARA UTAMA 2",
                     "keterangan": "Poster Wira - Tim TIM 15 A PW (nilai 250)",
                     "urut": 2
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Campuran Wira",
+                    "nama_juara": "JUARA 2",
+                    "keterangan": "Tandu Campuran Wira - Tim TIM 11 A TCW (nilai 385)",
+                    "urut": 5
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Perawatan Keluarga Wira",
+                    "nama_juara": "JUARA 3",
+                    "keterangan": "Perawatan Keluarga Wira - Tim TIM 6 A PKW (nilai 1135)",
+                    "urut": 6
                 }
             ]
         },
@@ -3817,6 +4143,20 @@
                     "nama_juara": "JUARA UTAMA 3",
                     "keterangan": "Poster Wira - Tim TIM 9 A PW (nilai 250)",
                     "urut": 3
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Campuran Wira",
+                    "nama_juara": "JUARA 3",
+                    "keterangan": "Tandu Campuran Wira - Tim TIM 16 A TCW (nilai 380)",
+                    "urut": 6
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putri Wira",
+                    "nama_juara": "JUARA HARAPAN 3",
+                    "keterangan": "Tandu Putri Wira - Tim TIM 1 A TPW (nilai 330)",
+                    "urut": 9
                 }
             ]
         },
@@ -3865,7 +4205,16 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Wira",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Pertolongan Pertama Wira - Tim TIM 19 A PPW (nilai 2320)",
+                    "urut": 7
+                }
+            ]
         },
         "G7EXVX": {
             "school_name": "SMPN 15 KOTA CIREBON",
@@ -3979,6 +4328,20 @@
                     "nama_juara": "JUARA UTAMA 1",
                     "keterangan": "Tandu Campuran Wira - Tim TIM 7 A TCW (nilai 390)",
                     "urut": 1
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Wira",
+                    "nama_juara": "JUARA 1",
+                    "keterangan": "Poster Wira - Tim TIM 10 A PW (nilai 250)",
+                    "urut": 4
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putri Wira",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Tandu Putri Wira - Tim TIM 15 A TPW (nilai 335)",
+                    "urut": 7
                 }
             ]
         },
@@ -4094,6 +4457,13 @@
                     "nama_juara": "JUARA UTAMA 2",
                     "keterangan": "Tandu Putri Wira - Tim TIM 4 A TPW (nilai 355)",
                     "urut": 2
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Campuran Wira",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Tandu Campuran Wira - Tim TIM 14 A TCW (nilai 370)",
+                    "urut": 7
                 }
             ]
         },
@@ -4168,7 +4538,23 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Smart Red Cross Wira",
+                    "nama_juara": "JUARA HARAPAN 2",
+                    "keterangan": "Smart Red Cross Wira - Tim TIM 8 A SRCW (nilai 100)",
+                    "urut": 8
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Campuran Wira",
+                    "nama_juara": "JUARA HARAPAN 2",
+                    "keterangan": "Tandu Campuran Wira - Tim TIM 1 A TCW (nilai 365)",
+                    "urut": 8
+                }
+            ]
         },
         "ZSMZC3": {
             "school_name": "smkn  1 kedawung",
@@ -4374,7 +4760,44 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putri Wira",
+                    "nama_juara": "JUARA 1",
+                    "keterangan": "Tandu Putri Wira - Tim TIM 12 A TPW (nilai 345)",
+                    "urut": 4
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Wira",
+                    "nama_juara": "JUARA 2",
+                    "keterangan": "Poster Wira - Tim TIM 11 D PW (nilai 250)",
+                    "urut": 5
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Wira",
+                    "nama_juara": "JUARA 3",
+                    "keterangan": "Poster Wira - Tim TIM 11 E PW (nilai 250)",
+                    "urut": 6
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Perawatan Keluarga Wira",
+                    "nama_juara": "JUARA HARAPAN 2",
+                    "keterangan": "Perawatan Keluarga Wira - Tim TIM 15 B PKW (nilai 1005)",
+                    "urut": 8
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Campuran Wira",
+                    "nama_juara": "JUARA HARAPAN 3",
+                    "keterangan": "Tandu Campuran Wira - Tim TIM 18 C TCW (nilai 340)",
+                    "urut": 9
+                }
+            ]
         },
         "UNNE2R": {
             "school_name": "SMA N keanhokui syg",
@@ -4590,6 +5013,27 @@
                     "nama_juara": "JUARA UTAMA 2",
                     "keterangan": "Pertolongan Pertama Wira - Tim TIM 12 A PPW (nilai 2460)",
                     "urut": 2
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Wira",
+                    "nama_juara": "JUARA HARAPAN 3",
+                    "keterangan": "Pertolongan Pertama Wira - Tim TIM 12 B PPW (nilai 2185)",
+                    "urut": 9
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Wira",
+                    "nama_juara": "JUARA HARAPAN 3",
+                    "keterangan": "Poster Wira - Tim TIM 1 A PW (nilai 250)",
+                    "urut": 9
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Smart Red Cross Wira",
+                    "nama_juara": "JUARA HARAPAN 3",
+                    "keterangan": "Smart Red Cross Wira - Tim TIM 4 A SRCW (nilai 100)",
+                    "urut": 9
                 }
             ]
         },
@@ -4742,6 +5186,13 @@
                     "nama_juara": "JUARA UTAMA 3",
                     "keterangan": "Tandu Putri Wira - Tim TIM 13 A TPW (nilai 350)",
                     "urut": 3
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putra Wira",
+                    "nama_juara": "JUARA HARAPAN 2",
+                    "keterangan": "Tandu Putra Wira - Tim TIM 6 B TPW (nilai 325)",
+                    "urut": 8
                 }
             ]
         },
@@ -4967,7 +5418,16 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Smart Red Cross Wira",
+                    "nama_juara": "JUARA 1",
+                    "keterangan": "Smart Red Cross Wira - Tim TIM 18 B SRCW (nilai 100)",
+                    "urut": 4
+                }
+            ]
         },
         "7HQPT4": {
             "school_name": "SMAN 1 SUMBER",
@@ -5066,7 +5526,16 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putra Wira",
+                    "nama_juara": "JUARA HARAPAN 3",
+                    "keterangan": "Tandu Putra Wira - Tim TIM 10 A TPW (nilai 320)",
+                    "urut": 9
+                }
+            ]
         },
         "3ADBYM": {
             "school_name": "Spensatut",
@@ -5302,6 +5771,90 @@
                     "nama_juara": "JUARA UTAMA 3",
                     "keterangan": "Tandu Putri Madya - Tim TIM 15 B TPM (nilai 350)",
                     "urut": 3
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Smart Red Cross Madya",
+                    "nama_juara": "JUARA 1",
+                    "keterangan": "Smart Red Cross Madya - Tim TIM 16 F SRCM (nilai 85)",
+                    "urut": 4
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putri Madya",
+                    "nama_juara": "JUARA 1",
+                    "keterangan": "Tandu Putri Madya - Tim TIM 15 E TPM (nilai 345)",
+                    "urut": 4
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Campuran Madya",
+                    "nama_juara": "JUARA 2",
+                    "keterangan": "Tandu Campuran Madya - Tim TIM 9 A TCM (nilai 240)",
+                    "urut": 5
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putri Madya",
+                    "nama_juara": "JUARA 2",
+                    "keterangan": "Tandu Putri Madya - Tim TIM 15 F TPM (nilai 340)",
+                    "urut": 5
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Smart Red Cross Madya",
+                    "nama_juara": "JUARA 3",
+                    "keterangan": "Smart Red Cross Madya - Tim TIM 16 E SRCM (nilai 85)",
+                    "urut": 6
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putra Madya",
+                    "nama_juara": "JUARA 3",
+                    "keterangan": "Tandu Putra Madya - Tim TIM 18 B TPM (nilai 290)",
+                    "urut": 6
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Madya",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Poster Madya - Tim TIM 18 E PM (nilai 235)",
+                    "urut": 7
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Campuran Madya",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Tandu Campuran Madya - Tim TIM 9 C TCM (nilai 235)",
+                    "urut": 7
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
+                    "nama_juara": "JUARA HARAPAN 2",
+                    "keterangan": "Pertolongan Pertama Madya - Tim TIM 1 A PPM (nilai 1835)",
+                    "urut": 8
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Madya",
+                    "nama_juara": "JUARA HARAPAN 2",
+                    "keterangan": "Poster Madya - Tim TIM 18 B PM (nilai 230)",
+                    "urut": 8
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putri Madya",
+                    "nama_juara": "JUARA HARAPAN 2",
+                    "keterangan": "Tandu Putri Madya - Tim TIM 15 A TPM (nilai 305)",
+                    "urut": 8
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Madya",
+                    "nama_juara": "JUARA HARAPAN 3",
+                    "keterangan": "Poster Madya - Tim TIM 18 A PM (nilai 225)",
+                    "urut": 9
                 }
             ]
         },
@@ -5376,6 +5929,13 @@
                     "nama_juara": "JUARA UTAMA 3",
                     "keterangan": "Kategori tingkat Madya - total 0 poin",
                     "urut": 3
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
+                    "nama_juara": "JUARA 2",
+                    "keterangan": "Pertolongan Pertama Madya - Tim TIM 11 A PPM (nilai 1840)",
+                    "urut": 5
                 }
             ]
         },
@@ -5569,6 +6129,13 @@
                     "nama_juara": "JUARA UTAMA 3",
                     "keterangan": "Kategori tingkat Madya - total 0 poin",
                     "urut": 3
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Campuran Madya",
+                    "nama_juara": "JUARA 3",
+                    "keterangan": "Tandu Campuran Madya - Tim TIM 6 A TCM (nilai 238)",
+                    "urut": 6
                 }
             ]
         },
@@ -5870,7 +6437,16 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Wira",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Poster Wira - Tim TIM 4 A PW (nilai 250)",
+                    "urut": 7
+                }
+            ]
         },
         "BEWZG8": {
             "school_name": "SMP NEGERI 1 CIREBON",
@@ -5916,7 +6492,16 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Wira",
+                    "nama_juara": "JUARA HARAPAN 2",
+                    "keterangan": "Poster Wira - Tim TIM 2 A PW (nilai 250)",
+                    "urut": 8
+                }
+            ]
         },
         "44ELPX": {
             "school_name": "smkn 4 pamatut",
@@ -5990,6 +6575,13 @@
                     "nama_juara": "JUARA UTAMA 3",
                     "keterangan": "Smart Red Cross Wira - Tim TIM 20 B SRCW (nilai 100)",
                     "urut": 3
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Wira",
+                    "nama_juara": "JUARA HARAPAN 2",
+                    "keterangan": "Pertolongan Pertama Wira - Tim TIM 8 A PPW (nilai 2270)",
+                    "urut": 8
                 }
             ]
         },
@@ -6121,7 +6713,16 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Wira",
+                    "nama_juara": "JUARA 2",
+                    "keterangan": "Pertolongan Pertama Wira - Tim TIM 11 A PPW (nilai 2420)",
+                    "urut": 5
+                }
+            ]
         },
         "QU8TXN": {
             "school_name": "SMKN 11 Al",
