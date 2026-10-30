@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-10-31 06:00:23 WIB",
+    "generated_at": "2026-10-31 06:02:43 WIB",
     "ada_nilai": true,
     "ada_juara": true,
     "competitions": [
@@ -244,7 +244,7 @@
                     "jenis": "kategori",
                     "jenis_label": "Juara Kategori Madya",
                     "nama_juara": "JUARA UTAMA 1",
-                    "keterangan": "Kategori tingkat Madya - total 65 poin",
+                    "keterangan": "Kategori tingkat Madya - total 40 poin",
                     "urut": 1
                 },
                 {
@@ -541,9 +541,9 @@
                 {
                     "jenis": "kategori",
                     "jenis_label": "Juara Kategori Madya",
-                    "nama_juara": "JUARA UTAMA 1",
-                    "keterangan": "Kategori tingkat Madya - total 19 poin",
-                    "urut": 1
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Kategori tingkat Madya - total 9 poin",
+                    "urut": 2
                 },
                 {
                     "jenis": "lomba",
@@ -744,7 +744,7 @@
                     "jenis": "kategori",
                     "jenis_label": "Juara Kategori Madya",
                     "nama_juara": "JUARA UTAMA 1",
-                    "keterangan": "Kategori tingkat Madya - total 41 poin",
+                    "keterangan": "Kategori tingkat Madya - total 44 poin",
                     "urut": 1
                 },
                 {
@@ -893,9 +893,9 @@
                 {
                     "jenis": "kategori",
                     "jenis_label": "Juara Kategori Madya",
-                    "nama_juara": "JUARA UTAMA 3",
-                    "keterangan": "Kategori tingkat Madya - total 0 poin",
-                    "urut": 3
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Kategori tingkat Madya - total 6 poin",
+                    "urut": 2
                 },
                 {
                     "jenis": "lomba",
@@ -989,9 +989,9 @@
                 {
                     "jenis": "kategori",
                     "jenis_label": "Juara Kategori Madya",
-                    "nama_juara": "JUARA UTAMA 3",
-                    "keterangan": "Kategori tingkat Madya - total 0 poin",
-                    "urut": 3
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Kategori tingkat Madya - total 9 poin",
+                    "urut": 2
                 }
             ]
         },
@@ -1095,18 +1095,18 @@
             "ada_nilai": true,
             "juara": [
                 {
-                    "jenis": "kategori",
-                    "jenis_label": "Juara Kategori Madya",
-                    "nama_juara": "JUARA UTAMA 1",
-                    "keterangan": "Kategori tingkat Madya - total 9 poin",
-                    "urut": 1
-                },
-                {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Tandu Putra Madya",
                     "nama_juara": "JUARA UTAMA 1",
                     "keterangan": "Tandu Putra Madya - Tim TIM 10 A TPM (nilai 320)",
                     "urut": 1
+                },
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Kategori tingkat Madya - total 15 poin",
+                    "urut": 2
                 },
                 {
                     "jenis": "lomba",
@@ -1239,7 +1239,7 @@
                     "jenis": "kategori",
                     "jenis_label": "Juara Kategori Madya",
                     "nama_juara": "JUARA UTAMA 2",
-                    "keterangan": "Kategori tingkat Madya - total 2 poin",
+                    "keterangan": "Kategori tingkat Madya - total 8 poin",
                     "urut": 2
                 },
                 {
@@ -1390,7 +1390,7 @@
                     "jenis": "kategori",
                     "jenis_label": "Juara Kategori Madya",
                     "nama_juara": "JUARA UTAMA 3",
-                    "keterangan": "Kategori tingkat Madya - total 0 poin",
+                    "keterangan": "Kategori tingkat Madya - total 3 poin",
                     "urut": 3
                 },
                 {
@@ -1498,9 +1498,9 @@
                 {
                     "jenis": "kategori",
                     "jenis_label": "Juara Kategori Madya",
-                    "nama_juara": "JUARA UTAMA 3",
-                    "keterangan": "Kategori tingkat Madya - total 0 poin",
-                    "urut": 3
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Kategori tingkat Madya - total 7 poin",
+                    "urut": 2
                 },
                 {
                     "jenis": "lomba",
@@ -1662,18 +1662,18 @@
             "ada_nilai": true,
             "juara": [
                 {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Kategori tingkat Madya - total 16 poin",
+                    "urut": 1
+                },
+                {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
                     "nama_juara": "JUARA UTAMA 1",
                     "keterangan": "Pertolongan Pertama Madya - Tim TIM 26 B PPM (nilai 1905)",
                     "urut": 1
-                },
-                {
-                    "jenis": "kategori",
-                    "jenis_label": "Juara Kategori Madya",
-                    "nama_juara": "JUARA UTAMA 3",
-                    "keterangan": "Kategori tingkat Madya - total 0 poin",
-                    "urut": 3
                 },
                 {
                     "jenis": "lomba",
@@ -1824,9 +1824,9 @@
                 {
                     "jenis": "kategori",
                     "jenis_label": "Juara Kategori Madya",
-                    "nama_juara": "JUARA UTAMA 3",
-                    "keterangan": "Kategori tingkat Madya - total 0 poin",
-                    "urut": 3
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Kategori tingkat Madya - total 9 poin",
+                    "urut": 2
                 }
             ]
         },
@@ -1999,18 +1999,18 @@
             "ada_nilai": true,
             "juara": [
                 {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Kategori tingkat Madya - total 8 poin",
+                    "urut": 2
+                },
+                {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
                     "nama_juara": "JUARA UTAMA 2",
                     "keterangan": "Pertolongan Pertama Madya - Tim TIM 15 A PPM (nilai 1865)",
                     "urut": 2
-                },
-                {
-                    "jenis": "kategori",
-                    "jenis_label": "Juara Kategori Madya",
-                    "nama_juara": "JUARA UTAMA 3",
-                    "keterangan": "Kategori tingkat Madya - total 0 poin",
-                    "urut": 3
                 }
             ]
         },
@@ -2341,18 +2341,18 @@
             "ada_nilai": true,
             "juara": [
                 {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Kategori tingkat Madya - total 9 poin",
+                    "urut": 2
+                },
+                {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Smart Red Cross Madya",
                     "nama_juara": "JUARA UTAMA 2",
                     "keterangan": "Smart Red Cross Madya - Tim TIM 15 B SRCM (nilai 90)",
                     "urut": 2
-                },
-                {
-                    "jenis": "kategori",
-                    "jenis_label": "Juara Kategori Madya",
-                    "nama_juara": "JUARA UTAMA 3",
-                    "keterangan": "Kategori tingkat Madya - total 0 poin",
-                    "urut": 3
                 },
                 {
                     "jenis": "lomba",
@@ -2452,7 +2452,7 @@
                     "jenis": "kategori",
                     "jenis_label": "Juara Kategori Madya",
                     "nama_juara": "JUARA UTAMA 3",
-                    "keterangan": "Kategori tingkat Madya - total 0 poin",
+                    "keterangan": "Kategori tingkat Madya - total 2 poin",
                     "urut": 3
                 },
                 {
@@ -2635,18 +2635,18 @@
             "ada_nilai": true,
             "juara": [
                 {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Kategori tingkat Madya - total 16 poin",
+                    "urut": 1
+                },
+                {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Smart Red Cross Madya",
                     "nama_juara": "JUARA UTAMA 1",
                     "keterangan": "Smart Red Cross Madya - Tim TIM 6 E SRCM (nilai 90)",
                     "urut": 1
-                },
-                {
-                    "jenis": "kategori",
-                    "jenis_label": "Juara Kategori Madya",
-                    "nama_juara": "JUARA UTAMA 3",
-                    "keterangan": "Kategori tingkat Madya - total 0 poin",
-                    "urut": 3
                 },
                 {
                     "jenis": "lomba",
@@ -2760,7 +2760,7 @@
                     "jenis": "kategori",
                     "jenis_label": "Juara Kategori Madya",
                     "nama_juara": "JUARA UTAMA 3",
-                    "keterangan": "Kategori tingkat Madya - total 0 poin",
+                    "keterangan": "Kategori tingkat Madya - total 1 poin",
                     "urut": 3
                 },
                 {
@@ -2867,9 +2867,9 @@
                 {
                     "jenis": "kategori",
                     "jenis_label": "Juara Kategori Madya",
-                    "nama_juara": "JUARA UTAMA 3",
-                    "keterangan": "Kategori tingkat Madya - total 0 poin",
-                    "urut": 3
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Kategori tingkat Madya - total 6 poin",
+                    "urut": 2
                 },
                 {
                     "jenis": "lomba",
@@ -3215,6 +3215,13 @@
             "ada_nilai": true,
             "juara": [
                 {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Wira",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Kategori tingkat Wira - total 76 poin",
+                    "urut": 1
+                },
+                {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Poster Wira",
                     "nama_juara": "JUARA UTAMA 1",
@@ -3412,6 +3419,13 @@
                     "nama_juara": "JUARA UTAMA 2",
                     "keterangan": "Perawatan Keluarga Wira - Tim TIM 12 A PKW (nilai 1295)",
                     "urut": 2
+                },
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Wira",
+                    "nama_juara": "JUARA UTAMA 3",
+                    "keterangan": "Kategori tingkat Wira - total 8 poin",
+                    "urut": 3
                 }
             ]
         },
@@ -3532,6 +3546,13 @@
             ],
             "ada_nilai": true,
             "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Wira",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Kategori tingkat Wira - total 29 poin",
+                    "urut": 1
+                },
                 {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Poster Wira",
@@ -3758,6 +3779,13 @@
             "ada_nilai": true,
             "juara": [
                 {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Wira",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Kategori tingkat Wira - total 29 poin",
+                    "urut": 1
+                },
+                {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Pertolongan Pertama Wira",
                     "nama_juara": "JUARA 1",
@@ -3906,6 +3934,13 @@
                     "nama_juara": "JUARA UTAMA 1",
                     "keterangan": "Pertolongan Pertama Wira - Tim TIM 24 A PPW (nilai 2460)",
                     "urut": 1
+                },
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Wira",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Kategori tingkat Wira - total 9 poin",
+                    "urut": 2
                 }
             ]
         },
@@ -4014,6 +4049,13 @@
                     "nama_juara": "JUARA UTAMA 1",
                     "keterangan": "Poster Wira - Tim TIM 15 A PW (nilai 250)",
                     "urut": 1
+                },
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Wira",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Kategori tingkat Wira - total 18 poin",
+                    "urut": 2
                 },
                 {
                     "jenis": "lomba",
@@ -4143,6 +4185,13 @@
                     "nama_juara": "JUARA UTAMA 1",
                     "keterangan": "Poster Wira - Tim TIM 9 A PW (nilai 250)",
                     "urut": 1
+                },
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Wira",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Kategori tingkat Wira - total 23 poin",
+                    "urut": 2
                 },
                 {
                     "jenis": "lomba",
@@ -4337,6 +4386,13 @@
                     "urut": 1
                 },
                 {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Wira",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Kategori tingkat Wira - total 21 poin",
+                    "urut": 2
+                },
+                {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Tandu Putri Wira",
                     "nama_juara": "JUARA HARAPAN 1",
@@ -4452,6 +4508,13 @@
                     "urut": 1
                 },
                 {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Wira",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Kategori tingkat Wira - total 20 poin",
+                    "urut": 2
+                },
+                {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Tandu Putri Wira",
                     "nama_juara": "JUARA UTAMA 2",
@@ -4540,6 +4603,13 @@
             ],
             "ada_nilai": true,
             "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Wira",
+                    "nama_juara": "JUARA UTAMA 3",
+                    "keterangan": "Kategori tingkat Wira - total 6 poin",
+                    "urut": 3
+                },
                 {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Smart Red Cross Wira",
@@ -4762,6 +4832,13 @@
             ],
             "ada_nilai": true,
             "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Wira",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Kategori tingkat Wira - total 27 poin",
+                    "urut": 1
+                },
                 {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Poster Wira",
@@ -5015,6 +5092,13 @@
                     "urut": 1
                 },
                 {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Wira",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Kategori tingkat Wira - total 22 poin",
+                    "urut": 2
+                },
+                {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Pertolongan Pertama Wira",
                     "nama_juara": "JUARA UTAMA 2",
@@ -5174,6 +5258,13 @@
             "ada_nilai": true,
             "juara": [
                 {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Wira",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Kategori tingkat Wira - total 36 poin",
+                    "urut": 1
+                },
+                {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Poster Wira",
                     "nama_juara": "JUARA UTAMA 1",
@@ -5315,6 +5406,13 @@
                     "nama_juara": "JUARA UTAMA 1",
                     "keterangan": "Poster Wira - Tim TIM 7 A PW (nilai 250)",
                     "urut": 1
+                },
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Wira",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Kategori tingkat Wira - total 9 poin",
+                    "urut": 2
                 }
             ]
         },
@@ -5456,6 +5554,13 @@
                     "nama_juara": "JUARA UTAMA 1",
                     "keterangan": "Smart Red Cross Wira - Tim TIM 18 B SRCW (nilai 100)",
                     "urut": 1
+                },
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Wira",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Kategori tingkat Wira - total 18 poin",
+                    "urut": 2
                 }
             ]
         },
@@ -5564,6 +5669,13 @@
                     "nama_juara": "JUARA UTAMA 1",
                     "keterangan": "Poster Wira - Tim TIM 6 A PW (nilai 250)",
                     "urut": 1
+                },
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Wira",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Kategori tingkat Wira - total 10 poin",
+                    "urut": 2
                 },
                 {
                     "jenis": "lomba",
@@ -5778,7 +5890,7 @@
                     "jenis": "kategori",
                     "jenis_label": "Juara Kategori Madya",
                     "nama_juara": "JUARA UTAMA 1",
-                    "keterangan": "Kategori tingkat Madya - total 99 poin",
+                    "keterangan": "Kategori tingkat Madya - total 76 poin",
                     "urut": 1
                 },
                 {
@@ -5964,7 +6076,7 @@
                     "jenis": "kategori",
                     "jenis_label": "Juara Kategori Madya",
                     "nama_juara": "JUARA UTAMA 3",
-                    "keterangan": "Kategori tingkat Madya - total 0 poin",
+                    "keterangan": "Kategori tingkat Madya - total 5 poin",
                     "urut": 3
                 },
                 {
@@ -6164,7 +6276,7 @@
                     "jenis": "kategori",
                     "jenis_label": "Juara Kategori Madya",
                     "nama_juara": "JUARA UTAMA 3",
-                    "keterangan": "Kategori tingkat Madya - total 0 poin",
+                    "keterangan": "Kategori tingkat Madya - total 4 poin",
                     "urut": 3
                 },
                 {
@@ -6421,7 +6533,16 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Wira",
+                    "nama_juara": "JUARA UTAMA 3",
+                    "keterangan": "Kategori tingkat Wira - total 0 poin",
+                    "urut": 3
+                }
+            ]
         },
         "Z2QJ7Z": {
             "school_name": "smkbistiki",
@@ -6593,6 +6714,13 @@
             "ada_nilai": true,
             "juara": [
                 {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Wira",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Kategori tingkat Wira - total 27 poin",
+                    "urut": 1
+                },
+                {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Smart Red Cross Wira",
                     "nama_juara": "JUARA UTAMA 1",
@@ -6753,6 +6881,13 @@
             "ada_nilai": true,
             "juara": [
                 {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Wira",
+                    "nama_juara": "JUARA UTAMA 3",
+                    "keterangan": "Kategori tingkat Wira - total 5 poin",
+                    "urut": 3
+                },
+                {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Pertolongan Pertama Wira",
                     "nama_juara": "JUARA 2",
@@ -6817,7 +6952,16 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Wira",
+                    "nama_juara": "JUARA UTAMA 3",
+                    "keterangan": "Kategori tingkat Wira - total 0 poin",
+                    "urut": 3
+                }
+            ]
         },
         "GLM4CF": {
             "school_name": "SMK NEGERI 1 KEDAWUNG",
