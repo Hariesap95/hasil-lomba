@@ -1,7 +1,7 @@
 {
-    "generated_at": "2026-11-17 22:01:06 WIB",
-    "ada_nilai": false,
-    "ada_juara": false,
+    "generated_at": "2026-11-17 22:02:39 WIB",
+    "ada_nilai": true,
+    "ada_juara": true,
     "competitions": [
         {
             "id": 1,
@@ -70,10 +70,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMP 1 SUMEDANG - TIM 8 A"
+                            "team_name": "SMP 1 SUMEDANG - TIM 8 A",
+                            "juri1_poin": 805,
+                            "juri2_poin": 0,
+                            "waktu": "00:09:59",
+                            "total_poin": 805
                         },
                         {
-                            "team_name": "SMP 1 SUMEDANG - TIM 8 B"
+                            "team_name": "SMP 1 SUMEDANG - TIM 8 B",
+                            "juri1_poin": 825,
+                            "juri2_poin": 0,
+                            "waktu": "00:09:50",
+                            "total_poin": 825
                         }
                     ]
                 },
@@ -83,10 +91,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMP 1 SUMEDANG - TIM 1 A"
+                            "team_name": "SMP 1 SUMEDANG - TIM 1 A",
+                            "juri1_poin": 920,
+                            "juri2_poin": 950,
+                            "waktu": "00:10:00",
+                            "total_poin": 1870
                         },
                         {
-                            "team_name": "SMP 1 SUMEDANG - TIM 1 B"
+                            "team_name": "SMP 1 SUMEDANG - TIM 1 B",
+                            "juri1_poin": 630,
+                            "juri2_poin": 1015,
+                            "waktu": "06:20:11",
+                            "total_poin": 1645
                         }
                     ]
                 },
@@ -96,10 +112,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMP 1 SUMEDANG - TIM 8 A"
+                            "team_name": "SMP 1 SUMEDANG - TIM 8 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMP 1 SUMEDANG - TIM 8 B"
+                            "team_name": "SMP 1 SUMEDANG - TIM 8 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -109,10 +131,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMP 1 SUMEDANG - TIM 2 A"
+                            "team_name": "SMP 1 SUMEDANG - TIM 2 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMP 1 SUMEDANG - TIM 2 B"
+                            "team_name": "SMP 1 SUMEDANG - TIM 2 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -122,10 +150,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMP 1 SUMEDANG - TIM 11 A"
+                            "team_name": "SMP 1 SUMEDANG - TIM 11 A",
+                            "juri1_poin": 515,
+                            "waktu": "03:55:32",
+                            "total_poin": 515
                         },
                         {
-                            "team_name": "SMP 1 SUMEDANG - TIM 11 B"
+                            "team_name": "SMP 1 SUMEDANG - TIM 11 B",
+                            "juri1_poin": 406,
+                            "waktu": "04:34:33",
+                            "total_poin": 406
                         }
                     ]
                 },
@@ -135,10 +169,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMP 1 SUMEDANG - TIM 2 A"
+                            "team_name": "SMP 1 SUMEDANG - TIM 2 A",
+                            "juri1_poin": 283,
+                            "waktu": "05:07:00",
+                            "total_poin": 283
                         },
                         {
-                            "team_name": "SMP 1 SUMEDANG - TIM 2 B"
+                            "team_name": "SMP 1 SUMEDANG - TIM 2 B",
+                            "juri1_poin": 373,
+                            "waktu": "05:12:45",
+                            "total_poin": 373
                         }
                     ]
                 },
@@ -148,15 +188,51 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMP 1 SUMEDANG - TIM 5 A"
+                            "team_name": "SMP 1 SUMEDANG - TIM 5 A",
+                            "juri1_poin": 534,
+                            "waktu": "03:51:11",
+                            "total_poin": 534
                         },
                         {
-                            "team_name": "SMP 1 SUMEDANG - TIM 5 B"
+                            "team_name": "SMP 1 SUMEDANG - TIM 5 B",
+                            "juri1_poin": 390,
+                            "waktu": "05:25:25",
+                            "total_poin": 390
                         }
                     ]
                 }
             ],
-            "ada_nilai": false
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Smart Red Cross Wira",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Smart Red Cross Wira - Tim TIM 16 A SRCW (nilai 100)",
+                    "urut": 1
+                },
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Wira",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Kategori tingkat Wira - total 20 poin",
+                    "urut": 2
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putri Wira",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Tandu Putri Wira - Tim TIM 4 A TPW (nilai 355)",
+                    "urut": 2
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Campuran Wira",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Tandu Campuran Wira - Tim TIM 14 A TCW (nilai 370)",
+                    "urut": 7
+                }
+            ]
         },
         "RDTZSR": {
             "school_name": "SMPN 2 KUNINGAN",
@@ -167,10 +243,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMPN 2 KUNINGAN - TIM 10 A"
+                            "team_name": "SMPN 2 KUNINGAN - TIM 10 A",
+                            "juri1_poin": 795,
+                            "juri2_poin": 0,
+                            "waktu": "00:09:50",
+                            "total_poin": 795
                         },
                         {
-                            "team_name": "SMPN 2 KUNINGAN - TIM 10 B"
+                            "team_name": "SMPN 2 KUNINGAN - TIM 10 B",
+                            "juri1_poin": 815,
+                            "juri2_poin": 0,
+                            "waktu": "00:09:50",
+                            "total_poin": 815
                         }
                     ]
                 },
@@ -180,10 +264,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMPN 2 KUNINGAN - TIM 6 A"
+                            "team_name": "SMPN 2 KUNINGAN - TIM 6 A",
+                            "juri1_poin": 630,
+                            "juri2_poin": 980,
+                            "waktu": "06:30:30",
+                            "total_poin": 1610
                         },
                         {
-                            "team_name": "SMPN 2 KUNINGAN - TIM 6 B"
+                            "team_name": "SMPN 2 KUNINGAN - TIM 6 B",
+                            "juri1_poin": 650,
+                            "juri2_poin": 750,
+                            "waktu": "05:45:46",
+                            "total_poin": 1400
                         }
                     ]
                 },
@@ -193,10 +285,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 2 KUNINGAN - TIM 5 A"
+                            "team_name": "SMPN 2 KUNINGAN - TIM 5 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMPN 2 KUNINGAN - TIM 5 B"
+                            "team_name": "SMPN 2 KUNINGAN - TIM 5 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -206,10 +304,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 2 KUNINGAN - TIM 1 A"
+                            "team_name": "SMPN 2 KUNINGAN - TIM 1 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMPN 2 KUNINGAN - TIM 1 B"
+                            "team_name": "SMPN 2 KUNINGAN - TIM 1 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -219,10 +323,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 2 KUNINGAN - TIM 10 A"
+                            "team_name": "SMPN 2 KUNINGAN - TIM 10 A",
+                            "juri1_poin": 371,
+                            "waktu": "03:49:42",
+                            "total_poin": 371
                         },
                         {
-                            "team_name": "SMPN 2 KUNINGAN - TIM 10 B"
+                            "team_name": "SMPN 2 KUNINGAN - TIM 10 B",
+                            "juri1_poin": 457,
+                            "waktu": "02:53:46",
+                            "total_poin": 457
                         }
                     ]
                 },
@@ -232,10 +342,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 2 KUNINGAN - TIM 6 A"
+                            "team_name": "SMPN 2 KUNINGAN - TIM 6 A",
+                            "juri1_poin": 455,
+                            "waktu": "04:25:53",
+                            "total_poin": 455
                         },
                         {
-                            "team_name": "SMPN 2 KUNINGAN - TIM 6 B"
+                            "team_name": "SMPN 2 KUNINGAN - TIM 6 B",
+                            "juri1_poin": 450,
+                            "waktu": "01:23:56",
+                            "total_poin": 450
                         }
                     ]
                 },
@@ -245,15 +361,44 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 2 KUNINGAN - TIM 1 A"
+                            "team_name": "SMPN 2 KUNINGAN - TIM 1 A",
+                            "juri1_poin": 434,
+                            "waktu": "03:51:11",
+                            "total_poin": 434
                         },
                         {
-                            "team_name": "SMPN 2 KUNINGAN - TIM 1 B"
+                            "team_name": "SMPN 2 KUNINGAN - TIM 1 B",
+                            "juri1_poin": 359,
+                            "waktu": "06:31:28",
+                            "total_poin": 359
                         }
                     ]
                 }
             ],
-            "ada_nilai": false
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Kategori tingkat Madya - total 16 poin",
+                    "urut": 1
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Pertolongan Pertama Madya - Tim TIM 26 B PPM (nilai 1905)",
+                    "urut": 1
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
+                    "nama_juara": "JUARA UTAMA 3",
+                    "keterangan": "Pertolongan Pertama Madya - Tim TIM 26 A PPM (nilai 1865)",
+                    "urut": 3
+                }
+            ]
         },
         "LYVQBX": {
             "school_name": "SMPN 1 KOTA CIREBON",
@@ -264,10 +409,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMPN 1 KOTA CIREBON - TIM 9 A"
+                            "team_name": "SMPN 1 KOTA CIREBON - TIM 9 A",
+                            "juri1_poin": 845,
+                            "juri2_poin": 0,
+                            "waktu": "00:09:50",
+                            "total_poin": 845
                         },
                         {
-                            "team_name": "SMPN 1 KOTA CIREBON - TIM 9 B"
+                            "team_name": "SMPN 1 KOTA CIREBON - TIM 9 B",
+                            "juri1_poin": 775,
+                            "juri2_poin": 0,
+                            "waktu": "00:09:50",
+                            "total_poin": 775
                         }
                     ]
                 },
@@ -277,10 +430,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMPN 1 KOTA CIREBON - TIM 8 A"
+                            "team_name": "SMPN 1 KOTA CIREBON - TIM 8 A",
+                            "juri1_poin": 720,
+                            "juri2_poin": 845,
+                            "waktu": "09:09:09",
+                            "total_poin": 1565
                         },
                         {
-                            "team_name": "SMPN 1 KOTA CIREBON - TIM 8 B"
+                            "team_name": "SMPN 1 KOTA CIREBON - TIM 8 B",
+                            "juri1_poin": 775,
+                            "juri2_poin": 830,
+                            "waktu": "05:05:05",
+                            "total_poin": 1605
                         }
                     ]
                 },
@@ -290,10 +451,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 1 KOTA CIREBON - TIM 4 A"
+                            "team_name": "SMPN 1 KOTA CIREBON - TIM 4 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMPN 1 KOTA CIREBON - TIM 4 B"
+                            "team_name": "SMPN 1 KOTA CIREBON - TIM 4 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -303,10 +470,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 1 KOTA CIREBON - TIM 11 A"
+                            "team_name": "SMPN 1 KOTA CIREBON - TIM 11 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMPN 1 KOTA CIREBON - TIM 11 B"
+                            "team_name": "SMPN 1 KOTA CIREBON - TIM 11 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -316,10 +489,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 1 KOTA CIREBON - TIM 4 A"
+                            "team_name": "SMPN 1 KOTA CIREBON - TIM 4 A",
+                            "juri1_poin": 489,
+                            "waktu": "02:46:56",
+                            "total_poin": 489
                         },
                         {
-                            "team_name": "SMPN 1 KOTA CIREBON - TIM 4 B"
+                            "team_name": "SMPN 1 KOTA CIREBON - TIM 4 B",
+                            "juri1_poin": 396,
+                            "waktu": "03:29:95",
+                            "total_poin": 396
                         }
                     ]
                 },
@@ -329,10 +508,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 1 KOTA CIREBON - TIM 7 A"
+                            "team_name": "SMPN 1 KOTA CIREBON - TIM 7 A",
+                            "juri1_poin": 313,
+                            "waktu": "06:42:38",
+                            "total_poin": 313
                         },
                         {
-                            "team_name": "SMPN 1 KOTA CIREBON - TIM 7 B"
+                            "team_name": "SMPN 1 KOTA CIREBON - TIM 7 B",
+                            "juri1_poin": 253,
+                            "waktu": "06:12:28",
+                            "total_poin": 253
                         }
                     ]
                 },
@@ -342,15 +527,21 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 1 KOTA CIREBON - TIM 10 A"
+                            "team_name": "SMPN 1 KOTA CIREBON - TIM 10 A",
+                            "juri1_poin": 509,
+                            "waktu": "03:51:11",
+                            "total_poin": 509
                         },
                         {
-                            "team_name": "SMPN 1 KOTA CIREBON - TIM 10 B"
+                            "team_name": "SMPN 1 KOTA CIREBON - TIM 10 B",
+                            "juri1_poin": 414,
+                            "waktu": "03:51:11",
+                            "total_poin": 414
                         }
                     ]
                 }
             ],
-            "ada_nilai": false
+            "ada_nilai": true
         },
         "5HQF3S": {
             "school_name": "SMPN 33 BANDUNG",
@@ -361,10 +552,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMPN 33 BANDUNG - TIM 7 A"
+                            "team_name": "SMPN 33 BANDUNG - TIM 7 A",
+                            "juri1_poin": 805,
+                            "juri2_poin": 0,
+                            "waktu": "00:09:50",
+                            "total_poin": 805
                         },
                         {
-                            "team_name": "SMPN 33 BANDUNG - TIM 7 B"
+                            "team_name": "SMPN 33 BANDUNG - TIM 7 B",
+                            "juri1_poin": 770,
+                            "juri2_poin": 0,
+                            "waktu": "00:09:50",
+                            "total_poin": 770
                         }
                     ]
                 },
@@ -374,10 +573,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMPN 33 BANDUNG - TIM 4 A"
+                            "team_name": "SMPN 33 BANDUNG - TIM 4 A",
+                            "juri1_poin": 730,
+                            "juri2_poin": 960,
+                            "waktu": "05:09:32",
+                            "total_poin": 1690
                         },
                         {
-                            "team_name": "SMPN 33 BANDUNG - TIM 4 B"
+                            "team_name": "SMPN 33 BANDUNG - TIM 4 B",
+                            "juri1_poin": 755,
+                            "juri2_poin": 970,
+                            "waktu": "06:30:20",
+                            "total_poin": 1725
                         }
                     ]
                 },
@@ -387,10 +594,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 33 BANDUNG - TIM 11 A"
+                            "team_name": "SMPN 33 BANDUNG - TIM 11 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMPN 33 BANDUNG - TIM 11 B"
+                            "team_name": "SMPN 33 BANDUNG - TIM 11 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -400,10 +613,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 33 BANDUNG - TIM 5 A"
+                            "team_name": "SMPN 33 BANDUNG - TIM 5 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMPN 33 BANDUNG - TIM 5 B"
+                            "team_name": "SMPN 33 BANDUNG - TIM 5 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -413,10 +632,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 33 BANDUNG - TIM 3 A"
+                            "team_name": "SMPN 33 BANDUNG - TIM 3 A",
+                            "juri1_poin": 266,
+                            "waktu": "05:34:62",
+                            "total_poin": 266
                         },
                         {
-                            "team_name": "SMPN 33 BANDUNG - TIM 3 B"
+                            "team_name": "SMPN 33 BANDUNG - TIM 3 B",
+                            "juri1_poin": 221,
+                            "waktu": "06:56:42",
+                            "total_poin": 221
                         }
                     ]
                 },
@@ -426,10 +651,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 33 BANDUNG - TIM 10 A"
+                            "team_name": "SMPN 33 BANDUNG - TIM 10 A",
+                            "juri1_poin": 430,
+                            "waktu": "03:45:39",
+                            "total_poin": 430
                         },
                         {
-                            "team_name": "SMPN 33 BANDUNG - TIM 10 B"
+                            "team_name": "SMPN 33 BANDUNG - TIM 10 B",
+                            "juri1_poin": 412,
+                            "waktu": "04:23:54",
+                            "total_poin": 412
                         }
                     ]
                 },
@@ -439,15 +670,21 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 33 BANDUNG - TIM 3 A"
+                            "team_name": "SMPN 33 BANDUNG - TIM 3 A",
+                            "juri1_poin": 290,
+                            "waktu": "06:25:16",
+                            "total_poin": 290
                         },
                         {
-                            "team_name": "SMPN 33 BANDUNG - TIM 3 B"
+                            "team_name": "SMPN 33 BANDUNG - TIM 3 B",
+                            "juri1_poin": 520,
+                            "waktu": "03:25:12",
+                            "total_poin": 520
                         }
                     ]
                 }
             ],
-            "ada_nilai": false
+            "ada_nilai": true
         },
         "W99ETL": {
             "school_name": "SMP NEGERI 4 CIREBON",
@@ -458,7 +695,11 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMP NEGERI 4 CIREBON - TIM 2 A"
+                            "team_name": "SMP NEGERI 4 CIREBON - TIM 2 A",
+                            "juri1_poin": 820,
+                            "juri2_poin": 0,
+                            "waktu": "00:09:50",
+                            "total_poin": 820
                         }
                     ]
                 },
@@ -468,7 +709,11 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMP NEGERI 4 CIREBON - TIM 11 A"
+                            "team_name": "SMP NEGERI 4 CIREBON - TIM 11 A",
+                            "juri1_poin": 945,
+                            "juri2_poin": 840,
+                            "waktu": "06:14:13",
+                            "total_poin": 1785
                         }
                     ]
                 },
@@ -478,7 +723,10 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMP NEGERI 4 CIREBON - TIM 2 A"
+                            "team_name": "SMP NEGERI 4 CIREBON - TIM 2 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -488,7 +736,10 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMP NEGERI 4 CIREBON - TIM 8 A"
+                            "team_name": "SMP NEGERI 4 CIREBON - TIM 8 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -498,7 +749,10 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMP NEGERI 4 CIREBON - TIM 6 A"
+                            "team_name": "SMP NEGERI 4 CIREBON - TIM 6 A",
+                            "juri1_poin": 270,
+                            "waktu": "05:25:56",
+                            "total_poin": 270
                         }
                     ]
                 },
@@ -508,7 +762,10 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMP NEGERI 4 CIREBON - TIM 11 A"
+                            "team_name": "SMP NEGERI 4 CIREBON - TIM 11 A",
+                            "juri1_poin": 409,
+                            "waktu": "03:46:59",
+                            "total_poin": 409
                         }
                     ]
                 },
@@ -518,12 +775,24 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMP NEGERI 4 CIREBON - TIM 11 A"
+                            "team_name": "SMP NEGERI 4 CIREBON - TIM 11 A",
+                            "juri1_poin": 348,
+                            "waktu": "06:02:58",
+                            "total_poin": 348
                         }
                     ]
                 }
             ],
-            "ada_nilai": false
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "JUARA UTAMA 3",
+                    "keterangan": "Kategori tingkat Madya - total 0 poin",
+                    "urut": 3
+                }
+            ]
         },
         "P8WSZ2": {
             "school_name": "SMP NEGERI 1 GRABAG",
@@ -534,10 +803,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMP NEGERI 1 GRABAG - TIM 11 A"
+                            "team_name": "SMP NEGERI 1 GRABAG - TIM 11 A",
+                            "juri1_poin": 810,
+                            "juri2_poin": 0,
+                            "waktu": "00:09:50",
+                            "total_poin": 810
                         },
                         {
-                            "team_name": "SMP NEGERI 1 GRABAG - TIM 11 B"
+                            "team_name": "SMP NEGERI 1 GRABAG - TIM 11 B",
+                            "juri1_poin": 815,
+                            "juri2_poin": 0,
+                            "waktu": "00:09:50",
+                            "total_poin": 815
                         }
                     ]
                 },
@@ -547,10 +824,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMP NEGERI 1 GRABAG - TIM 2 A"
+                            "team_name": "SMP NEGERI 1 GRABAG - TIM 2 A",
+                            "juri1_poin": 770,
+                            "juri2_poin": 1060,
+                            "waktu": "07:35:15",
+                            "total_poin": 1830
                         },
                         {
-                            "team_name": "SMP NEGERI 1 GRABAG - TIM 2 B"
+                            "team_name": "SMP NEGERI 1 GRABAG - TIM 2 B",
+                            "juri1_poin": 715,
+                            "juri2_poin": 1030,
+                            "waktu": "08:18:18",
+                            "total_poin": 1745
                         }
                     ]
                 },
@@ -560,10 +845,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMP NEGERI 1 GRABAG - TIM 9 A"
+                            "team_name": "SMP NEGERI 1 GRABAG - TIM 9 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMP NEGERI 1 GRABAG - TIM 9 B"
+                            "team_name": "SMP NEGERI 1 GRABAG - TIM 9 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -573,10 +864,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMP NEGERI 1 GRABAG - TIM 3 A"
+                            "team_name": "SMP NEGERI 1 GRABAG - TIM 3 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMP NEGERI 1 GRABAG - TIM 3 B"
+                            "team_name": "SMP NEGERI 1 GRABAG - TIM 3 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -586,10 +883,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMP NEGERI 1 GRABAG - TIM 5 A"
+                            "team_name": "SMP NEGERI 1 GRABAG - TIM 5 A",
+                            "juri1_poin": 495,
+                            "waktu": "01:26:64",
+                            "total_poin": 495
                         },
                         {
-                            "team_name": "SMP NEGERI 1 GRABAG - TIM 5 B"
+                            "team_name": "SMP NEGERI 1 GRABAG - TIM 5 B",
+                            "juri1_poin": 302,
+                            "waktu": "04:33:85",
+                            "total_poin": 302
                         }
                     ]
                 },
@@ -599,10 +902,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMP NEGERI 1 GRABAG - TIM 9 A"
+                            "team_name": "SMP NEGERI 1 GRABAG - TIM 9 A",
+                            "juri1_poin": 535,
+                            "waktu": "01:31:32",
+                            "total_poin": 535
                         },
                         {
-                            "team_name": "SMP NEGERI 1 GRABAG - TIM 9 B"
+                            "team_name": "SMP NEGERI 1 GRABAG - TIM 9 B",
+                            "juri1_poin": 302,
+                            "waktu": "06:23:13",
+                            "total_poin": 302
                         }
                     ]
                 },
@@ -612,15 +921,65 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMP NEGERI 1 GRABAG - TIM 9 A"
+                            "team_name": "SMP NEGERI 1 GRABAG - TIM 9 A",
+                            "juri1_poin": 533,
+                            "waktu": "03:12:12",
+                            "total_poin": 533
                         },
                         {
-                            "team_name": "SMP NEGERI 1 GRABAG - TIM 9 B"
+                            "team_name": "SMP NEGERI 1 GRABAG - TIM 9 B",
+                            "juri1_poin": 410,
+                            "waktu": "05:25:25",
+                            "total_poin": 410
                         }
                     ]
                 }
             ],
-            "ada_nilai": false
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Wira",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Kategori tingkat Wira - total 27 poin",
+                    "urut": 1
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Wira",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Poster Wira - Tim TIM 11 D PW (nilai 250)",
+                    "urut": 1
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Wira",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Poster Wira - Tim TIM 11 E PW (nilai 250)",
+                    "urut": 1
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putri Wira",
+                    "nama_juara": "JUARA 1",
+                    "keterangan": "Tandu Putri Wira - Tim TIM 12 A TPW (nilai 345)",
+                    "urut": 4
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Perawatan Keluarga Wira",
+                    "nama_juara": "JUARA HARAPAN 2",
+                    "keterangan": "Perawatan Keluarga Wira - Tim TIM 15 B PKW (nilai 1005)",
+                    "urut": 8
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Campuran Wira",
+                    "nama_juara": "JUARA HARAPAN 3",
+                    "keterangan": "Tandu Campuran Wira - Tim TIM 18 C TCW (nilai 340)",
+                    "urut": 9
+                }
+            ]
         },
         "54ZTCM": {
             "school_name": "SMPN 12 BALI",
@@ -631,10 +990,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMPN 12 BALI - TIM 1 A"
+                            "team_name": "SMPN 12 BALI - TIM 1 A",
+                            "juri1_poin": 805,
+                            "juri2_poin": 0,
+                            "waktu": "00:09:50",
+                            "total_poin": 805
                         },
                         {
-                            "team_name": "SMPN 12 BALI - TIM 1 B"
+                            "team_name": "SMPN 12 BALI - TIM 1 B",
+                            "juri1_poin": 815,
+                            "juri2_poin": 0,
+                            "waktu": "00:09:50",
+                            "total_poin": 815
                         }
                     ]
                 },
@@ -644,10 +1011,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMPN 12 BALI - TIM 10 A"
+                            "team_name": "SMPN 12 BALI - TIM 10 A",
+                            "juri1_poin": 665,
+                            "juri2_poin": 900,
+                            "waktu": "05:55:33",
+                            "total_poin": 1565
                         },
                         {
-                            "team_name": "SMPN 12 BALI - TIM 10 B"
+                            "team_name": "SMPN 12 BALI - TIM 10 B",
+                            "juri1_poin": 680,
+                            "juri2_poin": 990,
+                            "waktu": "06:06:33",
+                            "total_poin": 1670
                         }
                     ]
                 },
@@ -657,10 +1032,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 12 BALI - TIM 10 A"
+                            "team_name": "SMPN 12 BALI - TIM 10 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMPN 12 BALI - TIM 10 B"
+                            "team_name": "SMPN 12 BALI - TIM 10 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -670,10 +1051,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 12 BALI - TIM 6 A"
+                            "team_name": "SMPN 12 BALI - TIM 6 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMPN 12 BALI - TIM 6 B"
+                            "team_name": "SMPN 12 BALI - TIM 6 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -683,10 +1070,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 12 BALI - TIM 9 A"
+                            "team_name": "SMPN 12 BALI - TIM 9 A",
+                            "juri1_poin": 346,
+                            "waktu": "04:34:35",
+                            "total_poin": 346
                         },
                         {
-                            "team_name": "SMPN 12 BALI - TIM 9 B"
+                            "team_name": "SMPN 12 BALI - TIM 9 B",
+                            "juri1_poin": 434,
+                            "waktu": "02:56:46",
+                            "total_poin": 434
                         }
                     ]
                 },
@@ -696,10 +1089,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 12 BALI - TIM 8 A"
+                            "team_name": "SMPN 12 BALI - TIM 8 A",
+                            "juri1_poin": 453,
+                            "waktu": "04:22:66",
+                            "total_poin": 453
                         },
                         {
-                            "team_name": "SMPN 12 BALI - TIM 8 B"
+                            "team_name": "SMPN 12 BALI - TIM 8 B",
+                            "juri1_poin": 427,
+                            "waktu": "04:23:68",
+                            "total_poin": 427
                         }
                     ]
                 },
@@ -709,15 +1108,44 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 12 BALI - TIM 12 A"
+                            "team_name": "SMPN 12 BALI - TIM 12 A",
+                            "juri1_poin": 450,
+                            "waktu": "02:45:52",
+                            "total_poin": 450
                         },
                         {
-                            "team_name": "SMPN 12 BALI - TIM 12 B"
+                            "team_name": "SMPN 12 BALI - TIM 12 B",
+                            "juri1_poin": 378,
+                            "waktu": "05:32:62",
+                            "total_poin": 378
                         }
                     ]
                 }
             ],
-            "ada_nilai": false
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Wira",
+                    "nama_juara": "JUARA UTAMA 3",
+                    "keterangan": "Kategori tingkat Wira - total 6 poin",
+                    "urut": 3
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Smart Red Cross Wira",
+                    "nama_juara": "JUARA 3",
+                    "keterangan": "Smart Red Cross Wira - Tim TIM 8 A SRCW (nilai 100)",
+                    "urut": 6
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Campuran Wira",
+                    "nama_juara": "JUARA HARAPAN 2",
+                    "keterangan": "Tandu Campuran Wira - Tim TIM 1 A TCW (nilai 365)",
+                    "urut": 8
+                }
+            ]
         },
         "DQM5SC": {
             "school_name": "SMPN 1 GUNUNG JATI",
@@ -728,7 +1156,11 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMPN 1 GUNUNG JATI - TIM 3 A"
+                            "team_name": "SMPN 1 GUNUNG JATI - TIM 3 A",
+                            "juri1_poin": 775,
+                            "juri2_poin": 0,
+                            "waktu": "00:09:50",
+                            "total_poin": 775
                         }
                     ]
                 },
@@ -738,10 +1170,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMPN 1 GUNUNG JATI - TIM 12 A"
+                            "team_name": "SMPN 1 GUNUNG JATI - TIM 12 A",
+                            "juri1_poin": 780,
+                            "juri2_poin": 655,
+                            "waktu": "05:14:39",
+                            "total_poin": 1435
                         },
                         {
-                            "team_name": "SMPN 1 GUNUNG JATI - TIM 12 B"
+                            "team_name": "SMPN 1 GUNUNG JATI - TIM 12 B",
+                            "juri1_poin": 890,
+                            "juri2_poin": 765,
+                            "waktu": "06:32:08",
+                            "total_poin": 1655
                         }
                     ]
                 },
@@ -751,10 +1191,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 1 GUNUNG JATI - TIM 1 A"
+                            "team_name": "SMPN 1 GUNUNG JATI - TIM 1 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMPN 1 GUNUNG JATI - TIM 1 B"
+                            "team_name": "SMPN 1 GUNUNG JATI - TIM 1 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -764,10 +1210,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 1 GUNUNG JATI - TIM 10 A"
+                            "team_name": "SMPN 1 GUNUNG JATI - TIM 10 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMPN 1 GUNUNG JATI - TIM 10 B"
+                            "team_name": "SMPN 1 GUNUNG JATI - TIM 10 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -777,10 +1229,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 1 GUNUNG JATI - TIM 8 A"
+                            "team_name": "SMPN 1 GUNUNG JATI - TIM 8 A",
+                            "juri1_poin": 389,
+                            "waktu": "03:56:46",
+                            "total_poin": 389
                         },
                         {
-                            "team_name": "SMPN 1 GUNUNG JATI - TIM 8 B"
+                            "team_name": "SMPN 1 GUNUNG JATI - TIM 8 B",
+                            "juri1_poin": 424,
+                            "waktu": "03:46:95",
+                            "total_poin": 424
                         }
                     ]
                 },
@@ -790,10 +1248,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 1 GUNUNG JATI - TIM 5 A"
+                            "team_name": "SMPN 1 GUNUNG JATI - TIM 5 A",
+                            "juri1_poin": 336,
+                            "waktu": "06:45:32",
+                            "total_poin": 336
                         },
                         {
-                            "team_name": "SMPN 1 GUNUNG JATI - TIM 5 B"
+                            "team_name": "SMPN 1 GUNUNG JATI - TIM 5 B",
+                            "juri1_poin": 417,
+                            "waktu": "04:23:57",
+                            "total_poin": 417
                         }
                     ]
                 },
@@ -803,15 +1267,79 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 1 GUNUNG JATI - TIM 6 A"
+                            "team_name": "SMPN 1 GUNUNG JATI - TIM 6 A",
+                            "juri1_poin": 435,
+                            "waktu": "04:10:81",
+                            "total_poin": 435
                         },
                         {
-                            "team_name": "SMPN 1 GUNUNG JATI - TIM 6 B"
+                            "team_name": "SMPN 1 GUNUNG JATI - TIM 6 B",
+                            "juri1_poin": 335,
+                            "waktu": "05:35:15",
+                            "total_poin": 335
                         }
                     ]
                 }
             ],
-            "ada_nilai": false
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Wira",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Kategori tingkat Wira - total 29 poin",
+                    "urut": 1
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Wira",
+                    "nama_juara": "JUARA 1",
+                    "keterangan": "Pertolongan Pertama Wira - Tim TIM 14 A PPW (nilai 2435)",
+                    "urut": 4
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Campuran Wira",
+                    "nama_juara": "JUARA 1",
+                    "keterangan": "Tandu Campuran Wira - Tim TIM 8 A TCW (nilai 385)",
+                    "urut": 4
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Perawatan Keluarga Wira",
+                    "nama_juara": "JUARA 2",
+                    "keterangan": "Perawatan Keluarga Wira - Tim TIM 10 A PKW (nilai 1140)",
+                    "urut": 5
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Wira",
+                    "nama_juara": "JUARA 3",
+                    "keterangan": "Pertolongan Pertama Wira - Tim TIM 14 B PPW (nilai 2390)",
+                    "urut": 6
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putri Wira",
+                    "nama_juara": "JUARA 3",
+                    "keterangan": "Tandu Putri Wira - Tim TIM 2 A TPW (nilai 335)",
+                    "urut": 6
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putra Wira",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Tandu Putra Wira - Tim TIM 15 A TPW (nilai 330)",
+                    "urut": 7
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Perawatan Keluarga Wira",
+                    "nama_juara": "JUARA HARAPAN 3",
+                    "keterangan": "Perawatan Keluarga Wira - Tim TIM 10 B PKW (nilai 1000)",
+                    "urut": 9
+                }
+            ]
         },
         "HXW4QE": {
             "school_name": "SMPN67CIREBON",
@@ -822,10 +1350,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMPN67CIREBON - TIM 5 A"
+                            "team_name": "SMPN67CIREBON - TIM 5 A",
+                            "juri1_poin": 805,
+                            "juri2_poin": 0,
+                            "waktu": "00:09:50",
+                            "total_poin": 805
                         },
                         {
-                            "team_name": "SMPN67CIREBON - TIM 5 B"
+                            "team_name": "SMPN67CIREBON - TIM 5 B",
+                            "juri1_poin": 820,
+                            "juri2_poin": 0,
+                            "waktu": "00:09:50",
+                            "total_poin": 820
                         }
                     ]
                 },
@@ -835,10 +1371,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMPN67CIREBON - TIM 3 A"
+                            "team_name": "SMPN67CIREBON - TIM 3 A",
+                            "juri1_poin": 710,
+                            "juri2_poin": 960,
+                            "waktu": "06:33:55",
+                            "total_poin": 1670
                         },
                         {
-                            "team_name": "SMPN67CIREBON - TIM 3 B"
+                            "team_name": "SMPN67CIREBON - TIM 3 B",
+                            "juri1_poin": 785,
+                            "juri2_poin": 995,
+                            "waktu": "08:10:22",
+                            "total_poin": 1780
                         }
                     ]
                 },
@@ -848,13 +1392,22 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN67CIREBON - TIM 7 A"
+                            "team_name": "SMPN67CIREBON - TIM 7 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMPN67CIREBON - TIM 7 B"
+                            "team_name": "SMPN67CIREBON - TIM 7 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMPN67CIREBON - TIM 7 C"
+                            "team_name": "SMPN67CIREBON - TIM 7 C",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -864,22 +1417,40 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN67CIREBON - TIM 7 A"
+                            "team_name": "SMPN67CIREBON - TIM 7 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMPN67CIREBON - TIM 7 B"
+                            "team_name": "SMPN67CIREBON - TIM 7 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMPN67CIREBON - TIM 7 C"
+                            "team_name": "SMPN67CIREBON - TIM 7 C",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMPN67CIREBON - TIM 7 D"
+                            "team_name": "SMPN67CIREBON - TIM 7 D",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMPN67CIREBON - TIM 7 E"
+                            "team_name": "SMPN67CIREBON - TIM 7 E",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMPN67CIREBON - TIM 7 F"
+                            "team_name": "SMPN67CIREBON - TIM 7 F",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -889,7 +1460,10 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN67CIREBON - TIM 1 A"
+                            "team_name": "SMPN67CIREBON - TIM 1 A",
+                            "juri1_poin": 358,
+                            "waktu": "04:22:32",
+                            "total_poin": 358
                         }
                     ]
                 },
@@ -899,34 +1473,64 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN67CIREBON - TIM 12 A"
+                            "team_name": "SMPN67CIREBON - TIM 12 A",
+                            "juri1_poin": 332,
+                            "waktu": "04:33:85",
+                            "total_poin": 332
                         },
                         {
-                            "team_name": "SMPN67CIREBON - TIM 12 B"
+                            "team_name": "SMPN67CIREBON - TIM 12 B",
+                            "juri1_poin": 287,
+                            "waktu": "04:33:44",
+                            "total_poin": 287
                         },
                         {
-                            "team_name": "SMPN67CIREBON - TIM 12 C"
+                            "team_name": "SMPN67CIREBON - TIM 12 C",
+                            "juri1_poin": 387,
+                            "waktu": "03:53:48",
+                            "total_poin": 387
                         },
                         {
-                            "team_name": "SMPN67CIREBON - TIM 12 D"
+                            "team_name": "SMPN67CIREBON - TIM 12 D",
+                            "juri1_poin": 251,
+                            "waktu": "06:34:54",
+                            "total_poin": 251
                         },
                         {
-                            "team_name": "SMPN67CIREBON - TIM 12 E"
+                            "team_name": "SMPN67CIREBON - TIM 12 E",
+                            "juri1_poin": 402,
+                            "waktu": "05:13:24",
+                            "total_poin": 402
                         },
                         {
-                            "team_name": "SMPN67CIREBON - TIM 12 F"
+                            "team_name": "SMPN67CIREBON - TIM 12 F",
+                            "juri1_poin": 377,
+                            "waktu": "04:23:65",
+                            "total_poin": 377
                         },
                         {
-                            "team_name": "SMPN67CIREBON - TIM 12 G"
+                            "team_name": "SMPN67CIREBON - TIM 12 G",
+                            "juri1_poin": 420,
+                            "waktu": "03:45:55",
+                            "total_poin": 420
                         },
                         {
-                            "team_name": "SMPN67CIREBON - TIM 12 H"
+                            "team_name": "SMPN67CIREBON - TIM 12 H",
+                            "juri1_poin": 355,
+                            "waktu": "03:55:68",
+                            "total_poin": 355
                         },
                         {
-                            "team_name": "SMPN67CIREBON - TIM 12 I"
+                            "team_name": "SMPN67CIREBON - TIM 12 I",
+                            "juri1_poin": 499,
+                            "waktu": "03:46:49",
+                            "total_poin": 499
                         },
                         {
-                            "team_name": "SMPN67CIREBON - TIM 12 J"
+                            "team_name": "SMPN67CIREBON - TIM 12 J",
+                            "juri1_poin": 419,
+                            "waktu": "03:46:48",
+                            "total_poin": 419
                         }
                     ]
                 },
@@ -936,33 +1540,80 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN67CIREBON - TIM 8 A"
+                            "team_name": "SMPN67CIREBON - TIM 8 A",
+                            "juri1_poin": 256,
+                            "waktu": "07:00:00",
+                            "total_poin": 256
                         },
                         {
-                            "team_name": "SMPN67CIREBON - TIM 8 B"
+                            "team_name": "SMPN67CIREBON - TIM 8 B",
+                            "juri1_poin": 318,
+                            "waktu": "06:32:58",
+                            "total_poin": 318
                         },
                         {
-                            "team_name": "SMPN67CIREBON - TIM 8 C"
+                            "team_name": "SMPN67CIREBON - TIM 8 C",
+                            "juri1_poin": 311,
+                            "waktu": "06:53:35",
+                            "total_poin": 311
                         },
                         {
-                            "team_name": "SMPN67CIREBON - TIM 8 D"
+                            "team_name": "SMPN67CIREBON - TIM 8 D",
+                            "juri1_poin": 390,
+                            "waktu": "05:25:12",
+                            "total_poin": 390
                         },
                         {
-                            "team_name": "SMPN67CIREBON - TIM 8 E"
+                            "team_name": "SMPN67CIREBON - TIM 8 E",
+                            "juri1_poin": 560,
+                            "waktu": "02:15:56",
+                            "total_poin": 560
                         },
                         {
-                            "team_name": "SMPN67CIREBON - TIM 8 F"
+                            "team_name": "SMPN67CIREBON - TIM 8 F",
+                            "juri1_poin": 276,
+                            "waktu": "07:28:66",
+                            "total_poin": 276
                         },
                         {
-                            "team_name": "SMPN67CIREBON - TIM 8 G"
+                            "team_name": "SMPN67CIREBON - TIM 8 G",
+                            "juri1_poin": 281,
+                            "waktu": "07:00:00",
+                            "total_poin": 281
                         },
                         {
-                            "team_name": "SMPN67CIREBON - TIM 8 H"
+                            "team_name": "SMPN67CIREBON - TIM 8 H",
+                            "juri1_poin": 402,
+                            "waktu": "05:13:55",
+                            "total_poin": 402
                         }
                     ]
                 }
             ],
-            "ada_nilai": false
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Kategori tingkat Madya - total 9 poin",
+                    "urut": 2
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putra Madya",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Tandu Putra Madya - Tim TIM 13 A TPM (nilai 315)",
+                    "urut": 2
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
+                    "nama_juara": "JUARA HARAPAN 3",
+                    "keterangan": "Pertolongan Pertama Madya - Tim TIM 19 A PPM (nilai 1825)",
+                    "urut": 9
+                }
+            ]
         },
         "SYNSCP": {
             "school_name": "SMP 56 JAKARTA UTARA",
@@ -973,10 +1624,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMP 56 JAKARTA UTARA - TIM 4 A"
+                            "team_name": "SMP 56 JAKARTA UTARA - TIM 4 A",
+                            "juri1_poin": 820,
+                            "juri2_poin": 0,
+                            "waktu": "00:09:55",
+                            "total_poin": 820
                         },
                         {
-                            "team_name": "SMP 56 JAKARTA UTARA - TIM 4 B"
+                            "team_name": "SMP 56 JAKARTA UTARA - TIM 4 B",
+                            "juri1_poin": 800,
+                            "juri2_poin": 0,
+                            "waktu": "00:09:50",
+                            "total_poin": 800
                         }
                     ]
                 },
@@ -986,10 +1645,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMP 56 JAKARTA UTARA - TIM 7 A"
+                            "team_name": "SMP 56 JAKARTA UTARA - TIM 7 A",
+                            "juri1_poin": 915,
+                            "juri2_poin": 925,
+                            "waktu": "05:30:50",
+                            "total_poin": 1840
                         },
                         {
-                            "team_name": "SMP 56 JAKARTA UTARA - TIM 7 B"
+                            "team_name": "SMP 56 JAKARTA UTARA - TIM 7 B",
+                            "juri1_poin": 790,
+                            "juri2_poin": 820,
+                            "waktu": "06:25:14",
+                            "total_poin": 1610
                         }
                     ]
                 },
@@ -999,10 +1666,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMP 56 JAKARTA UTARA - TIM 12 A"
+                            "team_name": "SMP 56 JAKARTA UTARA - TIM 12 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMP 56 JAKARTA UTARA - TIM 12 B"
+                            "team_name": "SMP 56 JAKARTA UTARA - TIM 12 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -1012,10 +1685,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMP 56 JAKARTA UTARA - TIM 9 A"
+                            "team_name": "SMP 56 JAKARTA UTARA - TIM 9 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMP 56 JAKARTA UTARA - TIM 9 B"
+                            "team_name": "SMP 56 JAKARTA UTARA - TIM 9 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -1025,10 +1704,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMP 56 JAKARTA UTARA - TIM 2 A"
+                            "team_name": "SMP 56 JAKARTA UTARA - TIM 2 A",
+                            "juri1_poin": 493,
+                            "waktu": "03:57:92",
+                            "total_poin": 493
                         },
                         {
-                            "team_name": "SMP 56 JAKARTA UTARA - TIM 2 B"
+                            "team_name": "SMP 56 JAKARTA UTARA - TIM 2 B",
+                            "juri1_poin": 425,
+                            "waktu": "01:35:35",
+                            "total_poin": 425
                         }
                     ]
                 },
@@ -1038,10 +1723,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMP 56 JAKARTA UTARA - TIM 4 A"
+                            "team_name": "SMP 56 JAKARTA UTARA - TIM 4 A",
+                            "juri1_poin": 449,
+                            "waktu": "02:56:62",
+                            "total_poin": 449
                         },
                         {
-                            "team_name": "SMP 56 JAKARTA UTARA - TIM 4 B"
+                            "team_name": "SMP 56 JAKARTA UTARA - TIM 4 B",
+                            "juri1_poin": 357,
+                            "waktu": "05:28:45",
+                            "total_poin": 357
                         }
                     ]
                 },
@@ -1051,15 +1742,37 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMP 56 JAKARTA UTARA - TIM 7 A"
+                            "team_name": "SMP 56 JAKARTA UTARA - TIM 7 A",
+                            "juri1_poin": 361,
+                            "waktu": "04:24:00",
+                            "total_poin": 361
                         },
                         {
-                            "team_name": "SMP 56 JAKARTA UTARA - TIM 7 B"
+                            "team_name": "SMP 56 JAKARTA UTARA - TIM 7 B",
+                            "juri1_poin": 126,
+                            "waktu": "06:48:44",
+                            "total_poin": 126
                         }
                     ]
                 }
             ],
-            "ada_nilai": false
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Wira",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Pertolongan Pertama Wira - Tim TIM 24 A PPW (nilai 2460)",
+                    "urut": 1
+                },
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Wira",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Kategori tingkat Wira - total 9 poin",
+                    "urut": 2
+                }
+            ]
         },
         "LPHFCZ": {
             "school_name": "SMPN 1 BANDUNG",
@@ -1070,10 +1783,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMPN 1 BANDUNG - TIM 6 A"
+                            "team_name": "SMPN 1 BANDUNG - TIM 6 A",
+                            "juri1_poin": 840,
+                            "juri2_poin": 0,
+                            "waktu": "00:09:55",
+                            "total_poin": 840
                         },
                         {
-                            "team_name": "SMPN 1 BANDUNG - TIM 6 B"
+                            "team_name": "SMPN 1 BANDUNG - TIM 6 B",
+                            "juri1_poin": 805,
+                            "juri2_poin": 0,
+                            "waktu": "00:09:50",
+                            "total_poin": 805
                         }
                     ]
                 },
@@ -1083,10 +1804,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMPN 1 BANDUNG - TIM 9 A"
+                            "team_name": "SMPN 1 BANDUNG - TIM 9 A",
+                            "juri1_poin": 665,
+                            "juri2_poin": 910,
+                            "waktu": "06:24:20",
+                            "total_poin": 1575
                         },
                         {
-                            "team_name": "SMPN 1 BANDUNG - TIM 9 B"
+                            "team_name": "SMPN 1 BANDUNG - TIM 9 B",
+                            "juri1_poin": 705,
+                            "juri2_poin": 905,
+                            "waktu": "05:36:00",
+                            "total_poin": 1610
                         }
                     ]
                 },
@@ -1096,10 +1825,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 1 BANDUNG - TIM 3 A"
+                            "team_name": "SMPN 1 BANDUNG - TIM 3 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMPN 1 BANDUNG - TIM 3 B"
+                            "team_name": "SMPN 1 BANDUNG - TIM 3 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -1109,10 +1844,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 1 BANDUNG - TIM 4 A"
+                            "team_name": "SMPN 1 BANDUNG - TIM 4 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMPN 1 BANDUNG - TIM 4 B"
+                            "team_name": "SMPN 1 BANDUNG - TIM 4 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -1122,10 +1863,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 1 BANDUNG - TIM 7 A"
+                            "team_name": "SMPN 1 BANDUNG - TIM 7 A",
+                            "juri1_poin": 392,
+                            "waktu": "02:43:62",
+                            "total_poin": 392
                         },
                         {
-                            "team_name": "SMPN 1 BANDUNG - TIM 7 B"
+                            "team_name": "SMPN 1 BANDUNG - TIM 7 B",
+                            "juri1_poin": 437,
+                            "waktu": "02:43:53",
+                            "total_poin": 437
                         }
                     ]
                 },
@@ -1135,10 +1882,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 1 BANDUNG - TIM 1 A"
+                            "team_name": "SMPN 1 BANDUNG - TIM 1 A",
+                            "juri1_poin": 566,
+                            "waktu": "02:54:53",
+                            "total_poin": 566
                         },
                         {
-                            "team_name": "SMPN 1 BANDUNG - TIM 1 B"
+                            "team_name": "SMPN 1 BANDUNG - TIM 1 B",
+                            "juri1_poin": 353,
+                            "waktu": "05:42:26",
+                            "total_poin": 353
                         }
                     ]
                 },
@@ -1148,15 +1901,21 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 1 BANDUNG - TIM 2 A"
+                            "team_name": "SMPN 1 BANDUNG - TIM 2 A",
+                            "juri1_poin": 544,
+                            "waktu": "03:51:11",
+                            "total_poin": 544
                         },
                         {
-                            "team_name": "SMPN 1 BANDUNG - TIM 2 B"
+                            "team_name": "SMPN 1 BANDUNG - TIM 2 B",
+                            "juri1_poin": 348,
+                            "waktu": "05:52:96",
+                            "total_poin": 348
                         }
                     ]
                 }
             ],
-            "ada_nilai": false
+            "ada_nilai": true
         },
         "FNT4UR": {
             "school_name": "SMPN 1 BRAZIL",
@@ -1167,7 +1926,11 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMPN 1 BRAZIL - TIM 12 A"
+                            "team_name": "SMPN 1 BRAZIL - TIM 12 A",
+                            "juri1_poin": 805,
+                            "juri2_poin": 0,
+                            "waktu": "00:09:50",
+                            "total_poin": 805
                         }
                     ]
                 },
@@ -1177,7 +1940,11 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMPN 1 BRAZIL - TIM 5 A"
+                            "team_name": "SMPN 1 BRAZIL - TIM 5 A",
+                            "juri1_poin": 720,
+                            "juri2_poin": 960,
+                            "waktu": "06:45:02",
+                            "total_poin": 1680
                         }
                     ]
                 },
@@ -1187,7 +1954,10 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 1 BRAZIL - TIM 6 A"
+                            "team_name": "SMPN 1 BRAZIL - TIM 6 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -1197,7 +1967,10 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 1 BRAZIL - TIM 12 A"
+                            "team_name": "SMPN 1 BRAZIL - TIM 12 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -1207,7 +1980,10 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 1 BRAZIL - TIM 12 A"
+                            "team_name": "SMPN 1 BRAZIL - TIM 12 A",
+                            "juri1_poin": 437,
+                            "waktu": "03:43:46",
+                            "total_poin": 437
                         }
                     ]
                 },
@@ -1217,7 +1993,10 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 1 BRAZIL - TIM 3 A"
+                            "team_name": "SMPN 1 BRAZIL - TIM 3 A",
+                            "juri1_poin": 755,
+                            "waktu": "02:15:05",
+                            "total_poin": 755
                         }
                     ]
                 },
@@ -1227,12 +2006,31 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 1 BRAZIL - TIM 4 A"
+                            "team_name": "SMPN 1 BRAZIL - TIM 4 A",
+                            "juri1_poin": 409,
+                            "waktu": "03:51:11",
+                            "total_poin": 409
                         }
                     ]
                 }
             ],
-            "ada_nilai": false
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Perawatan Keluarga Madya",
+                    "nama_juara": "JUARA UTAMA 3",
+                    "keterangan": "Perawatan Keluarga Madya - Tim TIM 5 A PKM (nilai 1180)",
+                    "urut": 3
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putra Madya",
+                    "nama_juara": "JUARA 1",
+                    "keterangan": "Tandu Putra Madya - Tim TIM 15 A TPM (nilai 294)",
+                    "urut": 4
+                }
+            ]
         },
         "7ES7S4": {
             "school_name": "SMA 1 SUMEDANG",
@@ -1243,10 +2041,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMA 1 SUMEDANG - TIM 1 A"
+                            "team_name": "SMA 1 SUMEDANG - TIM 1 A",
+                            "juri1_poin": 820,
+                            "juri2_poin": 0,
+                            "waktu": "00:14:35",
+                            "total_poin": 820
                         },
                         {
-                            "team_name": "SMA 1 SUMEDANG - TIM 1 B"
+                            "team_name": "SMA 1 SUMEDANG - TIM 1 B",
+                            "juri1_poin": 970,
+                            "juri2_poin": 0,
+                            "waktu": "00:14:50",
+                            "total_poin": 970
                         }
                     ]
                 },
@@ -1256,10 +2062,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMA 1 SUMEDANG - TIM 2 A"
+                            "team_name": "SMA 1 SUMEDANG - TIM 2 A",
+                            "juri1_poin": 975,
+                            "juri2_poin": 790,
+                            "waktu": "00:11:54",
+                            "total_poin": 1765
                         },
                         {
-                            "team_name": "SMA 1 SUMEDANG - TIM 2 B"
+                            "team_name": "SMA 1 SUMEDANG - TIM 2 B",
+                            "juri1_poin": 1080,
+                            "juri2_poin": 850,
+                            "waktu": "00:12:00",
+                            "total_poin": 1930
                         }
                     ]
                 },
@@ -1269,10 +2083,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMA 1 SUMEDANG - TIM 8 A"
+                            "team_name": "SMA 1 SUMEDANG - TIM 8 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMA 1 SUMEDANG - TIM 8 B"
+                            "team_name": "SMA 1 SUMEDANG - TIM 8 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -1282,10 +2102,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMA 1 SUMEDANG - TIM 3 A"
+                            "team_name": "SMA 1 SUMEDANG - TIM 3 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMA 1 SUMEDANG - TIM 3 B"
+                            "team_name": "SMA 1 SUMEDANG - TIM 3 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -1295,10 +2121,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMA 1 SUMEDANG - TIM 2 A"
+                            "team_name": "SMA 1 SUMEDANG - TIM 2 A",
+                            "juri1_poin": 241,
+                            "waktu": "11:52:66",
+                            "total_poin": 241
                         },
                         {
-                            "team_name": "SMA 1 SUMEDANG - TIM 2 B"
+                            "team_name": "SMA 1 SUMEDANG - TIM 2 B",
+                            "juri1_poin": 550,
+                            "waktu": "00:05:00",
+                            "total_poin": 550
                         }
                     ]
                 },
@@ -1308,10 +2140,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMA 1 SUMEDANG - TIM 9 A"
+                            "team_name": "SMA 1 SUMEDANG - TIM 9 A",
+                            "juri1_poin": 509,
+                            "waktu": "03:51:11",
+                            "total_poin": 509
                         },
                         {
-                            "team_name": "SMA 1 SUMEDANG - TIM 9 B"
+                            "team_name": "SMA 1 SUMEDANG - TIM 9 B",
+                            "juri1_poin": 553,
+                            "waktu": "03:52:09",
+                            "total_poin": 553
                         }
                     ]
                 },
@@ -1321,15 +2159,30 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMA 1 SUMEDANG - TIM 3 A"
+                            "team_name": "SMA 1 SUMEDANG - TIM 3 A",
+                            "juri1_poin": 567,
+                            "waktu": "03:58:09",
+                            "total_poin": 567
                         },
                         {
-                            "team_name": "SMA 1 SUMEDANG - TIM 3 B"
+                            "team_name": "SMA 1 SUMEDANG - TIM 3 B",
+                            "juri1_poin": 560,
+                            "waktu": "03:25:06",
+                            "total_poin": 560
                         }
                     ]
                 }
             ],
-            "ada_nilai": false
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Wira",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Pertolongan Pertama Wira - Tim TIM 19 A PPW (nilai 2320)",
+                    "urut": 7
+                }
+            ]
         },
         "QSZQ6H": {
             "school_name": "SMAN 1 KEDAWUNG",
@@ -1340,10 +2193,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMAN 1 KEDAWUNG - TIM 4 A"
+                            "team_name": "SMAN 1 KEDAWUNG - TIM 4 A",
+                            "juri1_poin": 805,
+                            "juri2_poin": 0,
+                            "waktu": "00:14:53",
+                            "total_poin": 805
                         },
                         {
-                            "team_name": "SMAN 1 KEDAWUNG - TIM 4 B"
+                            "team_name": "SMAN 1 KEDAWUNG - TIM 4 B",
+                            "juri1_poin": 835,
+                            "juri2_poin": 0,
+                            "waktu": "00:14:52",
+                            "total_poin": 835
                         }
                     ]
                 },
@@ -1353,10 +2214,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMAN 1 KEDAWUNG - TIM 3 A"
+                            "team_name": "SMAN 1 KEDAWUNG - TIM 3 A",
+                            "juri1_poin": 975,
+                            "juri2_poin": 870,
+                            "waktu": "00:11:45",
+                            "total_poin": 1845
                         },
                         {
-                            "team_name": "SMAN 1 KEDAWUNG - TIM 3 B"
+                            "team_name": "SMAN 1 KEDAWUNG - TIM 3 B",
+                            "juri1_poin": 1005,
+                            "juri2_poin": 915,
+                            "waktu": "00:11:58",
+                            "total_poin": 1920
                         }
                     ]
                 },
@@ -1366,10 +2235,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMAN 1 KEDAWUNG - TIM 7 A"
+                            "team_name": "SMAN 1 KEDAWUNG - TIM 7 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMAN 1 KEDAWUNG - TIM 7 B"
+                            "team_name": "SMAN 1 KEDAWUNG - TIM 7 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -1379,10 +2254,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMAN 1 KEDAWUNG - TIM 4 A"
+                            "team_name": "SMAN 1 KEDAWUNG - TIM 4 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMAN 1 KEDAWUNG - TIM 4 B"
+                            "team_name": "SMAN 1 KEDAWUNG - TIM 4 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -1392,10 +2273,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMAN 1 KEDAWUNG - TIM 1 A"
+                            "team_name": "SMAN 1 KEDAWUNG - TIM 1 A",
+                            "juri1_poin": 540,
+                            "waktu": "00:06:00",
+                            "total_poin": 540
                         },
                         {
-                            "team_name": "SMAN 1 KEDAWUNG - TIM 1 B"
+                            "team_name": "SMAN 1 KEDAWUNG - TIM 1 B",
+                            "juri1_poin": 545,
+                            "waktu": "00:06:00",
+                            "total_poin": 545
                         }
                     ]
                 },
@@ -1405,10 +2292,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMAN 1 KEDAWUNG - TIM 7 A"
+                            "team_name": "SMAN 1 KEDAWUNG - TIM 7 A",
+                            "juri1_poin": 635,
+                            "waktu": "02:55:53",
+                            "total_poin": 635
                         },
                         {
-                            "team_name": "SMAN 1 KEDAWUNG - TIM 7 B"
+                            "team_name": "SMAN 1 KEDAWUNG - TIM 7 B",
+                            "juri1_poin": 574,
+                            "waktu": "03:26:08",
+                            "total_poin": 574
                         }
                     ]
                 },
@@ -1418,15 +2311,21 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMAN 1 KEDAWUNG - TIM 9 A"
+                            "team_name": "SMAN 1 KEDAWUNG - TIM 9 A",
+                            "juri1_poin": 582,
+                            "waktu": "03:13:06",
+                            "total_poin": 582
                         },
                         {
-                            "team_name": "SMAN 1 KEDAWUNG - TIM 9 B"
+                            "team_name": "SMAN 1 KEDAWUNG - TIM 9 B",
+                            "juri1_poin": 571,
+                            "waktu": "03:24:13",
+                            "total_poin": 571
                         }
                     ]
                 }
             ],
-            "ada_nilai": false
+            "ada_nilai": true
         },
         "65DY8Z": {
             "school_name": "SMAN 10 SUSUKAN",
@@ -1437,10 +2336,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMAN 10 SUSUKAN - TIM 7 A"
+                            "team_name": "SMAN 10 SUSUKAN - TIM 7 A",
+                            "juri1_poin": 860,
+                            "juri2_poin": 0,
+                            "waktu": "00:14:53",
+                            "total_poin": 860
                         },
                         {
-                            "team_name": "SMAN 10 SUSUKAN - TIM 7 B"
+                            "team_name": "SMAN 10 SUSUKAN - TIM 7 B",
+                            "juri1_poin": 915,
+                            "juri2_poin": 0,
+                            "waktu": "00:14:58",
+                            "total_poin": 915
                         }
                     ]
                 },
@@ -1450,10 +2357,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMAN 10 SUSUKAN - TIM 1 A"
+                            "team_name": "SMAN 10 SUSUKAN - TIM 1 A",
+                            "juri1_poin": 1170,
+                            "juri2_poin": 865,
+                            "waktu": "00:12:00",
+                            "total_poin": 2035
                         },
                         {
-                            "team_name": "SMAN 10 SUSUKAN - TIM 1 B"
+                            "team_name": "SMAN 10 SUSUKAN - TIM 1 B",
+                            "juri1_poin": 1055,
+                            "juri2_poin": 800,
+                            "waktu": "00:11:57",
+                            "total_poin": 1855
                         }
                     ]
                 },
@@ -1463,10 +2378,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMAN 10 SUSUKAN - TIM 4 A"
+                            "team_name": "SMAN 10 SUSUKAN - TIM 4 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMAN 10 SUSUKAN - TIM 4 B"
+                            "team_name": "SMAN 10 SUSUKAN - TIM 4 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -1476,10 +2397,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMAN 10 SUSUKAN - TIM 9 A"
+                            "team_name": "SMAN 10 SUSUKAN - TIM 9 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMAN 10 SUSUKAN - TIM 9 B"
+                            "team_name": "SMAN 10 SUSUKAN - TIM 9 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -1489,10 +2416,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMAN 10 SUSUKAN - TIM 7 A"
+                            "team_name": "SMAN 10 SUSUKAN - TIM 7 A",
+                            "juri1_poin": 470,
+                            "waktu": "04:00:05",
+                            "total_poin": 470
                         },
                         {
-                            "team_name": "SMAN 10 SUSUKAN - TIM 7 B"
+                            "team_name": "SMAN 10 SUSUKAN - TIM 7 B",
+                            "juri1_poin": 481,
+                            "waktu": "03:04:01",
+                            "total_poin": 481
                         }
                     ]
                 },
@@ -1502,10 +2435,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMAN 10 SUSUKAN - TIM 5 A"
+                            "team_name": "SMAN 10 SUSUKAN - TIM 5 A",
+                            "juri1_poin": 562,
+                            "waktu": "03:53:02",
+                            "total_poin": 562
                         },
                         {
-                            "team_name": "SMAN 10 SUSUKAN - TIM 5 B"
+                            "team_name": "SMAN 10 SUSUKAN - TIM 5 B",
+                            "juri1_poin": 637,
+                            "waktu": "02:58:03",
+                            "total_poin": 637
                         }
                     ]
                 },
@@ -1515,15 +2454,37 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMAN 10 SUSUKAN - TIM 4 A"
+                            "team_name": "SMAN 10 SUSUKAN - TIM 4 A",
+                            "juri1_poin": 590,
+                            "waktu": "03:25:09",
+                            "total_poin": 590
                         },
                         {
-                            "team_name": "SMAN 10 SUSUKAN - TIM 4 B"
+                            "team_name": "SMAN 10 SUSUKAN - TIM 4 B",
+                            "juri1_poin": 555,
+                            "waktu": "03:25:06",
+                            "total_poin": 555
                         }
                     ]
                 }
             ],
-            "ada_nilai": false
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Kategori tingkat Madya - total 8 poin",
+                    "urut": 2
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Perawatan Keluarga Madya",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Perawatan Keluarga Madya - Tim TIM 9 A PKM (nilai 1200)",
+                    "urut": 2
+                }
+            ]
         },
         "5MS32Z": {
             "school_name": "SMAN 22 LEMAHABANG",
@@ -1534,10 +2495,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMAN 22 LEMAHABANG - TIM 8 A"
+                            "team_name": "SMAN 22 LEMAHABANG - TIM 8 A",
+                            "juri1_poin": 910,
+                            "juri2_poin": 0,
+                            "waktu": "00:14:52",
+                            "total_poin": 910
                         },
                         {
-                            "team_name": "SMAN 22 LEMAHABANG - TIM 8 B"
+                            "team_name": "SMAN 22 LEMAHABANG - TIM 8 B",
+                            "juri1_poin": 925,
+                            "juri2_poin": 0,
+                            "waktu": "00:15:00",
+                            "total_poin": 925
                         }
                     ]
                 },
@@ -1547,10 +2516,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMAN 22 LEMAHABANG - TIM 7 A"
+                            "team_name": "SMAN 22 LEMAHABANG - TIM 7 A",
+                            "juri1_poin": 995,
+                            "juri2_poin": 730,
+                            "waktu": "00:11:47",
+                            "total_poin": 1725
                         },
                         {
-                            "team_name": "SMAN 22 LEMAHABANG - TIM 7 B"
+                            "team_name": "SMAN 22 LEMAHABANG - TIM 7 B",
+                            "juri1_poin": 960,
+                            "juri2_poin": 850,
+                            "waktu": "00:12:00",
+                            "total_poin": 1810
                         }
                     ]
                 },
@@ -1560,10 +2537,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMAN 22 LEMAHABANG - TIM 9 A"
+                            "team_name": "SMAN 22 LEMAHABANG - TIM 9 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMAN 22 LEMAHABANG - TIM 9 B"
+                            "team_name": "SMAN 22 LEMAHABANG - TIM 9 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -1573,10 +2556,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMAN 22 LEMAHABANG - TIM 6 A"
+                            "team_name": "SMAN 22 LEMAHABANG - TIM 6 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMAN 22 LEMAHABANG - TIM 6 B"
+                            "team_name": "SMAN 22 LEMAHABANG - TIM 6 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -1586,10 +2575,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMAN 22 LEMAHABANG - TIM 4 A"
+                            "team_name": "SMAN 22 LEMAHABANG - TIM 4 A",
+                            "juri1_poin": 391,
+                            "waktu": "05:04:00",
+                            "total_poin": 391
                         },
                         {
-                            "team_name": "SMAN 22 LEMAHABANG - TIM 4 B"
+                            "team_name": "SMAN 22 LEMAHABANG - TIM 4 B",
+                            "juri1_poin": 443,
+                            "waktu": "05:07:07",
+                            "total_poin": 443
                         }
                     ]
                 },
@@ -1599,10 +2594,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMAN 22 LEMAHABANG - TIM 8 A"
+                            "team_name": "SMAN 22 LEMAHABANG - TIM 8 A",
+                            "juri1_poin": 537,
+                            "waktu": "03:58:03",
+                            "total_poin": 537
                         },
                         {
-                            "team_name": "SMAN 22 LEMAHABANG - TIM 8 B"
+                            "team_name": "SMAN 22 LEMAHABANG - TIM 8 B",
+                            "juri1_poin": 576,
+                            "waktu": "03:59:33",
+                            "total_poin": 576
                         }
                     ]
                 },
@@ -1612,15 +2613,58 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMAN 22 LEMAHABANG - TIM 10 A"
+                            "team_name": "SMAN 22 LEMAHABANG - TIM 10 A",
+                            "juri1_poin": 617,
+                            "waktu": "02:58:14",
+                            "total_poin": 617
                         },
                         {
-                            "team_name": "SMAN 22 LEMAHABANG - TIM 10 B"
+                            "team_name": "SMAN 22 LEMAHABANG - TIM 10 B",
+                            "juri1_poin": 569,
+                            "waktu": "03:26:17",
+                            "total_poin": 569
                         }
                     ]
                 }
             ],
-            "ada_nilai": false
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Wira",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Poster Wira - Tim TIM 1 A PW (nilai 250)",
+                    "urut": 1
+                },
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Wira",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Kategori tingkat Wira - total 22 poin",
+                    "urut": 2
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Wira",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Pertolongan Pertama Wira - Tim TIM 12 A PPW (nilai 2460)",
+                    "urut": 2
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Smart Red Cross Wira",
+                    "nama_juara": "JUARA 3",
+                    "keterangan": "Smart Red Cross Wira - Tim TIM 4 A SRCW (nilai 100)",
+                    "urut": 6
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Wira",
+                    "nama_juara": "JUARA HARAPAN 3",
+                    "keterangan": "Pertolongan Pertama Wira - Tim TIM 12 B PPW (nilai 2185)",
+                    "urut": 9
+                }
+            ]
         },
         "LSLE5N": {
             "school_name": "SMA NEGERI 5 CIREBON",
@@ -1631,7 +2675,11 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMA NEGERI 5 CIREBON - TIM 6 A"
+                            "team_name": "SMA NEGERI 5 CIREBON - TIM 6 A",
+                            "juri1_poin": 455,
+                            "juri2_poin": 0,
+                            "waktu": "00:14:25",
+                            "total_poin": 455
                         }
                     ]
                 },
@@ -1641,7 +2689,11 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMA NEGERI 5 CIREBON - TIM 4 A"
+                            "team_name": "SMA NEGERI 5 CIREBON - TIM 4 A",
+                            "juri1_poin": 880,
+                            "juri2_poin": 965,
+                            "waktu": "00:11:59",
+                            "total_poin": 1845
                         }
                     ]
                 },
@@ -1651,7 +2703,10 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMA NEGERI 5 CIREBON - TIM 1 A"
+                            "team_name": "SMA NEGERI 5 CIREBON - TIM 1 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -1661,7 +2716,10 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMA NEGERI 5 CIREBON - TIM 1 A"
+                            "team_name": "SMA NEGERI 5 CIREBON - TIM 1 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -1671,7 +2729,10 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMA NEGERI 5 CIREBON - TIM 10 A"
+                            "team_name": "SMA NEGERI 5 CIREBON - TIM 10 A",
+                            "juri1_poin": 261,
+                            "waktu": "08:08:08",
+                            "total_poin": 261
                         }
                     ]
                 },
@@ -1681,7 +2742,10 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMA NEGERI 5 CIREBON - TIM 3 A"
+                            "team_name": "SMA NEGERI 5 CIREBON - TIM 3 A",
+                            "juri1_poin": 559,
+                            "waktu": "03:56:06",
+                            "total_poin": 559
                         }
                     ]
                 },
@@ -1691,12 +2755,15 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMA NEGERI 5 CIREBON - TIM 7 A"
+                            "team_name": "SMA NEGERI 5 CIREBON - TIM 7 A",
+                            "juri1_poin": 522,
+                            "waktu": "04:23:09",
+                            "total_poin": 522
                         }
                     ]
                 }
             ],
-            "ada_nilai": false
+            "ada_nilai": true
         },
         "76THND": {
             "school_name": "SMKN PRINGSURAT",
@@ -1707,10 +2774,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMKN PRINGSURAT - TIM 10 A"
+                            "team_name": "SMKN PRINGSURAT - TIM 10 A",
+                            "juri1_poin": 520,
+                            "juri2_poin": 0,
+                            "waktu": "00:14:50",
+                            "total_poin": 520
                         },
                         {
-                            "team_name": "SMKN PRINGSURAT - TIM 10 B"
+                            "team_name": "SMKN PRINGSURAT - TIM 10 B",
+                            "juri1_poin": 525,
+                            "juri2_poin": 0,
+                            "waktu": "00:14:19",
+                            "total_poin": 525
                         }
                     ]
                 },
@@ -1720,10 +2795,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMKN PRINGSURAT - TIM 8 A"
+                            "team_name": "SMKN PRINGSURAT - TIM 8 A",
+                            "juri1_poin": 925,
+                            "juri2_poin": 755,
+                            "waktu": "00:11:53",
+                            "total_poin": 1680
                         },
                         {
-                            "team_name": "SMKN PRINGSURAT - TIM 8 B"
+                            "team_name": "SMKN PRINGSURAT - TIM 8 B",
+                            "juri1_poin": 1005,
+                            "juri2_poin": 810,
+                            "waktu": "00:11:25",
+                            "total_poin": 1815
                         }
                     ]
                 },
@@ -1733,10 +2816,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMKN PRINGSURAT - TIM 10 A"
+                            "team_name": "SMKN PRINGSURAT - TIM 10 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMKN PRINGSURAT - TIM 10 B"
+                            "team_name": "SMKN PRINGSURAT - TIM 10 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -1746,10 +2835,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMKN PRINGSURAT - TIM 7 A"
+                            "team_name": "SMKN PRINGSURAT - TIM 7 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMKN PRINGSURAT - TIM 7 B"
+                            "team_name": "SMKN PRINGSURAT - TIM 7 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -1759,10 +2854,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMKN PRINGSURAT - TIM 8 A"
+                            "team_name": "SMKN PRINGSURAT - TIM 8 A",
+                            "juri1_poin": 296,
+                            "waktu": "07:00:00",
+                            "total_poin": 296
                         },
                         {
-                            "team_name": "SMKN PRINGSURAT - TIM 8 B"
+                            "team_name": "SMKN PRINGSURAT - TIM 8 B",
+                            "juri1_poin": 401,
+                            "waktu": "08:00:00",
+                            "total_poin": 401
                         }
                     ]
                 },
@@ -1772,10 +2873,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMKN PRINGSURAT - TIM 4 A"
+                            "team_name": "SMKN PRINGSURAT - TIM 4 A",
+                            "juri1_poin": 572,
+                            "waktu": "03:38:14",
+                            "total_poin": 572
                         },
                         {
-                            "team_name": "SMKN PRINGSURAT - TIM 4 B"
+                            "team_name": "SMKN PRINGSURAT - TIM 4 B",
+                            "juri1_poin": 627,
+                            "waktu": "02:58:44",
+                            "total_poin": 627
                         }
                     ]
                 },
@@ -1785,15 +2892,21 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMKN PRINGSURAT - TIM 8 A"
+                            "team_name": "SMKN PRINGSURAT - TIM 8 A",
+                            "juri1_poin": 561,
+                            "waktu": "03:44:22",
+                            "total_poin": 561
                         },
                         {
-                            "team_name": "SMKN PRINGSURAT - TIM 8 B"
+                            "team_name": "SMKN PRINGSURAT - TIM 8 B",
+                            "juri1_poin": 640,
+                            "waktu": "02:55:44",
+                            "total_poin": 640
                         }
                     ]
                 }
             ],
-            "ada_nilai": false
+            "ada_nilai": true
         },
         "GX7GMA": {
             "school_name": "SMK MUHAMMADIYAH SALAMAN",
@@ -1804,10 +2917,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMK MUHAMMADIYAH SALAMAN - TIM 11 A"
+                            "team_name": "SMK MUHAMMADIYAH SALAMAN - TIM 11 A",
+                            "juri1_poin": 885,
+                            "juri2_poin": 0,
+                            "waktu": "00:14:35",
+                            "total_poin": 885
                         },
                         {
-                            "team_name": "SMK MUHAMMADIYAH SALAMAN - TIM 11 B"
+                            "team_name": "SMK MUHAMMADIYAH SALAMAN - TIM 11 B",
+                            "juri1_poin": 860,
+                            "juri2_poin": 0,
+                            "waktu": "00:14:56",
+                            "total_poin": 860
                         }
                     ]
                 },
@@ -1817,10 +2938,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMK MUHAMMADIYAH SALAMAN - TIM 6 A"
+                            "team_name": "SMK MUHAMMADIYAH SALAMAN - TIM 6 A",
+                            "juri1_poin": 935,
+                            "juri2_poin": 685,
+                            "waktu": "00:12:00",
+                            "total_poin": 1620
                         },
                         {
-                            "team_name": "SMK MUHAMMADIYAH SALAMAN - TIM 6 B"
+                            "team_name": "SMK MUHAMMADIYAH SALAMAN - TIM 6 B",
+                            "juri1_poin": 920,
+                            "juri2_poin": 880,
+                            "waktu": "00:11:54",
+                            "total_poin": 1800
                         }
                     ]
                 },
@@ -1830,10 +2959,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMK MUHAMMADIYAH SALAMAN - TIM 3 A"
+                            "team_name": "SMK MUHAMMADIYAH SALAMAN - TIM 3 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMK MUHAMMADIYAH SALAMAN - TIM 3 B"
+                            "team_name": "SMK MUHAMMADIYAH SALAMAN - TIM 3 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -1843,10 +2978,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMK MUHAMMADIYAH SALAMAN - TIM 2 A"
+                            "team_name": "SMK MUHAMMADIYAH SALAMAN - TIM 2 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMK MUHAMMADIYAH SALAMAN - TIM 2 B"
+                            "team_name": "SMK MUHAMMADIYAH SALAMAN - TIM 2 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -1856,10 +2997,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMK MUHAMMADIYAH SALAMAN - TIM 6 A"
+                            "team_name": "SMK MUHAMMADIYAH SALAMAN - TIM 6 A",
+                            "juri1_poin": 296,
+                            "waktu": "07:00:00",
+                            "total_poin": 296
                         },
                         {
-                            "team_name": "SMK MUHAMMADIYAH SALAMAN - TIM 6 B"
+                            "team_name": "SMK MUHAMMADIYAH SALAMAN - TIM 6 B",
+                            "juri1_poin": 455,
+                            "waktu": "04:00:00",
+                            "total_poin": 455
                         }
                     ]
                 },
@@ -1869,10 +3016,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMK MUHAMMADIYAH SALAMAN - TIM 1 A"
+                            "team_name": "SMK MUHAMMADIYAH SALAMAN - TIM 1 A",
+                            "juri1_poin": 576,
+                            "waktu": "03:59:03",
+                            "total_poin": 576
                         },
                         {
-                            "team_name": "SMK MUHAMMADIYAH SALAMAN - TIM 1 B"
+                            "team_name": "SMK MUHAMMADIYAH SALAMAN - TIM 1 B",
+                            "juri1_poin": 557,
+                            "waktu": "03:53:09",
+                            "total_poin": 557
                         }
                     ]
                 },
@@ -1882,15 +3035,37 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMK MUHAMMADIYAH SALAMAN - TIM 2 A"
+                            "team_name": "SMK MUHAMMADIYAH SALAMAN - TIM 2 A",
+                            "juri1_poin": 550,
+                            "waktu": "03:25:09",
+                            "total_poin": 550
                         },
                         {
-                            "team_name": "SMK MUHAMMADIYAH SALAMAN - TIM 2 B"
+                            "team_name": "SMK MUHAMMADIYAH SALAMAN - TIM 2 B",
+                            "juri1_poin": 596,
+                            "waktu": "02:59:44",
+                            "total_poin": 596
                         }
                     ]
                 }
             ],
-            "ada_nilai": false
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Campuran Wira",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Tandu Campuran Wira - Tim TIM 2 A TCW (nilai 390)",
+                    "urut": 2
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Perawatan Keluarga Wira",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Perawatan Keluarga Wira - Tim TIM 8 A PKW (nilai 1055)",
+                    "urut": 7
+                }
+            ]
         },
         "PFYNSQ": {
             "school_name": "SMKN 7 BENGKULU",
@@ -1901,10 +3076,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMKN 7 BENGKULU - TIM 3 A"
+                            "team_name": "SMKN 7 BENGKULU - TIM 3 A",
+                            "juri1_poin": 865,
+                            "juri2_poin": 0,
+                            "waktu": "00:14:50",
+                            "total_poin": 865
                         },
                         {
-                            "team_name": "SMKN 7 BENGKULU - TIM 3 B"
+                            "team_name": "SMKN 7 BENGKULU - TIM 3 B",
+                            "juri1_poin": 530,
+                            "juri2_poin": 0,
+                            "waktu": "00:14:20",
+                            "total_poin": 530
                         }
                     ]
                 },
@@ -1914,10 +3097,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMKN 7 BENGKULU - TIM 10 A"
+                            "team_name": "SMKN 7 BENGKULU - TIM 10 A",
+                            "juri1_poin": 1000,
+                            "juri2_poin": 705,
+                            "waktu": "00:11:45",
+                            "total_poin": 1705
                         },
                         {
-                            "team_name": "SMKN 7 BENGKULU - TIM 10 B"
+                            "team_name": "SMKN 7 BENGKULU - TIM 10 B",
+                            "juri1_poin": 1015,
+                            "juri2_poin": 810,
+                            "waktu": "00:12:00",
+                            "total_poin": 1825
                         }
                     ]
                 },
@@ -1927,10 +3118,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMKN 7 BENGKULU - TIM 11 A"
+                            "team_name": "SMKN 7 BENGKULU - TIM 11 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMKN 7 BENGKULU - TIM 11 B"
+                            "team_name": "SMKN 7 BENGKULU - TIM 11 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -1940,10 +3137,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMKN 7 BENGKULU - TIM 5 A"
+                            "team_name": "SMKN 7 BENGKULU - TIM 5 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMKN 7 BENGKULU - TIM 5 B"
+                            "team_name": "SMKN 7 BENGKULU - TIM 5 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -1953,10 +3156,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMKN 7 BENGKULU - TIM 5 A"
+                            "team_name": "SMKN 7 BENGKULU - TIM 5 A",
+                            "juri1_poin": 350,
+                            "waktu": "05:00:08",
+                            "total_poin": 350
                         },
                         {
-                            "team_name": "SMKN 7 BENGKULU - TIM 5 B"
+                            "team_name": "SMKN 7 BENGKULU - TIM 5 B",
+                            "juri1_poin": 485,
+                            "waktu": "04:00:00",
+                            "total_poin": 485
                         }
                     ]
                 },
@@ -1966,10 +3175,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMKN 7 BENGKULU - TIM 11 A"
+                            "team_name": "SMKN 7 BENGKULU - TIM 11 A",
+                            "juri1_poin": 572,
+                            "waktu": "03:53:09",
+                            "total_poin": 572
                         },
                         {
-                            "team_name": "SMKN 7 BENGKULU - TIM 11 B"
+                            "team_name": "SMKN 7 BENGKULU - TIM 11 B",
+                            "juri1_poin": 534,
+                            "waktu": "04:11:09",
+                            "total_poin": 534
                         }
                     ]
                 },
@@ -1979,15 +3194,30 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMKN 7 BENGKULU - TIM 5 A"
+                            "team_name": "SMKN 7 BENGKULU - TIM 5 A",
+                            "juri1_poin": 585,
+                            "waktu": "03:25:09",
+                            "total_poin": 585
                         },
                         {
-                            "team_name": "SMKN 7 BENGKULU - TIM 5 B"
+                            "team_name": "SMKN 7 BENGKULU - TIM 5 B",
+                            "juri1_poin": 566,
+                            "waktu": "03:59:36",
+                            "total_poin": 566
                         }
                     ]
                 }
             ],
-            "ada_nilai": false
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Wira",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Poster Wira - Tim TIM 2 A PW (nilai 250)",
+                    "urut": 1
+                }
+            ]
         },
         "24H3HH": {
             "school_name": "SMA 1 TANGERANG",
@@ -1998,10 +3228,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMA 1 TANGERANG - TIM 5 A"
+                            "team_name": "SMA 1 TANGERANG - TIM 5 A",
+                            "juri1_poin": 805,
+                            "juri2_poin": 0,
+                            "waktu": "00:14:55",
+                            "total_poin": 805
                         },
                         {
-                            "team_name": "SMA 1 TANGERANG - TIM 5 B"
+                            "team_name": "SMA 1 TANGERANG - TIM 5 B",
+                            "juri1_poin": 500,
+                            "juri2_poin": 0,
+                            "waktu": "00:13:56",
+                            "total_poin": 500
                         }
                     ]
                 },
@@ -2011,10 +3249,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMA 1 TANGERANG - TIM 9 A"
+                            "team_name": "SMA 1 TANGERANG - TIM 9 A",
+                            "juri1_poin": 1155,
+                            "juri2_poin": 795,
+                            "waktu": "00:11:22",
+                            "total_poin": 1950
                         },
                         {
-                            "team_name": "SMA 1 TANGERANG - TIM 9 B"
+                            "team_name": "SMA 1 TANGERANG - TIM 9 B",
+                            "juri1_poin": 975,
+                            "juri2_poin": 975,
+                            "waktu": "00:11:30",
+                            "total_poin": 1950
                         }
                     ]
                 },
@@ -2024,10 +3270,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMA 1 TANGERANG - TIM 2 A"
+                            "team_name": "SMA 1 TANGERANG - TIM 2 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMA 1 TANGERANG - TIM 2 B"
+                            "team_name": "SMA 1 TANGERANG - TIM 2 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -2037,10 +3289,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMA 1 TANGERANG - TIM 10 A"
+                            "team_name": "SMA 1 TANGERANG - TIM 10 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMA 1 TANGERANG - TIM 10 B"
+                            "team_name": "SMA 1 TANGERANG - TIM 10 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -2050,10 +3308,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMA 1 TANGERANG - TIM 3 A"
+                            "team_name": "SMA 1 TANGERANG - TIM 3 A",
+                            "juri1_poin": 625,
+                            "waktu": "00:07:00",
+                            "total_poin": 625
                         },
                         {
-                            "team_name": "SMA 1 TANGERANG - TIM 3 B"
+                            "team_name": "SMA 1 TANGERANG - TIM 3 B",
+                            "juri1_poin": 605,
+                            "waktu": "00:02:08",
+                            "total_poin": 605
                         }
                     ]
                 },
@@ -2063,10 +3327,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMA 1 TANGERANG - TIM 6 A"
+                            "team_name": "SMA 1 TANGERANG - TIM 6 A",
+                            "juri1_poin": 607,
+                            "waktu": "03:28:53",
+                            "total_poin": 607
                         },
                         {
-                            "team_name": "SMA 1 TANGERANG - TIM 6 B"
+                            "team_name": "SMA 1 TANGERANG - TIM 6 B",
+                            "juri1_poin": 489,
+                            "waktu": "03:51:11",
+                            "total_poin": 489
                         }
                     ]
                 },
@@ -2076,15 +3346,30 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMA 1 TANGERANG - TIM 6 A"
+                            "team_name": "SMA 1 TANGERANG - TIM 6 A",
+                            "juri1_poin": 313,
+                            "waktu": "05:07:00",
+                            "total_poin": 313
                         },
                         {
-                            "team_name": "SMA 1 TANGERANG - TIM 6 B"
+                            "team_name": "SMA 1 TANGERANG - TIM 6 B",
+                            "juri1_poin": 552,
+                            "waktu": "03:43:44",
+                            "total_poin": 552
                         }
                     ]
                 }
             ],
-            "ada_nilai": false
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "JUARA UTAMA 3",
+                    "keterangan": "Kategori tingkat Madya - total 0 poin",
+                    "urut": 3
+                }
+            ]
         },
         "B4QUYW": {
             "school_name": "SMAN 5 BANDUNG",
@@ -2095,10 +3380,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMAN 5 BANDUNG - TIM 9 A"
+                            "team_name": "SMAN 5 BANDUNG - TIM 9 A",
+                            "juri1_poin": 895,
+                            "juri2_poin": 0,
+                            "waktu": "00:15:00",
+                            "total_poin": 895
                         },
                         {
-                            "team_name": "SMAN 5 BANDUNG - TIM 9 B"
+                            "team_name": "SMAN 5 BANDUNG - TIM 9 B",
+                            "juri1_poin": 850,
+                            "juri2_poin": 0,
+                            "waktu": "00:14:38",
+                            "total_poin": 850
                         }
                     ]
                 },
@@ -2108,10 +3401,18 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMAN 5 BANDUNG - TIM 11 A"
+                            "team_name": "SMAN 5 BANDUNG - TIM 11 A",
+                            "juri1_poin": 1045,
+                            "juri2_poin": 640,
+                            "waktu": "00:11:47",
+                            "total_poin": 1685
                         },
                         {
-                            "team_name": "SMAN 5 BANDUNG - TIM 11 B"
+                            "team_name": "SMAN 5 BANDUNG - TIM 11 B",
+                            "juri1_poin": 1085,
+                            "juri2_poin": 670,
+                            "waktu": "00:10:56",
+                            "total_poin": 1755
                         }
                     ]
                 },
@@ -2121,10 +3422,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMAN 5 BANDUNG - TIM 5 A"
+                            "team_name": "SMAN 5 BANDUNG - TIM 5 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMAN 5 BANDUNG - TIM 5 B"
+                            "team_name": "SMAN 5 BANDUNG - TIM 5 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -2134,10 +3441,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMAN 5 BANDUNG - TIM 11 A"
+                            "team_name": "SMAN 5 BANDUNG - TIM 11 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         },
                         {
-                            "team_name": "SMAN 5 BANDUNG - TIM 11 B"
+                            "team_name": "SMAN 5 BANDUNG - TIM 11 B",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -2147,10 +3460,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMAN 5 BANDUNG - TIM 9 A"
+                            "team_name": "SMAN 5 BANDUNG - TIM 9 A",
+                            "juri1_poin": 335,
+                            "waktu": "05:00:08",
+                            "total_poin": 335
                         },
                         {
-                            "team_name": "SMAN 5 BANDUNG - TIM 9 B"
+                            "team_name": "SMAN 5 BANDUNG - TIM 9 B",
+                            "juri1_poin": 323,
+                            "waktu": "06:02:00",
+                            "total_poin": 323
                         }
                     ]
                 },
@@ -2160,10 +3479,16 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMAN 5 BANDUNG - TIM 10 A"
+                            "team_name": "SMAN 5 BANDUNG - TIM 10 A",
+                            "juri1_poin": 573,
+                            "waktu": "03:52:26",
+                            "total_poin": 573
                         },
                         {
-                            "team_name": "SMAN 5 BANDUNG - TIM 10 B"
+                            "team_name": "SMAN 5 BANDUNG - TIM 10 B",
+                            "juri1_poin": 579,
+                            "waktu": "03:56:03",
+                            "total_poin": 579
                         }
                     ]
                 },
@@ -2173,15 +3498,86 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMAN 5 BANDUNG - TIM 11 A"
+                            "team_name": "SMAN 5 BANDUNG - TIM 11 A",
+                            "juri1_poin": 573,
+                            "waktu": "04:02:01",
+                            "total_poin": 573
                         },
                         {
-                            "team_name": "SMAN 5 BANDUNG - TIM 11 B"
+                            "team_name": "SMAN 5 BANDUNG - TIM 11 B",
+                            "juri1_poin": 585,
+                            "waktu": "03:25:06",
+                            "total_poin": 585
                         }
                     ]
                 }
             ],
-            "ada_nilai": false
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Madya",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Kategori tingkat Madya - total 44 poin",
+                    "urut": 1
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Madya",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Poster Madya - Tim TIM 1 B PM (nilai 250)",
+                    "urut": 1
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Campuran Madya",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Tandu Campuran Madya - Tim TIM 8 A TCM (nilai 245)",
+                    "urut": 2
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Smart Red Cross Madya",
+                    "nama_juara": "JUARA UTAMA 3",
+                    "keterangan": "Smart Red Cross Madya - Tim TIM 2 C SRCM (nilai 85)",
+                    "urut": 3
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putra Madya",
+                    "nama_juara": "JUARA UTAMA 3",
+                    "keterangan": "Tandu Putra Madya - Tim TIM 9 C TPM (nilai 300)",
+                    "urut": 3
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Perawatan Keluarga Madya",
+                    "nama_juara": "JUARA 3",
+                    "keterangan": "Perawatan Keluarga Madya - Tim TIM 19 A PKM (nilai 1130)",
+                    "urut": 6
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Smart Red Cross Madya",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Smart Red Cross Madya - Tim TIM 2 A SRCM (nilai 85)",
+                    "urut": 7
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Smart Red Cross Madya",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Smart Red Cross Madya - Tim TIM 2 B SRCM (nilai 85)",
+                    "urut": 7
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putra Madya",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Tandu Putra Madya - Tim TIM 9 B TPM (nilai 290)",
+                    "urut": 7
+                }
+            ]
         },
         "D737JR": {
             "school_name": "SMAN112CIREBON",
@@ -2192,7 +3588,11 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMAN112CIREBON - TIM 2 A"
+                            "team_name": "SMAN112CIREBON - TIM 2 A",
+                            "juri1_poin": 560,
+                            "juri2_poin": 0,
+                            "waktu": "00:14:35",
+                            "total_poin": 560
                         }
                     ]
                 },
@@ -2202,12 +3602,16 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMAN112CIREBON - TIM 5 A"
+                            "team_name": "SMAN112CIREBON - TIM 5 A",
+                            "juri1_poin": 1015,
+                            "juri2_poin": 745,
+                            "waktu": "00:11:58",
+                            "total_poin": 1760
                         }
                     ]
                 }
             ],
-            "ada_nilai": false
+            "ada_nilai": true
         },
         "P9F2ED": {
             "school_name": "SMKN 1 BRAZIL",
@@ -2218,7 +3622,11 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMKN 1 BRAZIL - TIM 12 A"
+                            "team_name": "SMKN 1 BRAZIL - TIM 12 A",
+                            "juri1_poin": 840,
+                            "juri2_poin": 0,
+                            "waktu": "00:15:00",
+                            "total_poin": 840
                         }
                     ]
                 },
@@ -2228,7 +3636,11 @@
                     "jumlah_juri": 2,
                     "teams": [
                         {
-                            "team_name": "SMKN 1 BRAZIL - TIM 12 A"
+                            "team_name": "SMKN 1 BRAZIL - TIM 12 A",
+                            "juri1_poin": 1005,
+                            "juri2_poin": 765,
+                            "waktu": "00:11:08",
+                            "total_poin": 1770
                         }
                     ]
                 },
@@ -2238,7 +3650,10 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMKN 1 BRAZIL - TIM 6 A"
+                            "team_name": "SMKN 1 BRAZIL - TIM 6 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -2248,7 +3663,10 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMKN 1 BRAZIL - TIM 8 A"
+                            "team_name": "SMKN 1 BRAZIL - TIM 8 A",
+                            "juri1_poin": 0,
+                            "waktu": "-",
+                            "total_poin": 0
                         }
                     ]
                 },
@@ -2258,7 +3676,10 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMKN 1 BRAZIL - TIM 11 A"
+                            "team_name": "SMKN 1 BRAZIL - TIM 11 A",
+                            "juri1_poin": 544,
+                            "waktu": "03:01:11",
+                            "total_poin": 544
                         }
                     ]
                 },
@@ -2268,7 +3689,10 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMKN 1 BRAZIL - TIM 2 A"
+                            "team_name": "SMKN 1 BRAZIL - TIM 2 A",
+                            "juri1_poin": 614,
+                            "waktu": "02:56:11",
+                            "total_poin": 614
                         }
                     ]
                 },
@@ -2278,22 +3702,71 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMKN 1 BRAZIL - TIM 1 A"
+                            "team_name": "SMKN 1 BRAZIL - TIM 1 A",
+                            "juri1_poin": 522,
+                            "waktu": "04:03:02",
+                            "total_poin": 522
                         }
                     ]
                 }
             ],
-            "ada_nilai": false
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Perawatan Keluarga Madya",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Perawatan Keluarga Madya - Tim TIM 14 B PKM (nilai 1335)",
+                    "urut": 1
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Perawatan Keluarga Madya",
+                    "nama_juara": "JUARA UTAMA 3",
+                    "keterangan": "Perawatan Keluarga Madya - Tim TIM 14 A PKM (nilai 1180)",
+                    "urut": 3
+                }
+            ]
         },
         "45GW98": {
             "school_name": "SMA NEGERI 9 CIREBON",
             "mata_lomba": [],
-            "ada_nilai": false
+            "ada_nilai": true
         },
         "ATVKWS": {
             "school_name": "SMPN78CIREBON",
             "mata_lomba": [],
-            "ada_nilai": false
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Wira",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Poster Wira - Tim TIM 10 A PW (nilai 250)",
+                    "urut": 1
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Campuran Wira",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Tandu Campuran Wira - Tim TIM 7 A TCW (nilai 390)",
+                    "urut": 1
+                },
+                {
+                    "jenis": "kategori",
+                    "jenis_label": "Juara Kategori Wira",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Kategori tingkat Wira - total 21 poin",
+                    "urut": 2
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putri Wira",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Tandu Putri Wira - Tim TIM 15 A TPW (nilai 335)",
+                    "urut": 7
+                }
+            ]
         }
     }
 }
