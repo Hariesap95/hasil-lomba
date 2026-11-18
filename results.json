@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-11-18 07:14:39 WIB",
+    "generated_at": "2026-11-18 07:16:12 WIB",
     "ada_nilai": true,
     "ada_juara": true,
     "competitions": [
@@ -238,16 +238,7 @@
                     ]
                 }
             ],
-            "ada_nilai": true,
-            "juara": [
-                {
-                    "jenis": "lomba",
-                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
-                    "nama_juara": "JUARA 3",
-                    "keterangan": "Pertolongan Pertama Madya - Tim TIM 10 A PPM (nilai 1840)",
-                    "urut": 6
-                }
-            ]
+            "ada_nilai": true
         },
         "Y6ELTF": {
             "school_name": "smpn 1 talun",
@@ -434,16 +425,7 @@
                     ]
                 }
             ],
-            "ada_nilai": true,
-            "juara": [
-                {
-                    "jenis": "lomba",
-                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
-                    "nama_juara": "JUARA HARAPAN 3",
-                    "keterangan": "Pertolongan Pertama Madya - Tim TIM 19 A PPM (nilai 1825)",
-                    "urut": 9
-                }
-            ]
+            "ada_nilai": true
         },
         "EEGSW2": {
             "school_name": "MTSN 4 CIREBON",
@@ -1218,16 +1200,7 @@
                     ]
                 }
             ],
-            "ada_nilai": true,
-            "juara": [
-                {
-                    "jenis": "lomba",
-                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
-                    "nama_juara": "JUARA HARAPAN 1",
-                    "keterangan": "Pertolongan Pertama Madya - Tim TIM 9 A PPM (nilai 1840)",
-                    "urut": 7
-                }
-            ]
+            "ada_nilai": true
         },
         "SVKR24": {
             "school_name": "MTSN 1 KOTA CIREBON",
@@ -1370,23 +1343,7 @@
                     ]
                 }
             ],
-            "ada_nilai": true,
-            "juara": [
-                {
-                    "jenis": "lomba",
-                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
-                    "nama_juara": "JUARA UTAMA 1",
-                    "keterangan": "Pertolongan Pertama Madya - Tim TIM 26 B PPM (nilai 1905)",
-                    "urut": 1
-                },
-                {
-                    "jenis": "lomba",
-                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
-                    "nama_juara": "JUARA UTAMA 3",
-                    "keterangan": "Pertolongan Pertama Madya - Tim TIM 26 A PPM (nilai 1865)",
-                    "urut": 3
-                }
-            ]
+            "ada_nilai": true
         },
         "S34VUY": {
             "school_name": "smplalala13",
@@ -1675,16 +1632,7 @@
                     ]
                 }
             ],
-            "ada_nilai": true,
-            "juara": [
-                {
-                    "jenis": "lomba",
-                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
-                    "nama_juara": "JUARA UTAMA 2",
-                    "keterangan": "Pertolongan Pertama Madya - Tim TIM 15 A PPM (nilai 1865)",
-                    "urut": 2
-                }
-            ]
+            "ada_nilai": true
         },
         "R99XR3": {
             "school_name": "smpn 3 sumber",
@@ -2438,16 +2386,7 @@
                     ]
                 }
             ],
-            "ada_nilai": true,
-            "juara": [
-                {
-                    "jenis": "lomba",
-                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
-                    "nama_juara": "JUARA 1",
-                    "keterangan": "Pertolongan Pertama Madya - Tim TIM 25 A PPM (nilai 1860)",
-                    "urut": 4
-                }
-            ]
+            "ada_nilai": true
         },
         "2Q92RT": {
             "school_name": "SMP 3 WERU",
@@ -4848,16 +4787,7 @@
                     ]
                 }
             ],
-            "ada_nilai": true,
-            "juara": [
-                {
-                    "jenis": "lomba",
-                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
-                    "nama_juara": "JUARA HARAPAN 2",
-                    "keterangan": "Pertolongan Pertama Madya - Tim TIM 1 A PPM (nilai 1835)",
-                    "urut": 8
-                }
-            ]
+            "ada_nilai": true
         },
         "C3USRG": {
             "school_name": "SMPN 3 PAPER",
@@ -4922,16 +4852,7 @@
                     ]
                 }
             ],
-            "ada_nilai": true,
-            "juara": [
-                {
-                    "jenis": "lomba",
-                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
-                    "nama_juara": "JUARA 2",
-                    "keterangan": "Pertolongan Pertama Madya - Tim TIM 11 A PPM (nilai 1840)",
-                    "urut": 5
-                }
-            ]
+            "ada_nilai": true
         },
         "9M34JR": {
             "school_name": "smp jepang cirebon",
