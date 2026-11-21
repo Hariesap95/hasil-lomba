@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-11-21 15:19:49 WIB",
+    "generated_at": "2026-11-21 15:20:50 WIB",
     "ada_nilai": true,
     "ada_juara": false,
     "competitions": [
@@ -30,6 +30,10 @@
         {
             "id": 9,
             "name": "Pertolongan Pertama Madya"
+        },
+        {
+            "id": 10,
+            "name": "Tandu Putra Madya"
         }
     ],
     "schools": {
@@ -122,6 +126,43 @@
                             "juri2_poin": 0,
                             "waktu": "-",
                             "total_poin": 0
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 10,
+                    "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "MTS PUI KEPUH MAJALENGKA - TIM 3 A",
+                            "juri1_poin": 637,
+                            "waktu": "03:08:66",
+                            "total_poin": 637
+                        },
+                        {
+                            "team_name": "MTS PUI KEPUH MAJALENGKA - TIM 3 B",
+                            "juri1_poin": 457,
+                            "waktu": "04:48:33",
+                            "total_poin": 457
+                        },
+                        {
+                            "team_name": "MTS PUI KEPUH MAJALENGKA - TIM 3 C",
+                            "juri1_poin": 637,
+                            "waktu": "03:08:18",
+                            "total_poin": 637
+                        },
+                        {
+                            "team_name": "MTS PUI KEPUH MAJALENGKA - TIM 3 D",
+                            "juri1_poin": 565,
+                            "waktu": "04:45:74",
+                            "total_poin": 565
+                        },
+                        {
+                            "team_name": "MTS PUI KEPUH MAJALENGKA - TIM 3 E",
+                            "juri1_poin": 538,
+                            "waktu": "04:32:96",
+                            "total_poin": 538
                         }
                     ]
                 }
@@ -220,6 +261,31 @@
                             "total_poin": 655
                         }
                     ]
+                },
+                {
+                    "competition_id": 10,
+                    "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 12 KOTA CIREBON - TIM 4 A",
+                            "juri1_poin": 421,
+                            "waktu": "03:49:77",
+                            "total_poin": 421
+                        },
+                        {
+                            "team_name": "SMPN 12 KOTA CIREBON - TIM 4 B",
+                            "juri1_poin": 534,
+                            "waktu": "04:01:01",
+                            "total_poin": 534
+                        },
+                        {
+                            "team_name": "SMPN 12 KOTA CIREBON - TIM 4 C",
+                            "juri1_poin": 471,
+                            "waktu": "04:14:13",
+                            "total_poin": 471
+                        }
+                    ]
                 }
             ],
             "ada_nilai": true
@@ -266,6 +332,19 @@
                             "juri2_poin": 865,
                             "waktu": "07:52:27",
                             "total_poin": 1620
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 10,
+                    "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMP NEGERI 1 LOHBENER - TIM 15 A",
+                            "juri1_poin": 552,
+                            "waktu": "04:23:66",
+                            "total_poin": 552
                         }
                     ]
                 }
@@ -316,6 +395,19 @@
                             "total_poin": 1485
                         }
                     ]
+                },
+                {
+                    "competition_id": 10,
+                    "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 1 SURANENGGALA - TIM 11 A",
+                            "juri1_poin": 617,
+                            "waktu": "03:58:77",
+                            "total_poin": 617
+                        }
+                    ]
                 }
             ],
             "ada_nilai": true
@@ -362,6 +454,19 @@
                             "juri2_poin": 840,
                             "waktu": "10:00:00",
                             "total_poin": 1570
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 10,
+                    "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 2 KAPETAKAN - TIM 2 A",
+                            "juri1_poin": 501,
+                            "waktu": "04:59:15",
+                            "total_poin": 501
                         }
                     ]
                 }
@@ -412,6 +517,31 @@
                             "total_poin": 1485
                         }
                     ]
+                },
+                {
+                    "competition_id": 10,
+                    "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "MTS NEGERI 9 INDRAMAYU - TIM 7 A",
+                            "juri1_poin": 548,
+                            "waktu": "04:47:78",
+                            "total_poin": 548
+                        },
+                        {
+                            "team_name": "MTS NEGERI 9 INDRAMAYU - TIM 7 B",
+                            "juri1_poin": 494,
+                            "waktu": "05:41:34",
+                            "total_poin": 494
+                        },
+                        {
+                            "team_name": "MTS NEGERI 9 INDRAMAYU - TIM 7 C",
+                            "juri1_poin": 635,
+                            "waktu": "03:55:64",
+                            "total_poin": 635
+                        }
+                    ]
                 }
             ],
             "ada_nilai": true
@@ -451,6 +581,19 @@
                             "juri2_poin": 855,
                             "waktu": "08:12:77",
                             "total_poin": 1540
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 10,
+                    "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 1 ARJAWINANGUN - TIM 16 A",
+                            "juri1_poin": 299,
+                            "waktu": "06:06:45",
+                            "total_poin": 299
                         }
                     ]
                 }
@@ -512,6 +655,19 @@
                             "juri2_poin": 0,
                             "waktu": "-",
                             "total_poin": 0
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 10,
+                    "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 1 KRANGKENG - TIM 9 A",
+                            "juri1_poin": 648,
+                            "waktu": "03:07:44",
+                            "total_poin": 648
                         }
                     ]
                 }
@@ -630,6 +786,19 @@
                             "total_poin": 1270
                         }
                     ]
+                },
+                {
+                    "competition_id": 10,
+                    "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 2 WERU - TIM 13 A",
+                            "juri1_poin": 601,
+                            "waktu": "03:54:12",
+                            "total_poin": 601
+                        }
+                    ]
                 }
             ],
             "ada_nilai": true
@@ -710,6 +879,25 @@
                             "juri2_poin": 440,
                             "waktu": "10:00:00",
                             "total_poin": 875
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 10,
+                    "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 1 PLUMBON - TIM 12 A",
+                            "juri1_poin": 435,
+                            "waktu": "05:10:72",
+                            "total_poin": 435
+                        },
+                        {
+                            "team_name": "SMPN 1 PLUMBON - TIM 12 B",
+                            "juri1_poin": 468,
+                            "waktu": "04:47:03",
+                            "total_poin": 468
                         }
                     ]
                 }
@@ -833,6 +1021,25 @@
                             "juri2_poin": 500,
                             "waktu": "07:49:37",
                             "total_poin": 975
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 10,
+                    "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 4 JATIWANGI - TIM 14 A",
+                            "juri1_poin": 652,
+                            "waktu": "03:03:66",
+                            "total_poin": 652
+                        },
+                        {
+                            "team_name": "SMPN 4 JATIWANGI - TIM 14 B",
+                            "juri1_poin": 573,
+                            "waktu": "03:47:26",
+                            "total_poin": 573
                         }
                     ]
                 }
@@ -1829,6 +2036,25 @@
                             "total_poin": 0
                         }
                     ]
+                },
+                {
+                    "competition_id": 10,
+                    "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 1 CIWARINGIN - TIM 8 A",
+                            "juri1_poin": 612,
+                            "waktu": "03:48:36",
+                            "total_poin": 612
+                        },
+                        {
+                            "team_name": "SMPN 1 CIWARINGIN - TIM 8 B",
+                            "juri1_poin": 622,
+                            "waktu": "03:43:60",
+                            "total_poin": 622
+                        }
+                    ]
                 }
             ],
             "ada_nilai": true
@@ -1854,6 +2080,25 @@
                             "juri2_poin": 840,
                             "waktu": "08:51:77",
                             "total_poin": 1530
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 10,
+                    "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 2 GUNUNG JATI - TIM 1 A",
+                            "juri1_poin": 445,
+                            "waktu": "35:55:90",
+                            "total_poin": 445
+                        },
+                        {
+                            "team_name": "SMPN 2 GUNUNG JATI - TIM 1 B",
+                            "juri1_poin": 564,
+                            "waktu": "04:16:99",
+                            "total_poin": 564
                         }
                     ]
                 }
@@ -2730,6 +2975,93 @@
             ],
             "ada_nilai": true
         },
+        "M9TYXZ": {
+            "school_name": "SMP TUNAS PERTIWI",
+            "mata_lomba": [
+                {
+                    "competition_id": 10,
+                    "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMP TUNAS PERTIWI - TIM 6 A",
+                            "juri1_poin": 386,
+                            "waktu": "06:09:26",
+                            "total_poin": 386
+                        },
+                        {
+                            "team_name": "SMP TUNAS PERTIWI - TIM 6 B",
+                            "juri1_poin": 522,
+                            "waktu": "05:43:00",
+                            "total_poin": 522
+                        },
+                        {
+                            "team_name": "SMP TUNAS PERTIWI - TIM 6 C",
+                            "juri1_poin": 518,
+                            "waktu": "05:37:97",
+                            "total_poin": 518
+                        },
+                        {
+                            "team_name": "SMP TUNAS PERTIWI - TIM 6 D",
+                            "juri1_poin": 306,
+                            "waktu": "07:00:16",
+                            "total_poin": 306
+                        },
+                        {
+                            "team_name": "SMP TUNAS PERTIWI - TIM 6 E",
+                            "juri1_poin": 361,
+                            "waktu": "07:00:13",
+                            "total_poin": 361
+                        }
+                    ]
+                }
+            ],
+            "ada_nilai": true
+        },
+        "TYHBME": {
+            "school_name": "SMPN 2 GEGESIK",
+            "mata_lomba": [
+                {
+                    "competition_id": 10,
+                    "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 2 GEGESIK - TIM 10 A",
+                            "juri1_poin": 595,
+                            "waktu": "04:25:81",
+                            "total_poin": 595
+                        },
+                        {
+                            "team_name": "SMPN 2 GEGESIK - TIM 10 B",
+                            "juri1_poin": 600,
+                            "waktu": "03:55:50",
+                            "total_poin": 600
+                        }
+                    ]
+                }
+            ],
+            "ada_nilai": true
+        },
+        "HZRD8B": {
+            "school_name": "MTSN 3 MAJALENGKA",
+            "mata_lomba": [
+                {
+                    "competition_id": 10,
+                    "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "MTSN 3 MAJALENGKA - TIM 5 A",
+                            "juri1_poin": 658,
+                            "waktu": "03:17:89",
+                            "total_poin": 658
+                        }
+                    ]
+                }
+            ],
+            "ada_nilai": true
+        },
         "CJGR3W": {
             "school_name": "SMKN 1 LEMAHABANG",
             "mata_lomba": [
@@ -2974,11 +3306,6 @@
             "mata_lomba": [],
             "ada_nilai": true
         },
-        "TYHBME": {
-            "school_name": "SMPN 2 GEGESIK",
-            "mata_lomba": [],
-            "ada_nilai": true
-        },
         "SQ9HSF": {
             "school_name": "SMPN 1 DEPOK",
             "mata_lomba": [],
@@ -2986,16 +3313,6 @@
         },
         "ZNLZKE": {
             "school_name": "SMPN 6 KOTA CIREBON",
-            "mata_lomba": [],
-            "ada_nilai": true
-        },
-        "HZRD8B": {
-            "school_name": "MTSN 3 MAJALENGKA",
-            "mata_lomba": [],
-            "ada_nilai": true
-        },
-        "M9TYXZ": {
-            "school_name": "SMP TUNAS PERTIWI",
             "mata_lomba": [],
             "ada_nilai": true
         },
