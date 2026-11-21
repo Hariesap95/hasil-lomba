@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-11-21 17:31:36 WIB",
+    "generated_at": "2026-11-21 17:40:52 WIB",
     "ada_nilai": true,
     "ada_juara": false,
     "competitions": [
@@ -1926,10 +1926,10 @@
                     "teams": [
                         {
                             "team_name": "SMPN 1 PLUMBON - TIM 20 A",
-                            "juri1_poin": 0,
-                            "juri2_poin": 0,
-                            "waktu": "-",
-                            "total_poin": 0
+                            "juri1_poin": 598,
+                            "juri2_poin": 698,
+                            "waktu": "10:00:00",
+                            "total_poin": 1296
                         }
                     ]
                 },
