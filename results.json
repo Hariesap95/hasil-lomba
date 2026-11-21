@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-11-21 16:42:14 WIB",
+    "generated_at": "2026-11-21 16:52:07 WIB",
     "ada_nilai": true,
     "ada_juara": false,
     "competitions": [
@@ -50,6 +50,10 @@
         {
             "id": 13,
             "name": "Smart Red Cross Madya"
+        },
+        {
+            "id": 14,
+            "name": "Poster Madya"
         }
     ],
     "schools": {
@@ -74,6 +78,25 @@
                             "juri2_poin": 925,
                             "waktu": "09:37:37",
                             "total_poin": 1725
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 14,
+                    "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "MTSN 11 CIREBON - TIM 14 A",
+                            "juri1_poin": 155,
+                            "waktu": "02:00:00",
+                            "total_poin": 155
+                        },
+                        {
+                            "team_name": "MTSN 11 CIREBON - TIM 14 B",
+                            "juri1_poin": 225,
+                            "waktu": "02:00:00",
+                            "total_poin": 225
                         }
                     ]
                 },
@@ -195,10 +218,10 @@
                         },
                         {
                             "team_name": "MTS PUI KEPUH MAJALENGKA - TIM 20 B",
-                            "juri1_poin": 0,
-                            "juri2_poin": 0,
-                            "waktu": "-",
-                            "total_poin": 0
+                            "juri1_poin": 640,
+                            "juri2_poin": 680,
+                            "waktu": "09:35:18",
+                            "total_poin": 1320
                         }
                     ]
                 },
@@ -481,6 +504,37 @@
                             "juri2_poin": 655,
                             "waktu": "-",
                             "total_poin": 655
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 14,
+                    "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 12 KOTA CIREBON - TIM 10 A",
+                            "juri1_poin": 195,
+                            "waktu": "01:53:44",
+                            "total_poin": 195
+                        },
+                        {
+                            "team_name": "SMPN 12 KOTA CIREBON - TIM 10 B",
+                            "juri1_poin": 165,
+                            "waktu": "01:54:35",
+                            "total_poin": 165
+                        },
+                        {
+                            "team_name": "SMPN 12 KOTA CIREBON - TIM 10 C",
+                            "juri1_poin": 185,
+                            "waktu": "02:00:00",
+                            "total_poin": 185
+                        },
+                        {
+                            "team_name": "SMPN 12 KOTA CIREBON - TIM 10 D",
+                            "juri1_poin": 125,
+                            "waktu": "01:52:37",
+                            "total_poin": 125
                         }
                     ]
                 },
@@ -807,6 +861,31 @@
                             "juri2_poin": 810,
                             "waktu": "09:16:57",
                             "total_poin": 1485
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 14,
+                    "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 1 SURANENGGALA - TIM 15 A",
+                            "juri1_poin": 150,
+                            "waktu": "01:37:40",
+                            "total_poin": 150
+                        },
+                        {
+                            "team_name": "SMPN 1 SURANENGGALA - TIM 15 B",
+                            "juri1_poin": 170,
+                            "waktu": "01:46:11",
+                            "total_poin": 170
+                        },
+                        {
+                            "team_name": "SMPN 1 SURANENGGALA - TIM 15 C",
+                            "juri1_poin": 155,
+                            "waktu": "01:46:32",
+                            "total_poin": 155
                         }
                     ]
                 },
@@ -1181,6 +1260,25 @@
                     ]
                 },
                 {
+                    "competition_id": 14,
+                    "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 1 ARJAWINANGUN - TIM 23 A",
+                            "juri1_poin": 185,
+                            "waktu": "01:55:22",
+                            "total_poin": 185
+                        },
+                        {
+                            "team_name": "SMPN 1 ARJAWINANGUN - TIM 23 B",
+                            "juri1_poin": 210,
+                            "waktu": "01:59:31",
+                            "total_poin": 210
+                        }
+                    ]
+                },
+                {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
                     "jumlah_juri": 1,
@@ -1260,6 +1358,19 @@
                     ]
                 },
                 {
+                    "competition_id": 14,
+                    "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 2 PANYINGKIRAN - TIM 3 A",
+                            "juri1_poin": 190,
+                            "waktu": "01:49:32",
+                            "total_poin": 190
+                        }
+                    ]
+                },
+                {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
                     "jumlah_juri": 1,
@@ -1335,6 +1446,19 @@
                             "juri2_poin": 0,
                             "waktu": "-",
                             "total_poin": 0
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 14,
+                    "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 1 KRANGKENG - TIM 11 A",
+                            "juri1_poin": 200,
+                            "waktu": "01:52:46",
+                            "total_poin": 200
                         }
                     ]
                 },
@@ -1425,6 +1549,19 @@
                     ]
                 },
                 {
+                    "competition_id": 14,
+                    "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 9 CIREBON - TIM 6 A",
+                            "juri1_poin": 215,
+                            "waktu": "01:45:56",
+                            "total_poin": 215
+                        }
+                    ]
+                },
+                {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
                     "jumlah_juri": 1,
@@ -1482,10 +1619,10 @@
                     "teams": [
                         {
                             "team_name": "SMPN 2 KLANGENAN - TIM 19 A",
-                            "juri1_poin": 0,
-                            "juri2_poin": 0,
-                            "waktu": "-",
-                            "total_poin": 0
+                            "juri1_poin": 795,
+                            "juri2_poin": 1006,
+                            "waktu": "10:00:00",
+                            "total_poin": 1801
                         },
                         {
                             "team_name": "SMPN 2 KLANGENAN - TIM 19 B",
@@ -1514,6 +1651,19 @@
                             "juri2_poin": 815,
                             "waktu": "09:13:84",
                             "total_poin": 1505
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 14,
+                    "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 2 KLANGENAN - TIM 25 A",
+                            "juri1_poin": 225,
+                            "waktu": "01:55:25",
+                            "total_poin": 225
                         }
                     ]
                 },
@@ -1580,6 +1730,25 @@
                             "juri2_poin": 685,
                             "waktu": "10:00:00",
                             "total_poin": 1270
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 14,
+                    "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 2 WERU - TIM 9 A",
+                            "juri1_poin": 140,
+                            "waktu": "02:00:00",
+                            "total_poin": 140
+                        },
+                        {
+                            "team_name": "SMPN 2 WERU - TIM 9 B",
+                            "juri1_poin": 165,
+                            "waktu": "01:44:20",
+                            "total_poin": 165
                         }
                     ]
                 },
@@ -1690,6 +1859,19 @@
                     ]
                 },
                 {
+                    "competition_id": 14,
+                    "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 1 PLERED - TIM 24 A",
+                            "juri1_poin": 220,
+                            "waktu": "01:44:38",
+                            "total_poin": 220
+                        }
+                    ]
+                },
+                {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
                     "jumlah_juri": 1,
@@ -1758,6 +1940,31 @@
                             "juri2_poin": 440,
                             "waktu": "10:00:00",
                             "total_poin": 875
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 14,
+                    "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 1 PLUMBON - TIM 20 A",
+                            "juri1_poin": 190,
+                            "waktu": "01:47:45",
+                            "total_poin": 190
+                        },
+                        {
+                            "team_name": "SMPN 1 PLUMBON - TIM 20 B",
+                            "juri1_poin": 215,
+                            "waktu": "01:43:42",
+                            "total_poin": 215
+                        },
+                        {
+                            "team_name": "SMPN 1 PLUMBON - TIM 20 C",
+                            "juri1_poin": 225,
+                            "waktu": "01:44:40",
+                            "total_poin": 225
                         }
                     ]
                 },
@@ -2021,6 +2228,19 @@
                             "juri2_poin": 500,
                             "waktu": "07:49:37",
                             "total_poin": 975
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 14,
+                    "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 4 JATIWANGI - TIM 26 A",
+                            "juri1_poin": 145,
+                            "waktu": "01:45:36",
+                            "total_poin": 145
                         }
                     ]
                 },
@@ -3165,10 +3385,10 @@
                     "teams": [
                         {
                             "team_name": "SMAN 7 CIREBON - TIM 14 A",
-                            "juri1_poin": 0,
-                            "juri2_poin": 0,
-                            "waktu": "-",
-                            "total_poin": 0
+                            "juri1_poin": 838,
+                            "juri2_poin": 895,
+                            "waktu": "11:53:53",
+                            "total_poin": 1733
                         },
                         {
                             "team_name": "SMAN 7 CIREBON - TIM 14 B",
@@ -3413,6 +3633,25 @@
                     ]
                 },
                 {
+                    "competition_id": 14,
+                    "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 1 CIWARINGIN - TIM 13 A",
+                            "juri1_poin": 205,
+                            "waktu": "01:57:56",
+                            "total_poin": 205
+                        },
+                        {
+                            "team_name": "SMPN 1 CIWARINGIN - TIM 13 B",
+                            "juri1_poin": 160,
+                            "waktu": "01:58:48",
+                            "total_poin": 160
+                        }
+                    ]
+                },
+                {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
                     "jumlah_juri": 1,
@@ -3510,6 +3749,37 @@
                     ]
                 },
                 {
+                    "competition_id": 14,
+                    "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 2 GUNUNG JATI - TIM 8 A",
+                            "juri1_poin": 225,
+                            "waktu": "01:49:01",
+                            "total_poin": 225
+                        },
+                        {
+                            "team_name": "SMPN 2 GUNUNG JATI - TIM 8 B",
+                            "juri1_poin": 240,
+                            "waktu": "02:00:00",
+                            "total_poin": 240
+                        },
+                        {
+                            "team_name": "SMPN 2 GUNUNG JATI - TIM 8 C",
+                            "juri1_poin": 235,
+                            "waktu": "01:57:09",
+                            "total_poin": 235
+                        },
+                        {
+                            "team_name": "SMPN 2 GUNUNG JATI - TIM 8 D",
+                            "juri1_poin": 195,
+                            "waktu": "01:59:20",
+                            "total_poin": 195
+                        }
+                    ]
+                },
+                {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
                     "jumlah_juri": 1,
@@ -3549,7 +3819,7 @@
                         {
                             "team_name": "SMPN 2 GUNUNG JATI - TIM 1 A",
                             "juri1_poin": 445,
-                            "waktu": "35:55:90",
+                            "waktu": "03.55.90",
                             "total_poin": 445
                         },
                         {
@@ -3603,6 +3873,19 @@
                             "juri2_poin": 455,
                             "waktu": "07:38:49",
                             "total_poin": 910
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 14,
+                    "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "MTSN 6 CIREBON - TIM 16 A",
+                            "juri1_poin": 250,
+                            "waktu": "01:40:11",
+                            "total_poin": 250
                         }
                     ]
                 },
@@ -4217,6 +4500,31 @@
             "school_name": "SMPN 1 DEPOK",
             "mata_lomba": [
                 {
+                    "competition_id": 14,
+                    "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 1 DEPOK - TIM 18 A",
+                            "juri1_poin": 205,
+                            "waktu": "01:44:28",
+                            "total_poin": 205
+                        },
+                        {
+                            "team_name": "SMPN 1 DEPOK - TIM 18 B",
+                            "juri1_poin": 170,
+                            "waktu": "01:58:10",
+                            "total_poin": 170
+                        },
+                        {
+                            "team_name": "SMPN 1 DEPOK - TIM 18 C",
+                            "juri1_poin": 185,
+                            "waktu": "01:49:57",
+                            "total_poin": 185
+                        }
+                    ]
+                },
+                {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
                     "jumlah_juri": 1,
@@ -4268,6 +4576,37 @@
             "school_name": "SMP NEGERI 2 SURANENGGALA",
             "mata_lomba": [
                 {
+                    "competition_id": 14,
+                    "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMP NEGERI 2 SURANENGGALA - TIM 12 A",
+                            "juri1_poin": 150,
+                            "waktu": "01:56:41",
+                            "total_poin": 150
+                        },
+                        {
+                            "team_name": "SMP NEGERI 2 SURANENGGALA - TIM 12 B",
+                            "juri1_poin": 115,
+                            "waktu": "01:43:16",
+                            "total_poin": 115
+                        },
+                        {
+                            "team_name": "SMP NEGERI 2 SURANENGGALA - TIM 12 C",
+                            "juri1_poin": 140,
+                            "waktu": "01:51:46",
+                            "total_poin": 140
+                        },
+                        {
+                            "team_name": "SMP NEGERI 2 SURANENGGALA - TIM 12 D",
+                            "juri1_poin": 135,
+                            "waktu": "01:44:11",
+                            "total_poin": 135
+                        }
+                    ]
+                },
+                {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
                     "jumlah_juri": 1,
@@ -4314,9 +4653,84 @@
             ],
             "ada_nilai": true
         },
+        "5FJ6CU": {
+            "school_name": "SMPN 3 SUMBER",
+            "mata_lomba": [
+                {
+                    "competition_id": 14,
+                    "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 3 SUMBER - TIM 4 A",
+                            "juri1_poin": 235,
+                            "waktu": "01:39:53",
+                            "total_poin": 235
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 11,
+                    "competition_name": "Tandu Putri Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 3 SUMBER - TIM 26 A",
+                            "juri1_poin": 429,
+                            "waktu": "05:01:52",
+                            "total_poin": 429
+                        },
+                        {
+                            "team_name": "SMPN 3 SUMBER - TIM 26 B",
+                            "juri1_poin": 485,
+                            "waktu": "05:55:98",
+                            "total_poin": 485
+                        }
+                    ]
+                }
+            ],
+            "ada_nilai": true
+        },
         "UUEGLW": {
             "school_name": "SMPN 2 CIWARINGIN",
             "mata_lomba": [
+                {
+                    "competition_id": 14,
+                    "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 2 CIWARINGIN - TIM 1 A",
+                            "juri1_poin": 185,
+                            "waktu": "01:57:09",
+                            "total_poin": 185
+                        },
+                        {
+                            "team_name": "SMPN 2 CIWARINGIN - TIM 1 B",
+                            "juri1_poin": 225,
+                            "waktu": "01:47:32",
+                            "total_poin": 225
+                        },
+                        {
+                            "team_name": "SMPN 2 CIWARINGIN - TIM 1 C",
+                            "juri1_poin": 210,
+                            "waktu": "01:45:04",
+                            "total_poin": 210
+                        },
+                        {
+                            "team_name": "SMPN 2 CIWARINGIN - TIM 1 D",
+                            "juri1_poin": 145,
+                            "waktu": "01:48:04",
+                            "total_poin": 145
+                        },
+                        {
+                            "team_name": "SMPN 2 CIWARINGIN - TIM 1 E",
+                            "juri1_poin": 185,
+                            "waktu": "01:56:39",
+                            "total_poin": 185
+                        }
+                    ]
+                },
                 {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
@@ -4454,19 +4868,68 @@
             ],
             "ada_nilai": true
         },
-        "JXE8SD": {
-            "school_name": "SMPN 2 ARJAWINANGUN",
+        "M9TYXZ": {
+            "school_name": "SMP TUNAS PERTIWI",
             "mata_lomba": [
                 {
-                    "competition_id": 13,
-                    "competition_name": "Smart Red Cross Madya",
+                    "competition_id": 14,
+                    "competition_name": "Poster Madya",
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 2 ARJAWINANGUN - TIM 10 A",
-                            "juri1_poin": 80,
-                            "waktu": "15:27:84",
-                            "total_poin": 80
+                            "team_name": "SMP TUNAS PERTIWI - TIM 2 A",
+                            "juri1_poin": 135,
+                            "waktu": "01:57:21",
+                            "total_poin": 135
+                        },
+                        {
+                            "team_name": "SMP TUNAS PERTIWI - TIM 2 B",
+                            "juri1_poin": 210,
+                            "waktu": "01:56:03",
+                            "total_poin": 210
+                        },
+                        {
+                            "team_name": "SMP TUNAS PERTIWI - TIM 2 C",
+                            "juri1_poin": 180,
+                            "waktu": "01:59:41",
+                            "total_poin": 180
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 10,
+                    "competition_name": "Tandu Putra Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMP TUNAS PERTIWI - TIM 6 A",
+                            "juri1_poin": 386,
+                            "waktu": "06:09:26",
+                            "total_poin": 386
+                        },
+                        {
+                            "team_name": "SMP TUNAS PERTIWI - TIM 6 B",
+                            "juri1_poin": 522,
+                            "waktu": "05:43:00",
+                            "total_poin": 522
+                        },
+                        {
+                            "team_name": "SMP TUNAS PERTIWI - TIM 6 C",
+                            "juri1_poin": 518,
+                            "waktu": "05:37:97",
+                            "total_poin": 518
+                        },
+                        {
+                            "team_name": "SMP TUNAS PERTIWI - TIM 6 D",
+                            "juri1_poin": 306,
+                            "waktu": "07:00:16",
+                            "total_poin": 306
+                        },
+                        {
+                            "team_name": "SMP TUNAS PERTIWI - TIM 6 E",
+                            "juri1_poin": 361,
+                            "waktu": "07:00:13",
+                            "total_poin": 361
                         }
                     ]
                 },
@@ -4476,10 +4939,28 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 2 ARJAWINANGUN - TIM 9 A",
-                            "juri1_poin": 466,
-                            "waktu": "06:04:25",
-                            "total_poin": 466
+                            "team_name": "SMP TUNAS PERTIWI - TIM 27 A",
+                            "juri1_poin": 530,
+                            "waktu": "05:05:83",
+                            "total_poin": 530
+                        },
+                        {
+                            "team_name": "SMP TUNAS PERTIWI - TIM 27 B",
+                            "juri1_poin": 391,
+                            "waktu": "06:14:17",
+                            "total_poin": 391
+                        },
+                        {
+                            "team_name": "SMP TUNAS PERTIWI - TIM 27 C",
+                            "juri1_poin": 455,
+                            "waktu": "05:35:87",
+                            "total_poin": 455
+                        },
+                        {
+                            "team_name": "SMP TUNAS PERTIWI - TIM 27 D",
+                            "juri1_poin": 341,
+                            "waktu": "07:00:53",
+                            "total_poin": 341
                         }
                     ]
                 }
@@ -4489,6 +4970,25 @@
         "TYHBME": {
             "school_name": "SMPN 2 GEGESIK",
             "mata_lomba": [
+                {
+                    "competition_id": 14,
+                    "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 2 GEGESIK - TIM 5 A",
+                            "juri1_poin": 140,
+                            "waktu": "02:00:00",
+                            "total_poin": 140
+                        },
+                        {
+                            "team_name": "SMPN 2 GEGESIK - TIM 5 B",
+                            "juri1_poin": 130,
+                            "waktu": "01:53:36",
+                            "total_poin": 130
+                        }
+                    ]
+                },
                 {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
@@ -4608,6 +5108,19 @@
             "school_name": "SMPN 2 PLERED",
             "mata_lomba": [
                 {
+                    "competition_id": 14,
+                    "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 2 PLERED - TIM 7 A",
+                            "juri1_poin": 230,
+                            "waktu": "01:59:59",
+                            "total_poin": 230
+                        }
+                    ]
+                },
+                {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
                     "jumlah_juri": 1,
@@ -4664,6 +5177,19 @@
             "school_name": "SMP NEGERI 1 LOSARI",
             "mata_lomba": [
                 {
+                    "competition_id": 14,
+                    "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMP NEGERI 1 LOSARI - TIM 19 A",
+                            "juri1_poin": 235,
+                            "waktu": "02:00:00",
+                            "total_poin": 235
+                        }
+                    ]
+                },
+                {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
                     "jumlah_juri": 1,
@@ -4695,6 +5221,31 @@
         "SEGQA4": {
             "school_name": "MTSN 4 CIREBON",
             "mata_lomba": [
+                {
+                    "competition_id": 14,
+                    "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "MTSN 4 CIREBON - TIM 22 A",
+                            "juri1_poin": 150,
+                            "waktu": "02:00:00",
+                            "total_poin": 150
+                        },
+                        {
+                            "team_name": "MTSN 4 CIREBON - TIM 22 B",
+                            "juri1_poin": 200,
+                            "waktu": "02:00:00",
+                            "total_poin": 200
+                        },
+                        {
+                            "team_name": "MTSN 4 CIREBON - TIM 22 C",
+                            "juri1_poin": 135,
+                            "waktu": "02:00:00",
+                            "total_poin": 135
+                        }
+                    ]
+                },
                 {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
@@ -4783,6 +5334,19 @@
             "school_name": "SMP AL IRSYAD AL ISLAMIYYAH KOTA CIREBON",
             "mata_lomba": [
                 {
+                    "competition_id": 14,
+                    "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMP AL IRSYAD AL ISLAMIYYAH KOTA CIREBON - TIM 21 A",
+                            "juri1_poin": 160,
+                            "waktu": "01:55:45",
+                            "total_poin": 160
+                        }
+                    ]
+                },
+                {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
                     "jumlah_juri": 1,
@@ -4814,6 +5378,19 @@
             "school_name": "SMPN 1 KLANGENAN",
             "mata_lomba": [
                 {
+                    "competition_id": 14,
+                    "competition_name": "Poster Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 1 KLANGENAN - TIM 17 A",
+                            "juri1_poin": 185,
+                            "waktu": "02:00:00",
+                            "total_poin": 185
+                        }
+                    ]
+                },
+                {
                     "competition_id": 13,
                     "competition_name": "Smart Red Cross Madya",
                     "jumlah_juri": 1,
@@ -4823,6 +5400,38 @@
                             "juri1_poin": 53,
                             "waktu": "25:56:48",
                             "total_poin": 53
+                        }
+                    ]
+                }
+            ],
+            "ada_nilai": true
+        },
+        "JXE8SD": {
+            "school_name": "SMPN 2 ARJAWINANGUN",
+            "mata_lomba": [
+                {
+                    "competition_id": 13,
+                    "competition_name": "Smart Red Cross Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 2 ARJAWINANGUN - TIM 10 A",
+                            "juri1_poin": 80,
+                            "waktu": "15:27:84",
+                            "total_poin": 80
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 11,
+                    "competition_name": "Tandu Putri Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 2 ARJAWINANGUN - TIM 9 A",
+                            "juri1_poin": 466,
+                            "waktu": "06:04:25",
+                            "total_poin": 466
                         }
                     ]
                 }
@@ -5501,80 +6110,6 @@
             ],
             "ada_nilai": true
         },
-        "M9TYXZ": {
-            "school_name": "SMP TUNAS PERTIWI",
-            "mata_lomba": [
-                {
-                    "competition_id": 10,
-                    "competition_name": "Tandu Putra Madya",
-                    "jumlah_juri": 1,
-                    "teams": [
-                        {
-                            "team_name": "SMP TUNAS PERTIWI - TIM 6 A",
-                            "juri1_poin": 386,
-                            "waktu": "06:09:26",
-                            "total_poin": 386
-                        },
-                        {
-                            "team_name": "SMP TUNAS PERTIWI - TIM 6 B",
-                            "juri1_poin": 522,
-                            "waktu": "05:43:00",
-                            "total_poin": 522
-                        },
-                        {
-                            "team_name": "SMP TUNAS PERTIWI - TIM 6 C",
-                            "juri1_poin": 518,
-                            "waktu": "05:37:97",
-                            "total_poin": 518
-                        },
-                        {
-                            "team_name": "SMP TUNAS PERTIWI - TIM 6 D",
-                            "juri1_poin": 306,
-                            "waktu": "07:00:16",
-                            "total_poin": 306
-                        },
-                        {
-                            "team_name": "SMP TUNAS PERTIWI - TIM 6 E",
-                            "juri1_poin": 361,
-                            "waktu": "07:00:13",
-                            "total_poin": 361
-                        }
-                    ]
-                },
-                {
-                    "competition_id": 11,
-                    "competition_name": "Tandu Putri Madya",
-                    "jumlah_juri": 1,
-                    "teams": [
-                        {
-                            "team_name": "SMP TUNAS PERTIWI - TIM 27 A",
-                            "juri1_poin": 530,
-                            "waktu": "05:05:83",
-                            "total_poin": 530
-                        },
-                        {
-                            "team_name": "SMP TUNAS PERTIWI - TIM 27 B",
-                            "juri1_poin": 391,
-                            "waktu": "06:14:17",
-                            "total_poin": 391
-                        },
-                        {
-                            "team_name": "SMP TUNAS PERTIWI - TIM 27 C",
-                            "juri1_poin": 455,
-                            "waktu": "05:35:87",
-                            "total_poin": 455
-                        },
-                        {
-                            "team_name": "SMP TUNAS PERTIWI - TIM 27 D",
-                            "juri1_poin": 341,
-                            "waktu": "07:00:53",
-                            "total_poin": 341
-                        }
-                    ]
-                }
-            ],
-            "ada_nilai": true
-        },
         "EK26BU": {
             "school_name": "MA TUNAS PERTIWI",
             "mata_lomba": [
@@ -5601,31 +6136,6 @@
                             "juri1_poin": 528,
                             "waktu": "04:12:72",
                             "total_poin": 528
-                        }
-                    ]
-                }
-            ],
-            "ada_nilai": true
-        },
-        "5FJ6CU": {
-            "school_name": "SMPN 3 SUMBER",
-            "mata_lomba": [
-                {
-                    "competition_id": 11,
-                    "competition_name": "Tandu Putri Madya",
-                    "jumlah_juri": 1,
-                    "teams": [
-                        {
-                            "team_name": "SMPN 3 SUMBER - TIM 26 A",
-                            "juri1_poin": 429,
-                            "waktu": "05:01:52",
-                            "total_poin": 429
-                        },
-                        {
-                            "team_name": "SMPN 3 SUMBER - TIM 26 B",
-                            "juri1_poin": 485,
-                            "waktu": "05:55:98",
-                            "total_poin": 485
                         }
                     ]
                 }
