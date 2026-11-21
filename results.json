@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-11-21 16:52:07 WIB",
+    "generated_at": "2026-11-21 17:06:41 WIB",
     "ada_nilai": true,
     "ada_juara": false,
     "competitions": [
@@ -500,10 +500,10 @@
                         },
                         {
                             "team_name": "SMPN 12 KOTA CIREBON - TIM 4 B",
-                            "juri1_poin": 0,
+                            "juri1_poin": 655,
                             "juri2_poin": 655,
-                            "waktu": "-",
-                            "total_poin": 655
+                            "waktu": "09:04:54",
+                            "total_poin": 1310
                         }
                     ]
                 },
@@ -1442,10 +1442,10 @@
                     "teams": [
                         {
                             "team_name": "SMPN 1 KRANGKENG - TIM 21 A",
-                            "juri1_poin": 0,
-                            "juri2_poin": 0,
-                            "waktu": "-",
-                            "total_poin": 0
+                            "juri1_poin": 450,
+                            "juri2_poin": 450,
+                            "waktu": "06:37:67",
+                            "total_poin": 900
                         }
                     ]
                 },
@@ -2701,10 +2701,10 @@
                     "teams": [
                         {
                             "team_name": "SMA ISLAM AL AZHAR 5 CIREBON - TIM 16 A",
-                            "juri1_poin": 0,
-                            "juri2_poin": 0,
-                            "waktu": "-",
-                            "total_poin": 0
+                            "juri1_poin": 725,
+                            "juri2_poin": 725,
+                            "waktu": "12:00:00",
+                            "total_poin": 1450
                         },
                         {
                             "team_name": "SMA ISLAM AL AZHAR 5 CIREBON - TIM 16 B",
@@ -3119,10 +3119,10 @@
                     "teams": [
                         {
                             "team_name": "SMAN 6 CIREBON - TIM 13 A",
-                            "juri1_poin": 0,
-                            "juri2_poin": 0,
-                            "waktu": "-",
-                            "total_poin": 0
+                            "juri1_poin": 771,
+                            "juri2_poin": 749,
+                            "waktu": "12:01:00",
+                            "total_poin": 1520
                         }
                     ]
                 },
