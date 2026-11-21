@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-11-21 17:10:27 WIB",
+    "generated_at": "2026-11-21 17:31:36 WIB",
     "ada_nilai": true,
     "ada_juara": false,
     "competitions": [
@@ -14,6 +14,10 @@
         {
             "id": 3,
             "name": "Tandu Putra Wira"
+        },
+        {
+            "id": 4,
+            "name": "Poster Wira"
         },
         {
             "id": 5,
@@ -1156,9 +1160,9 @@
                         },
                         {
                             "team_name": "MTS NEGERI 9 INDRAMAYU - TIM 7 C",
-                            "juri1_poin": 0,
-                            "waktu": "-",
-                            "total_poin": 0
+                            "juri1_poin": 616,
+                            "waktu": "03:54:91",
+                            "total_poin": 616
                         },
                         {
                             "team_name": "MTS NEGERI 9 INDRAMAYU - TIM 7 D",
@@ -1626,10 +1630,10 @@
                         },
                         {
                             "team_name": "SMPN 2 KLANGENAN - TIM 19 B",
-                            "juri1_poin": 0,
-                            "juri2_poin": 0,
-                            "waktu": "-",
-                            "total_poin": 0
+                            "juri1_poin": 893,
+                            "juri2_poin": 962,
+                            "waktu": "09:52:47",
+                            "total_poin": 1855
                         }
                     ]
                 },
@@ -2708,10 +2712,23 @@
                         },
                         {
                             "team_name": "SMA ISLAM AL AZHAR 5 CIREBON - TIM 16 B",
-                            "juri1_poin": 0,
-                            "juri2_poin": 0,
-                            "waktu": "-",
-                            "total_poin": 0
+                            "juri1_poin": 970,
+                            "juri2_poin": 935,
+                            "waktu": "10:41:26",
+                            "total_poin": 1905
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 4,
+                    "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMA ISLAM AL AZHAR 5 CIREBON - TIM 4 A",
+                            "juri1_poin": 165,
+                            "waktu": "02:00:00",
+                            "total_poin": 165
                         }
                     ]
                 },
@@ -2816,6 +2833,25 @@
                             "juri2_poin": 605,
                             "waktu": "12:00:00",
                             "total_poin": 1310
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 4,
+                    "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMAN 5 KOTA CIREBON - TIM 10 A",
+                            "juri1_poin": 215,
+                            "waktu": "01:56:07",
+                            "total_poin": 215
+                        },
+                        {
+                            "team_name": "SMAN 5 KOTA CIREBON - TIM 10 B",
+                            "juri1_poin": 195,
+                            "waktu": "02:00:00",
+                            "total_poin": 195
                         }
                     ]
                 },
@@ -3081,6 +3117,19 @@
                     ]
                 },
                 {
+                    "competition_id": 4,
+                    "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "MAN 2 KOTA CIREBON - TIM 9 A",
+                            "juri1_poin": 250,
+                            "waktu": "02:00:00",
+                            "total_poin": 250
+                        }
+                    ]
+                },
+                {
                     "competition_id": 7,
                     "competition_name": "Smart Red Cross Wira",
                     "jumlah_juri": 1,
@@ -3232,6 +3281,19 @@
                     ]
                 },
                 {
+                    "competition_id": 4,
+                    "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "MAN 1 KOTA CIREBON - TIM 1 A",
+                            "juri1_poin": 155,
+                            "waktu": "02:00:00",
+                            "total_poin": 155
+                        }
+                    ]
+                },
+                {
                     "competition_id": 7,
                     "competition_name": "Smart Red Cross Wira",
                     "jumlah_juri": 1,
@@ -3322,6 +3384,25 @@
                     ]
                 },
                 {
+                    "competition_id": 4,
+                    "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "MA SALAFIYAH BODESARI - TIM 5 A",
+                            "juri1_poin": 245,
+                            "waktu": "02:00:00",
+                            "total_poin": 245
+                        },
+                        {
+                            "team_name": "MA SALAFIYAH BODESARI - TIM 5 B",
+                            "juri1_poin": 245,
+                            "waktu": "02:00:00",
+                            "total_poin": 245
+                        }
+                    ]
+                },
+                {
                     "competition_id": 7,
                     "competition_name": "Smart Red Cross Wira",
                     "jumlah_juri": 1,
@@ -3392,10 +3473,10 @@
                         },
                         {
                             "team_name": "SMAN 7 CIREBON - TIM 14 B",
-                            "juri1_poin": 0,
-                            "juri2_poin": 0,
-                            "waktu": "-",
-                            "total_poin": 0
+                            "juri1_poin": 704,
+                            "juri2_poin": 734,
+                            "waktu": "12:01:00",
+                            "total_poin": 1438
                         }
                     ]
                 },
@@ -3417,6 +3498,19 @@
                             "juri2_poin": 800,
                             "waktu": "12:00:00",
                             "total_poin": 1850
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 4,
+                    "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMAN 7 CIREBON - TIM 13 A",
+                            "juri1_poin": 205,
+                            "waktu": "02:00:00",
+                            "total_poin": 205
                         }
                     ]
                 },
@@ -3531,6 +3625,19 @@
                             "juri2_poin": 666,
                             "waktu": "11:39:88",
                             "total_poin": 1457
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 4,
+                    "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMKS PUI PROGRAM KESEHATAN KOTA CIREBON - TIM 16 A",
+                            "juri1_poin": 175,
+                            "waktu": "02:00:00",
+                            "total_poin": 175
                         }
                     ]
                 },
@@ -4154,6 +4261,37 @@
                     ]
                 },
                 {
+                    "competition_id": 4,
+                    "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMAN 1 SURANENGGALA - TIM 11 A",
+                            "juri1_poin": 255,
+                            "waktu": "01:49:44",
+                            "total_poin": 255
+                        },
+                        {
+                            "team_name": "SMAN 1 SURANENGGALA - TIM 11 B",
+                            "juri1_poin": 225,
+                            "waktu": "02:00:00",
+                            "total_poin": 225
+                        },
+                        {
+                            "team_name": "SMAN 1 SURANENGGALA - TIM 11 C",
+                            "juri1_poin": 270,
+                            "waktu": "01:50:01",
+                            "total_poin": 270
+                        },
+                        {
+                            "team_name": "SMAN 1 SURANENGGALA - TIM 11 D",
+                            "juri1_poin": 210,
+                            "waktu": "02:00:00",
+                            "total_poin": 210
+                        }
+                    ]
+                },
+                {
                     "competition_id": 5,
                     "competition_name": "Tandu Putri Wira",
                     "jumlah_juri": 1,
@@ -4220,6 +4358,25 @@
                             "juri2_poin": 705,
                             "waktu": "12:00:00",
                             "total_poin": 1495
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 4,
+                    "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMAN TENGAH TANI - TIM 7 A",
+                            "juri1_poin": 175,
+                            "waktu": "02:00:00",
+                            "total_poin": 175
+                        },
+                        {
+                            "team_name": "SMAN TENGAH TANI - TIM 7 B",
+                            "juri1_poin": 240,
+                            "waktu": "02:00:00",
+                            "total_poin": 240
                         }
                     ]
                 },
@@ -4404,6 +4561,19 @@
                     ]
                 },
                 {
+                    "competition_id": 4,
+                    "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMK PUI GEGESIK - TIM 2 A",
+                            "juri1_poin": 155,
+                            "waktu": "02:00:00",
+                            "total_poin": 155
+                        }
+                    ]
+                },
+                {
                     "competition_id": 7,
                     "competition_name": "Smart Red Cross Wira",
                     "jumlah_juri": 1,
@@ -4452,6 +4622,19 @@
                             "juri2_poin": 485,
                             "waktu": "09:10:63",
                             "total_poin": 975
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 4,
+                    "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMA NEGERI 1 BABAKAN - TIM 15 A",
+                            "juri1_poin": 260,
+                            "waktu": "02:00:00",
+                            "total_poin": 260
                         }
                     ]
                 },
@@ -5406,82 +5589,38 @@
             ],
             "ada_nilai": true
         },
-        "JXE8SD": {
-            "school_name": "SMPN 2 ARJAWINANGUN",
+        "AU695P": {
+            "school_name": "MAN 2 MAJALENGKA",
             "mata_lomba": [
                 {
-                    "competition_id": 13,
-                    "competition_name": "Smart Red Cross Madya",
+                    "competition_id": 4,
+                    "competition_name": "Poster Wira",
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMPN 2 ARJAWINANGUN - TIM 10 A",
-                            "juri1_poin": 80,
-                            "waktu": "15:27:84",
-                            "total_poin": 80
+                            "team_name": "MAN 2 MAJALENGKA - TIM 6 A",
+                            "juri1_poin": 160,
+                            "waktu": "02:00:00",
+                            "total_poin": 160
                         }
                     ]
                 },
-                {
-                    "competition_id": 11,
-                    "competition_name": "Tandu Putri Madya",
-                    "jumlah_juri": 1,
-                    "teams": [
-                        {
-                            "team_name": "SMPN 2 ARJAWINANGUN - TIM 9 A",
-                            "juri1_poin": 466,
-                            "waktu": "06:04:25",
-                            "total_poin": 466
-                        }
-                    ]
-                }
-            ],
-            "ada_nilai": true
-        },
-        "PUYCVD": {
-            "school_name": "SMK ISDA BABAKAN",
-            "mata_lomba": [
                 {
                     "competition_id": 7,
                     "competition_name": "Smart Red Cross Wira",
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "SMK ISDA BABAKAN - TIM 10 A",
-                            "juri1_poin": 51,
-                            "waktu": "26:01:94",
-                            "total_poin": 51
-                        }
-                    ]
-                },
-                {
-                    "competition_id": 5,
-                    "competition_name": "Tandu Putri Wira",
-                    "jumlah_juri": 1,
-                    "teams": [
-                        {
-                            "team_name": "SMK ISDA BABAKAN - TIM 23 A",
-                            "juri1_poin": 350,
-                            "waktu": "05:20:90",
-                            "total_poin": 350
+                            "team_name": "MAN 2 MAJALENGKA - TIM 2 A",
+                            "juri1_poin": 57,
+                            "waktu": "26:18:73",
+                            "total_poin": 57
                         },
                         {
-                            "team_name": "SMK ISDA BABAKAN - TIM 23 B",
-                            "juri1_poin": 382,
-                            "waktu": "04:58:64",
-                            "total_poin": 382
-                        },
-                        {
-                            "team_name": "SMK ISDA BABAKAN - TIM 23 C",
-                            "juri1_poin": 406,
-                            "waktu": "04:34:37",
-                            "total_poin": 406
-                        },
-                        {
-                            "team_name": "SMK ISDA BABAKAN - TIM 23 D",
-                            "juri1_poin": 487,
-                            "waktu": "03:58:36",
-                            "total_poin": 487
+                            "team_name": "MAN 2 MAJALENGKA - TIM 2 B",
+                            "juri1_poin": 48,
+                            "waktu": "20:20:34",
+                            "total_poin": 48
                         }
                     ]
                 }
@@ -5491,6 +5630,25 @@
         "5T5R7W": {
             "school_name": "SMK BINA WIRAUSAHA TALAGA",
             "mata_lomba": [
+                {
+                    "competition_id": 4,
+                    "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMK BINA WIRAUSAHA TALAGA - TIM 14 A",
+                            "juri1_poin": 190,
+                            "waktu": "02:00:00",
+                            "total_poin": 190
+                        },
+                        {
+                            "team_name": "SMK BINA WIRAUSAHA TALAGA - TIM 14 B",
+                            "juri1_poin": 170,
+                            "waktu": "01:50:33",
+                            "total_poin": 170
+                        }
+                    ]
+                },
                 {
                     "competition_id": 7,
                     "competition_name": "Smart Red Cross Wira",
@@ -5582,8 +5740,285 @@
             ],
             "ada_nilai": true
         },
-        "AU695P": {
-            "school_name": "MAN 2 MAJALENGKA",
+        "CQR45Z": {
+            "school_name": "SMKN 1 KAPETAKAN",
+            "mata_lomba": [
+                {
+                    "competition_id": 4,
+                    "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMKN 1 KAPETAKAN - TIM 8 A",
+                            "juri1_poin": 230,
+                            "waktu": "02:00:00",
+                            "total_poin": 230
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 6,
+                    "competition_name": "Tandu Campuran Wira",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMKN 1 KAPETAKAN - TIM 4 A",
+                            "juri1_poin": 547,
+                            "waktu": "03:48:18",
+                            "total_poin": 547
+                        },
+                        {
+                            "team_name": "SMKN 1 KAPETAKAN - TIM 4 B",
+                            "juri1_poin": 617,
+                            "waktu": "03:38:96",
+                            "total_poin": 617
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 3,
+                    "competition_name": "Tandu Putra Wira",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMKN 1 KAPETAKAN - TIM 10 A",
+                            "juri1_poin": 645,
+                            "waktu": "03:20:37",
+                            "total_poin": 645
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 5,
+                    "competition_name": "Tandu Putri Wira",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMKN 1 KAPETAKAN - TIM 22 A",
+                            "juri1_poin": 499,
+                            "waktu": "04:06:14",
+                            "total_poin": 499
+                        },
+                        {
+                            "team_name": "SMKN 1 KAPETAKAN - TIM 22 B",
+                            "juri1_poin": 299,
+                            "waktu": "05:26:01",
+                            "total_poin": 299
+                        },
+                        {
+                            "team_name": "SMKN 1 KAPETAKAN - TIM 22 C",
+                            "juri1_poin": 523,
+                            "waktu": "04:47:76",
+                            "total_poin": 523
+                        }
+                    ]
+                }
+            ],
+            "ada_nilai": true
+        },
+        "MT8XDD": {
+            "school_name": "SMKN 1 KRANGKENG",
+            "mata_lomba": [
+                {
+                    "competition_id": 4,
+                    "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMKN 1 KRANGKENG - TIM 12 A",
+                            "juri1_poin": 260,
+                            "waktu": "02:00:00",
+                            "total_poin": 260
+                        },
+                        {
+                            "team_name": "SMKN 1 KRANGKENG - TIM 12 B",
+                            "juri1_poin": 220,
+                            "waktu": "02:00:00",
+                            "total_poin": 220
+                        },
+                        {
+                            "team_name": "SMKN 1 KRANGKENG - TIM 12 C",
+                            "juri1_poin": 160,
+                            "waktu": "02:00:00",
+                            "total_poin": 160
+                        },
+                        {
+                            "team_name": "SMKN 1 KRANGKENG - TIM 12 D",
+                            "juri1_poin": 235,
+                            "waktu": "02:00:00",
+                            "total_poin": 235
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 6,
+                    "competition_name": "Tandu Campuran Wira",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMKN 1 KRANGKENG - TIM 18 A",
+                            "juri1_poin": 657,
+                            "waktu": "03:38:61",
+                            "total_poin": 657
+                        },
+                        {
+                            "team_name": "SMKN 1 KRANGKENG - TIM 18 B",
+                            "juri1_poin": 651,
+                            "waktu": "03:49:95",
+                            "total_poin": 651
+                        },
+                        {
+                            "team_name": "SMKN 1 KRANGKENG - TIM 18 C",
+                            "juri1_poin": 667,
+                            "waktu": "03:08:17",
+                            "total_poin": 667
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 3,
+                    "competition_name": "Tandu Putra Wira",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMKN 1 KRANGKENG - TIM 12 A",
+                            "juri1_poin": 630,
+                            "waktu": "03:30:79",
+                            "total_poin": 630
+                        },
+                        {
+                            "team_name": "SMKN 1 KRANGKENG - TIM 12 B",
+                            "juri1_poin": 616,
+                            "waktu": "03:59:84",
+                            "total_poin": 616
+                        },
+                        {
+                            "team_name": "SMKN 1 KRANGKENG - TIM 12 C",
+                            "juri1_poin": 647,
+                            "waktu": "03:23:42",
+                            "total_poin": 647
+                        },
+                        {
+                            "team_name": "SMKN 1 KRANGKENG - TIM 12 D",
+                            "juri1_poin": 687,
+                            "waktu": "03:03:06",
+                            "total_poin": 687
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 5,
+                    "competition_name": "Tandu Putri Wira",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMKN 1 KRANGKENG - TIM 13 A",
+                            "juri1_poin": 550,
+                            "waktu": "04:30:93",
+                            "total_poin": 550
+                        },
+                        {
+                            "team_name": "SMKN 1 KRANGKENG - TIM 13 B",
+                            "juri1_poin": 647,
+                            "waktu": "03:43:80",
+                            "total_poin": 647
+                        },
+                        {
+                            "team_name": "SMKN 1 KRANGKENG - TIM 13 C",
+                            "juri1_poin": 583,
+                            "waktu": "04:57:79",
+                            "total_poin": 583
+                        },
+                        {
+                            "team_name": "SMKN 1 KRANGKENG - TIM 13 D",
+                            "juri1_poin": 648,
+                            "waktu": "03:22:23",
+                            "total_poin": 648
+                        }
+                    ]
+                }
+            ],
+            "ada_nilai": true
+        },
+        "EK26BU": {
+            "school_name": "MA TUNAS PERTIWI",
+            "mata_lomba": [
+                {
+                    "competition_id": 4,
+                    "competition_name": "Poster Wira",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "MA TUNAS PERTIWI - TIM 3 A",
+                            "juri1_poin": 240,
+                            "waktu": "02:00:00",
+                            "total_poin": 240
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 3,
+                    "competition_name": "Tandu Putra Wira",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "MA TUNAS PERTIWI - TIM 13 A",
+                            "juri1_poin": 469,
+                            "waktu": "03:36:68",
+                            "total_poin": 469
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 5,
+                    "competition_name": "Tandu Putri Wira",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "MA TUNAS PERTIWI - TIM 24 A",
+                            "juri1_poin": 528,
+                            "waktu": "04:12:72",
+                            "total_poin": 528
+                        }
+                    ]
+                }
+            ],
+            "ada_nilai": true
+        },
+        "JXE8SD": {
+            "school_name": "SMPN 2 ARJAWINANGUN",
+            "mata_lomba": [
+                {
+                    "competition_id": 13,
+                    "competition_name": "Smart Red Cross Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 2 ARJAWINANGUN - TIM 10 A",
+                            "juri1_poin": 80,
+                            "waktu": "15:27:84",
+                            "total_poin": 80
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 11,
+                    "competition_name": "Tandu Putri Madya",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMPN 2 ARJAWINANGUN - TIM 9 A",
+                            "juri1_poin": 466,
+                            "waktu": "06:04:25",
+                            "total_poin": 466
+                        }
+                    ]
+                }
+            ],
+            "ada_nilai": true
+        },
+        "PUYCVD": {
+            "school_name": "SMK ISDA BABAKAN",
             "mata_lomba": [
                 {
                     "competition_id": 7,
@@ -5591,16 +6026,41 @@
                     "jumlah_juri": 1,
                     "teams": [
                         {
-                            "team_name": "MAN 2 MAJALENGKA - TIM 2 A",
-                            "juri1_poin": 57,
-                            "waktu": "26:18:73",
-                            "total_poin": 57
+                            "team_name": "SMK ISDA BABAKAN - TIM 10 A",
+                            "juri1_poin": 51,
+                            "waktu": "26:01:94",
+                            "total_poin": 51
+                        }
+                    ]
+                },
+                {
+                    "competition_id": 5,
+                    "competition_name": "Tandu Putri Wira",
+                    "jumlah_juri": 1,
+                    "teams": [
+                        {
+                            "team_name": "SMK ISDA BABAKAN - TIM 23 A",
+                            "juri1_poin": 350,
+                            "waktu": "05:20:90",
+                            "total_poin": 350
                         },
                         {
-                            "team_name": "MAN 2 MAJALENGKA - TIM 2 B",
-                            "juri1_poin": 48,
-                            "waktu": "20:20:34",
-                            "total_poin": 48
+                            "team_name": "SMK ISDA BABAKAN - TIM 23 B",
+                            "juri1_poin": 382,
+                            "waktu": "04:58:64",
+                            "total_poin": 382
+                        },
+                        {
+                            "team_name": "SMK ISDA BABAKAN - TIM 23 C",
+                            "juri1_poin": 406,
+                            "waktu": "04:34:37",
+                            "total_poin": 406
+                        },
+                        {
+                            "team_name": "SMK ISDA BABAKAN - TIM 23 D",
+                            "juri1_poin": 487,
+                            "waktu": "03:58:36",
+                            "total_poin": 487
                         }
                     ]
                 }
@@ -5835,162 +6295,6 @@
             ],
             "ada_nilai": true
         },
-        "CQR45Z": {
-            "school_name": "SMKN 1 KAPETAKAN",
-            "mata_lomba": [
-                {
-                    "competition_id": 6,
-                    "competition_name": "Tandu Campuran Wira",
-                    "jumlah_juri": 1,
-                    "teams": [
-                        {
-                            "team_name": "SMKN 1 KAPETAKAN - TIM 4 A",
-                            "juri1_poin": 547,
-                            "waktu": "03:48:18",
-                            "total_poin": 547
-                        },
-                        {
-                            "team_name": "SMKN 1 KAPETAKAN - TIM 4 B",
-                            "juri1_poin": 617,
-                            "waktu": "03:38:96",
-                            "total_poin": 617
-                        }
-                    ]
-                },
-                {
-                    "competition_id": 3,
-                    "competition_name": "Tandu Putra Wira",
-                    "jumlah_juri": 1,
-                    "teams": [
-                        {
-                            "team_name": "SMKN 1 KAPETAKAN - TIM 10 A",
-                            "juri1_poin": 645,
-                            "waktu": "03:20:37",
-                            "total_poin": 645
-                        }
-                    ]
-                },
-                {
-                    "competition_id": 5,
-                    "competition_name": "Tandu Putri Wira",
-                    "jumlah_juri": 1,
-                    "teams": [
-                        {
-                            "team_name": "SMKN 1 KAPETAKAN - TIM 22 A",
-                            "juri1_poin": 499,
-                            "waktu": "04:06:14",
-                            "total_poin": 499
-                        },
-                        {
-                            "team_name": "SMKN 1 KAPETAKAN - TIM 22 B",
-                            "juri1_poin": 299,
-                            "waktu": "05:26:01",
-                            "total_poin": 299
-                        },
-                        {
-                            "team_name": "SMKN 1 KAPETAKAN - TIM 22 C",
-                            "juri1_poin": 523,
-                            "waktu": "04:47:76",
-                            "total_poin": 523
-                        }
-                    ]
-                }
-            ],
-            "ada_nilai": true
-        },
-        "MT8XDD": {
-            "school_name": "SMKN 1 KRANGKENG",
-            "mata_lomba": [
-                {
-                    "competition_id": 6,
-                    "competition_name": "Tandu Campuran Wira",
-                    "jumlah_juri": 1,
-                    "teams": [
-                        {
-                            "team_name": "SMKN 1 KRANGKENG - TIM 18 A",
-                            "juri1_poin": 657,
-                            "waktu": "03:38:61",
-                            "total_poin": 657
-                        },
-                        {
-                            "team_name": "SMKN 1 KRANGKENG - TIM 18 B",
-                            "juri1_poin": 651,
-                            "waktu": "03:49:95",
-                            "total_poin": 651
-                        },
-                        {
-                            "team_name": "SMKN 1 KRANGKENG - TIM 18 C",
-                            "juri1_poin": 667,
-                            "waktu": "03:08:17",
-                            "total_poin": 667
-                        }
-                    ]
-                },
-                {
-                    "competition_id": 3,
-                    "competition_name": "Tandu Putra Wira",
-                    "jumlah_juri": 1,
-                    "teams": [
-                        {
-                            "team_name": "SMKN 1 KRANGKENG - TIM 12 A",
-                            "juri1_poin": 630,
-                            "waktu": "03:30:79",
-                            "total_poin": 630
-                        },
-                        {
-                            "team_name": "SMKN 1 KRANGKENG - TIM 12 B",
-                            "juri1_poin": 616,
-                            "waktu": "03:59:84",
-                            "total_poin": 616
-                        },
-                        {
-                            "team_name": "SMKN 1 KRANGKENG - TIM 12 C",
-                            "juri1_poin": 647,
-                            "waktu": "03:23:42",
-                            "total_poin": 647
-                        },
-                        {
-                            "team_name": "SMKN 1 KRANGKENG - TIM 12 D",
-                            "juri1_poin": 687,
-                            "waktu": "03:03:06",
-                            "total_poin": 687
-                        }
-                    ]
-                },
-                {
-                    "competition_id": 5,
-                    "competition_name": "Tandu Putri Wira",
-                    "jumlah_juri": 1,
-                    "teams": [
-                        {
-                            "team_name": "SMKN 1 KRANGKENG - TIM 13 A",
-                            "juri1_poin": 550,
-                            "waktu": "04:30:93",
-                            "total_poin": 550
-                        },
-                        {
-                            "team_name": "SMKN 1 KRANGKENG - TIM 13 B",
-                            "juri1_poin": 647,
-                            "waktu": "03:43:80",
-                            "total_poin": 647
-                        },
-                        {
-                            "team_name": "SMKN 1 KRANGKENG - TIM 13 C",
-                            "juri1_poin": 583,
-                            "waktu": "04:57:79",
-                            "total_poin": 583
-                        },
-                        {
-                            "team_name": "SMKN 1 KRANGKENG - TIM 13 D",
-                            "juri1_poin": 648,
-                            "waktu": "03:22:23",
-                            "total_poin": 648
-                        }
-                    ]
-                }
-            ],
-            "ada_nilai": true
-        },
         "DQDYJ2": {
             "school_name": "MAS PUI KEPUH",
             "mata_lomba": [
@@ -6104,38 +6408,6 @@
                             "juri1_poin": 356,
                             "waktu": "07:00:00",
                             "total_poin": 356
-                        }
-                    ]
-                }
-            ],
-            "ada_nilai": true
-        },
-        "EK26BU": {
-            "school_name": "MA TUNAS PERTIWI",
-            "mata_lomba": [
-                {
-                    "competition_id": 3,
-                    "competition_name": "Tandu Putra Wira",
-                    "jumlah_juri": 1,
-                    "teams": [
-                        {
-                            "team_name": "MA TUNAS PERTIWI - TIM 13 A",
-                            "juri1_poin": 469,
-                            "waktu": "03:36:68",
-                            "total_poin": 469
-                        }
-                    ]
-                },
-                {
-                    "competition_id": 5,
-                    "competition_name": "Tandu Putri Wira",
-                    "jumlah_juri": 1,
-                    "teams": [
-                        {
-                            "team_name": "MA TUNAS PERTIWI - TIM 24 A",
-                            "juri1_poin": 528,
-                            "waktu": "04:12:72",
-                            "total_poin": 528
                         }
                     ]
                 }
