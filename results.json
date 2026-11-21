@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-11-21 17:06:41 WIB",
+    "generated_at": "2026-11-21 17:10:27 WIB",
     "ada_nilai": true,
     "ada_juara": false,
     "competitions": [
@@ -1238,10 +1238,10 @@
                         },
                         {
                             "team_name": "SMPN 1 ARJAWINANGUN - TIM 18 B",
-                            "juri1_poin": 0,
-                            "juri2_poin": 0,
-                            "waktu": "-",
-                            "total_poin": 0
+                            "juri1_poin": 558,
+                            "juri2_poin": 663,
+                            "waktu": "10:00:00",
+                            "total_poin": 1221
                         }
                     ]
                 },
