@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-11-22 09:10:18 WIB",
+    "generated_at": "2026-11-22 09:14:54 WIB",
     "ada_nilai": true,
     "ada_juara": true,
     "competitions": [
@@ -3072,6 +3072,13 @@
                     "nama_juara": "JUARA HARAPAN 1",
                     "keterangan": "Tandu Putri Wira - Tim SMK NEGERI 1 SINDANG - TIM 20 A (nilai 642)",
                     "urut": 7
+                },
+                {
+                    "jenis": "umum_sekolah",
+                    "jenis_label": "Juara Umum Sekolah Wira",
+                    "nama_juara": "JUARA HARAPAN 2",
+                    "keterangan": "Tingkat Wira - total 150 poin",
+                    "urut": 8
                 }
             ]
         },
@@ -3225,6 +3232,13 @@
                     "jenis_label": "Juara Umum Mata Lomba Smart Red Cross Wira",
                     "nama_juara": "JUARA UTAMA 1",
                     "keterangan": "Smart Red Cross Wira - 20 poin (poin tertinggi)",
+                    "urut": 1
+                },
+                {
+                    "jenis": "umum_sekolah",
+                    "jenis_label": "Juara Umum Sekolah Wira",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Tingkat Wira - total 1350 poin",
                     "urut": 1
                 },
                 {
@@ -3493,6 +3507,13 @@
                     "nama_juara": "JUARA UTAMA 2",
                     "keterangan": "Pertolongan Pertama Wira - Tim SMA NEGERI 2 CIREBON - TIM 2 A (nilai 1890)",
                     "urut": 2
+                },
+                {
+                    "jenis": "umum_sekolah",
+                    "jenis_label": "Juara Umum Sekolah Wira",
+                    "nama_juara": "JUARA 1",
+                    "keterangan": "Tingkat Wira - total 250 poin",
+                    "urut": 4
                 }
             ]
         },
@@ -3883,6 +3904,13 @@
                     "urut": 3
                 },
                 {
+                    "jenis": "umum_sekolah",
+                    "jenis_label": "Juara Umum Sekolah Wira",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Tingkat Wira - total 200 poin",
+                    "urut": 7
+                },
+                {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Perawatan Keluarga Wira",
                     "nama_juara": "JUARA HARAPAN 2",
@@ -4178,6 +4206,13 @@
                     "jenis_label": "Juara Mata Lomba Smart Red Cross Wira",
                     "nama_juara": "JUARA UTAMA 2",
                     "keterangan": "Smart Red Cross Wira - Tim SMAN 7 CIREBON - TIM 5 A (nilai 77.78)",
+                    "urut": 2
+                },
+                {
+                    "jenis": "umum_sekolah",
+                    "jenis_label": "Juara Umum Sekolah Wira",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Tingkat Wira - total 450 poin",
                     "urut": 2
                 },
                 {
@@ -5055,6 +5090,13 @@
                     "nama_juara": "JUARA 2",
                     "keterangan": "Pertolongan Pertama Wira - Tim SMAN 1 SURANENGGALA - TIM 15 B (nilai 1730)",
                     "urut": 5
+                },
+                {
+                    "jenis": "umum_sekolah",
+                    "jenis_label": "Juara Umum Sekolah Wira",
+                    "nama_juara": "JUARA HARAPAN 2",
+                    "keterangan": "Tingkat Wira - total 150 poin",
+                    "urut": 8
                 }
             ]
         },
@@ -5193,6 +5235,13 @@
                     "nama_juara": "JUARA UTAMA 2",
                     "keterangan": "Tandu Putri Wira - Tim SMAN TENGAH TANI - TIM 7 C (nilai 650)",
                     "urut": 2
+                },
+                {
+                    "jenis": "umum_sekolah",
+                    "jenis_label": "Juara Umum Sekolah Wira",
+                    "nama_juara": "JUARA 1",
+                    "keterangan": "Tingkat Wira - total 250 poin",
+                    "urut": 4
                 },
                 {
                     "jenis": "lomba",
@@ -6899,6 +6948,13 @@
                     "urut": 4
                 },
                 {
+                    "jenis": "umum_sekolah",
+                    "jenis_label": "Juara Umum Sekolah Wira",
+                    "nama_juara": "JUARA 1",
+                    "keterangan": "Tingkat Wira - total 250 poin",
+                    "urut": 4
+                },
+                {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Tandu Campuran Wira",
                     "nama_juara": "JUARA 2",
@@ -7424,6 +7480,13 @@
                     "jenis_label": "Juara Mata Lomba Tandu Campuran Wira",
                     "nama_juara": "JUARA UTAMA 3",
                     "keterangan": "Tandu Campuran Wira - Tim MAS PUI KEPUH - TIM 17 B (nilai 673)",
+                    "urut": 3
+                },
+                {
+                    "jenis": "umum_sekolah",
+                    "jenis_label": "Juara Umum Sekolah Wira",
+                    "nama_juara": "JUARA UTAMA 3",
+                    "keterangan": "Tingkat Wira - total 400 poin",
                     "urut": 3
                 },
                 {
