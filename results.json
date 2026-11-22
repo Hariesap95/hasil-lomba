@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-11-22 10:58:40 WIB",
+    "generated_at": "2026-11-22 11:04:23 WIB",
     "ada_nilai": true,
     "ada_juara": true,
     "competitions": [
@@ -380,7 +380,7 @@
                 {
                     "jenis": "umum_lomba",
                     "jenis_label": "Juara Umum Mata Lomba Tandu Putra Madya",
-                    "nama_juara": "JUARA UTAMA 1",
+                    "nama_juara": "Juara Umum Mata Lomba 1",
                     "keterangan": "Tandu Putra Madya - 11 poin (poin tertinggi)",
                     "urut": 1
                 },
@@ -515,7 +515,7 @@
                 {
                     "jenis": "umum_lomba",
                     "jenis_label": "Juara Umum Mata Lomba Pertolongan Pertama Madya",
-                    "nama_juara": "JUARA UTAMA 1",
+                    "nama_juara": "Juara Umum Mata Lomba 1",
                     "keterangan": "Pertolongan Pertama Madya - 15 poin (poin tertinggi)",
                     "urut": 1
                 },
@@ -900,6 +900,13 @@
                     "urut": 2
                 },
                 {
+                    "jenis": "umum_sekolah",
+                    "jenis_label": "Juara Umum Sekolah Madya",
+                    "nama_juara": "Juara Umum 2",
+                    "keterangan": "Tingkat Madya - total 450 poin",
+                    "urut": 2
+                },
+                {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Perawatan Keluarga Madya",
                     "nama_juara": "JUARA UTAMA 3",
@@ -1086,22 +1093,29 @@
                 {
                     "jenis": "umum_lomba",
                     "jenis_label": "Juara Umum Mata Lomba Perawatan Keluarga Madya",
-                    "nama_juara": "JUARA UTAMA 1",
+                    "nama_juara": "Juara Umum Mata Lomba 1",
                     "keterangan": "Perawatan Keluarga Madya - 17 poin (poin tertinggi)",
                     "urut": 1
                 },
                 {
                     "jenis": "umum_lomba",
                     "jenis_label": "Juara Umum Mata Lomba Smart Red Cross Madya",
-                    "nama_juara": "JUARA UTAMA 1",
+                    "nama_juara": "Juara Umum Mata Lomba 1",
                     "keterangan": "Smart Red Cross Madya - 20 poin (poin tertinggi)",
                     "urut": 1
                 },
                 {
                     "jenis": "umum_lomba",
                     "jenis_label": "Juara Umum Mata Lomba Tandu Putri Madya",
-                    "nama_juara": "JUARA UTAMA 1",
+                    "nama_juara": "Juara Umum Mata Lomba 1",
                     "keterangan": "Tandu Putri Madya - 13 poin (poin tertinggi)",
+                    "urut": 1
+                },
+                {
+                    "jenis": "umum_sekolah",
+                    "jenis_label": "Juara Umum Sekolah Madya",
+                    "nama_juara": "Juara Umum 1",
+                    "keterangan": "Tingkat Madya - total 1100 poin",
                     "urut": 1
                 },
                 {
@@ -2697,7 +2711,7 @@
                 {
                     "jenis": "umum_lomba",
                     "jenis_label": "Juara Umum Mata Lomba Tandu Campuran Madya",
-                    "nama_juara": "JUARA UTAMA 1",
+                    "nama_juara": "Juara Umum Mata Lomba 1",
                     "keterangan": "Tandu Campuran Madya - 11 poin (poin tertinggi)",
                     "urut": 1
                 },
@@ -2714,6 +2728,13 @@
                     "nama_juara": "JUARA UTAMA 2",
                     "keterangan": "Tandu Putri Madya - Tim SMPN 4 JATIWANGI - TIM 1 B (nilai 659)",
                     "urut": 2
+                },
+                {
+                    "jenis": "umum_sekolah",
+                    "jenis_label": "Juara Umum Sekolah Madya",
+                    "nama_juara": "Juara Umum 3",
+                    "keterangan": "Tingkat Madya - total 400 poin",
+                    "urut": 3
                 },
                 {
                     "jenis": "lomba",
@@ -3055,7 +3076,7 @@
                 {
                     "jenis": "umum_lomba",
                     "jenis_label": "Juara Umum Mata Lomba Tandu Putri Wira",
-                    "nama_juara": "JUARA UTAMA 1",
+                    "nama_juara": "Juara Umum Mata Lomba 1",
                     "keterangan": "Tandu Putri Wira - 13 poin (poin tertinggi)",
                     "urut": 1
                 },
@@ -3216,15 +3237,22 @@
                 {
                     "jenis": "umum_lomba",
                     "jenis_label": "Juara Umum Mata Lomba Perawatan Keluarga Wira",
-                    "nama_juara": "JUARA UTAMA 1",
+                    "nama_juara": "Juara Umum Mata Lomba 1",
                     "keterangan": "Perawatan Keluarga Wira - 17 poin (poin tertinggi)",
                     "urut": 1
                 },
                 {
                     "jenis": "umum_lomba",
                     "jenis_label": "Juara Umum Mata Lomba Smart Red Cross Wira",
-                    "nama_juara": "JUARA UTAMA 1",
+                    "nama_juara": "Juara Umum Mata Lomba 1",
                     "keterangan": "Smart Red Cross Wira - 20 poin (poin tertinggi)",
+                    "urut": 1
+                },
+                {
+                    "jenis": "umum_sekolah",
+                    "jenis_label": "Juara Umum Sekolah Wira",
+                    "nama_juara": "Juara Umum 1",
+                    "keterangan": "Tingkat Wira - total 1350 poin",
                     "urut": 1
                 },
                 {
@@ -4144,7 +4172,7 @@
                 {
                     "jenis": "umum_lomba",
                     "jenis_label": "Juara Umum Mata Lomba Pertolongan Pertama Wira",
-                    "nama_juara": "JUARA UTAMA 1",
+                    "nama_juara": "Juara Umum Mata Lomba 1",
                     "keterangan": "Pertolongan Pertama Wira - 10 poin (poin tertinggi)",
                     "urut": 1
                 },
@@ -4153,6 +4181,13 @@
                     "jenis_label": "Juara Mata Lomba Smart Red Cross Wira",
                     "nama_juara": "JUARA UTAMA 2",
                     "keterangan": "Smart Red Cross Wira - Tim SMAN 7 CIREBON - TIM 5 A (nilai 77.78)",
+                    "urut": 2
+                },
+                {
+                    "jenis": "umum_sekolah",
+                    "jenis_label": "Juara Umum Sekolah Wira",
+                    "nama_juara": "Juara Umum 2",
+                    "keterangan": "Tingkat Wira - total 450 poin",
                     "urut": 2
                 },
                 {
@@ -4566,7 +4601,7 @@
                 {
                     "jenis": "umum_lomba",
                     "jenis_label": "Juara Umum Mata Lomba Poster Madya",
-                    "nama_juara": "JUARA UTAMA 1",
+                    "nama_juara": "Juara Umum Mata Lomba 1",
                     "keterangan": "Poster Madya - 15 poin (poin tertinggi)",
                     "urut": 1
                 },
@@ -5006,7 +5041,7 @@
                 {
                     "jenis": "umum_lomba",
                     "jenis_label": "Juara Umum Mata Lomba Poster Wira",
-                    "nama_juara": "JUARA UTAMA 1",
+                    "nama_juara": "Juara Umum Mata Lomba 1",
                     "keterangan": "Poster Wira - 15 poin (poin tertinggi)",
                     "urut": 1
                 },
@@ -6574,7 +6609,7 @@
                 {
                     "jenis": "umum_lomba",
                     "jenis_label": "Juara Umum Mata Lomba Tandu Putra Wira",
-                    "nama_juara": "JUARA UTAMA 1",
+                    "nama_juara": "Juara Umum Mata Lomba 1",
                     "keterangan": "Tandu Putra Wira - 16 poin (poin tertinggi)",
                     "urut": 1
                 },
@@ -7346,7 +7381,7 @@
                 {
                     "jenis": "umum_lomba",
                     "jenis_label": "Juara Umum Mata Lomba Tandu Campuran Wira",
-                    "nama_juara": "JUARA UTAMA 1",
+                    "nama_juara": "Juara Umum Mata Lomba 1",
                     "keterangan": "Tandu Campuran Wira - 16 poin (poin tertinggi)",
                     "urut": 1
                 },
@@ -7355,6 +7390,13 @@
                     "jenis_label": "Juara Mata Lomba Tandu Campuran Wira",
                     "nama_juara": "JUARA UTAMA 3",
                     "keterangan": "Tandu Campuran Wira - Tim MAS PUI KEPUH - TIM 17 B (nilai 673)",
+                    "urut": 3
+                },
+                {
+                    "jenis": "umum_sekolah",
+                    "jenis_label": "Juara Umum Sekolah Wira",
+                    "nama_juara": "Juara Umum 3",
+                    "keterangan": "Tingkat Wira - total 400 poin",
                     "urut": 3
                 },
                 {
