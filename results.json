@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-11-22 09:14:54 WIB",
+    "generated_at": "2026-11-22 09:41:38 WIB",
     "ada_nilai": true,
     "ada_juara": true,
     "competitions": [
@@ -527,6 +527,13 @@
                     "urut": 4
                 },
                 {
+                    "jenis": "umum_sekolah",
+                    "jenis_label": "Juara Umum Sekolah Madya",
+                    "nama_juara": "JUARA 1",
+                    "keterangan": "Tingkat Madya - total 300 poin",
+                    "urut": 4
+                },
+                {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Perawatan Keluarga Madya",
                     "nama_juara": "JUARA 3",
@@ -900,6 +907,13 @@
                     "urut": 2
                 },
                 {
+                    "jenis": "umum_sekolah",
+                    "jenis_label": "Juara Umum Sekolah Madya",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Tingkat Madya - total 450 poin",
+                    "urut": 2
+                },
+                {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Perawatan Keluarga Madya",
                     "nama_juara": "JUARA UTAMA 3",
@@ -1102,6 +1116,13 @@
                     "jenis_label": "Juara Umum Mata Lomba Tandu Putri Madya",
                     "nama_juara": "JUARA UTAMA 1",
                     "keterangan": "Tandu Putri Madya - 13 poin (poin tertinggi)",
+                    "urut": 1
+                },
+                {
+                    "jenis": "umum_sekolah",
+                    "jenis_label": "Juara Umum Sekolah Madya",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Tingkat Madya - total 1100 poin",
                     "urut": 1
                 },
                 {
@@ -1445,6 +1466,13 @@
                     "jenis_label": "Juara Mata Lomba Tandu Campuran Madya",
                     "nama_juara": "JUARA HARAPAN 1",
                     "keterangan": "Tandu Campuran Madya - Tim MTS NEGERI 9 INDRAMAYU - TIM 7 C (nilai 616)",
+                    "urut": 7
+                },
+                {
+                    "jenis": "umum_sekolah",
+                    "jenis_label": "Juara Umum Sekolah Madya",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Tingkat Madya - total 200 poin",
                     "urut": 7
                 },
                 {
@@ -2714,6 +2742,13 @@
                     "nama_juara": "JUARA UTAMA 2",
                     "keterangan": "Tandu Putri Madya - Tim SMPN 4 JATIWANGI - TIM 1 B (nilai 659)",
                     "urut": 2
+                },
+                {
+                    "jenis": "umum_sekolah",
+                    "jenis_label": "Juara Umum Sekolah Madya",
+                    "nama_juara": "JUARA UTAMA 3",
+                    "keterangan": "Tingkat Madya - total 400 poin",
+                    "urut": 3
                 },
                 {
                     "jenis": "lomba",
@@ -4480,6 +4515,13 @@
                     "urut": 7
                 },
                 {
+                    "jenis": "umum_sekolah",
+                    "jenis_label": "Juara Umum Sekolah Madya",
+                    "nama_juara": "JUARA HARAPAN 2",
+                    "keterangan": "Tingkat Madya - total 150 poin",
+                    "urut": 8
+                },
+                {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Smart Red Cross Madya",
                     "nama_juara": "JUARA HARAPAN 3",
@@ -4775,6 +4817,13 @@
                     "nama_juara": "JUARA UTAMA 1",
                     "keterangan": "Poster Madya - Tim MTSN 6 CIREBON - TIM 16 A (nilai 250)",
                     "urut": 1
+                },
+                {
+                    "jenis": "umum_sekolah",
+                    "jenis_label": "Juara Umum Sekolah Madya",
+                    "nama_juara": "JUARA HARAPAN 2",
+                    "keterangan": "Tingkat Madya - total 150 poin",
+                    "urut": 8
                 }
             ]
         },
@@ -5924,6 +5973,13 @@
                     "nama_juara": "JUARA UTAMA 1",
                     "keterangan": "Smart Red Cross Madya - Tim SMPN 2 CIWARINGIN - TIM 19 D (nilai 88.89)",
                     "urut": 1
+                },
+                {
+                    "jenis": "umum_sekolah",
+                    "jenis_label": "Juara Umum Sekolah Madya",
+                    "nama_juara": "JUARA 1",
+                    "keterangan": "Tingkat Madya - total 300 poin",
+                    "urut": 4
                 },
                 {
                     "jenis": "lomba",
@@ -7351,6 +7407,13 @@
                     "nama_juara": "JUARA UTAMA 2",
                     "keterangan": "Tandu Campuran Madya - Tim MTSN 3 MAJALENGKA - TIM 23 A (nilai 655)",
                     "urut": 2
+                },
+                {
+                    "jenis": "umum_sekolah",
+                    "jenis_label": "Juara Umum Sekolah Madya",
+                    "nama_juara": "JUARA 3",
+                    "keterangan": "Tingkat Madya - total 275 poin",
+                    "urut": 6
                 }
             ]
         },
