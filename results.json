@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-11-22 11:04:23 WIB",
+    "generated_at": "2026-11-22 11:06:28 WIB",
     "ada_nilai": true,
     "ada_juara": true,
     "competitions": [
@@ -380,7 +380,7 @@
                 {
                     "jenis": "umum_lomba",
                     "jenis_label": "Juara Umum Mata Lomba Tandu Putra Madya",
-                    "nama_juara": "Juara Umum Mata Lomba 1",
+                    "nama_juara": "Juara Umum Tandu Putra Madya",
                     "keterangan": "Tandu Putra Madya - 11 poin (poin tertinggi)",
                     "urut": 1
                 },
@@ -515,7 +515,7 @@
                 {
                     "jenis": "umum_lomba",
                     "jenis_label": "Juara Umum Mata Lomba Pertolongan Pertama Madya",
-                    "nama_juara": "Juara Umum Mata Lomba 1",
+                    "nama_juara": "Juara Umum Pertolongan Pertama Madya",
                     "keterangan": "Pertolongan Pertama Madya - 15 poin (poin tertinggi)",
                     "urut": 1
                 },
@@ -1093,21 +1093,21 @@
                 {
                     "jenis": "umum_lomba",
                     "jenis_label": "Juara Umum Mata Lomba Perawatan Keluarga Madya",
-                    "nama_juara": "Juara Umum Mata Lomba 1",
+                    "nama_juara": "Juara Umum Perawatan Keluarga Madya",
                     "keterangan": "Perawatan Keluarga Madya - 17 poin (poin tertinggi)",
                     "urut": 1
                 },
                 {
                     "jenis": "umum_lomba",
                     "jenis_label": "Juara Umum Mata Lomba Smart Red Cross Madya",
-                    "nama_juara": "Juara Umum Mata Lomba 1",
+                    "nama_juara": "Juara Umum Smart Red Cross Madya",
                     "keterangan": "Smart Red Cross Madya - 20 poin (poin tertinggi)",
                     "urut": 1
                 },
                 {
                     "jenis": "umum_lomba",
                     "jenis_label": "Juara Umum Mata Lomba Tandu Putri Madya",
-                    "nama_juara": "Juara Umum Mata Lomba 1",
+                    "nama_juara": "Juara Umum Tandu Putri Madya",
                     "keterangan": "Tandu Putri Madya - 13 poin (poin tertinggi)",
                     "urut": 1
                 },
@@ -2711,7 +2711,7 @@
                 {
                     "jenis": "umum_lomba",
                     "jenis_label": "Juara Umum Mata Lomba Tandu Campuran Madya",
-                    "nama_juara": "Juara Umum Mata Lomba 1",
+                    "nama_juara": "Juara Umum Tandu Campuran Madya",
                     "keterangan": "Tandu Campuran Madya - 11 poin (poin tertinggi)",
                     "urut": 1
                 },
@@ -3076,7 +3076,7 @@
                 {
                     "jenis": "umum_lomba",
                     "jenis_label": "Juara Umum Mata Lomba Tandu Putri Wira",
-                    "nama_juara": "Juara Umum Mata Lomba 1",
+                    "nama_juara": "Juara Umum Tandu Putri Wira",
                     "keterangan": "Tandu Putri Wira - 13 poin (poin tertinggi)",
                     "urut": 1
                 },
@@ -3237,14 +3237,14 @@
                 {
                     "jenis": "umum_lomba",
                     "jenis_label": "Juara Umum Mata Lomba Perawatan Keluarga Wira",
-                    "nama_juara": "Juara Umum Mata Lomba 1",
+                    "nama_juara": "Juara Umum Perawatan Keluarga Wira",
                     "keterangan": "Perawatan Keluarga Wira - 17 poin (poin tertinggi)",
                     "urut": 1
                 },
                 {
                     "jenis": "umum_lomba",
                     "jenis_label": "Juara Umum Mata Lomba Smart Red Cross Wira",
-                    "nama_juara": "Juara Umum Mata Lomba 1",
+                    "nama_juara": "Juara Umum Smart Red Cross Wira",
                     "keterangan": "Smart Red Cross Wira - 20 poin (poin tertinggi)",
                     "urut": 1
                 },
@@ -4172,7 +4172,7 @@
                 {
                     "jenis": "umum_lomba",
                     "jenis_label": "Juara Umum Mata Lomba Pertolongan Pertama Wira",
-                    "nama_juara": "Juara Umum Mata Lomba 1",
+                    "nama_juara": "Juara Umum Pertolongan Pertama Wira",
                     "keterangan": "Pertolongan Pertama Wira - 10 poin (poin tertinggi)",
                     "urut": 1
                 },
@@ -4601,7 +4601,7 @@
                 {
                     "jenis": "umum_lomba",
                     "jenis_label": "Juara Umum Mata Lomba Poster Madya",
-                    "nama_juara": "Juara Umum Mata Lomba 1",
+                    "nama_juara": "Juara Umum Poster Madya",
                     "keterangan": "Poster Madya - 15 poin (poin tertinggi)",
                     "urut": 1
                 },
@@ -5041,7 +5041,7 @@
                 {
                     "jenis": "umum_lomba",
                     "jenis_label": "Juara Umum Mata Lomba Poster Wira",
-                    "nama_juara": "Juara Umum Mata Lomba 1",
+                    "nama_juara": "Juara Umum Poster Wira",
                     "keterangan": "Poster Wira - 15 poin (poin tertinggi)",
                     "urut": 1
                 },
@@ -6609,7 +6609,7 @@
                 {
                     "jenis": "umum_lomba",
                     "jenis_label": "Juara Umum Mata Lomba Tandu Putra Wira",
-                    "nama_juara": "Juara Umum Mata Lomba 1",
+                    "nama_juara": "Juara Umum Tandu Putra Wira",
                     "keterangan": "Tandu Putra Wira - 16 poin (poin tertinggi)",
                     "urut": 1
                 },
@@ -7381,7 +7381,7 @@
                 {
                     "jenis": "umum_lomba",
                     "jenis_label": "Juara Umum Mata Lomba Tandu Campuran Wira",
-                    "nama_juara": "Juara Umum Mata Lomba 1",
+                    "nama_juara": "Juara Umum Tandu Campuran Wira",
                     "keterangan": "Tandu Campuran Wira - 16 poin (poin tertinggi)",
                     "urut": 1
                 },
