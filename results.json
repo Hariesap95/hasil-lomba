@@ -1,7 +1,7 @@
 {
-    "generated_at": "2026-11-21 17:45:18 WIB",
+    "generated_at": "2026-11-22 07:07:20 WIB",
     "ada_nilai": true,
-    "ada_juara": false,
+    "ada_juara": true,
     "competitions": [
         {
             "id": 1,
@@ -149,7 +149,16 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Perawatan Keluarga Madya",
+                    "nama_juara": "JUARA HARAPAN 3",
+                    "keterangan": "Perawatan Keluarga Madya - Tim MTSN 11 CIREBON - TIM 12 B (nilai 1725)",
+                    "urut": 9
+                }
+            ]
         },
         "XCTZD8": {
             "school_name": "SMPN 13 KOTA CIREBON",
@@ -366,7 +375,30 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putra Madya",
+                    "nama_juara": "JUARA 1",
+                    "keterangan": "Tandu Putra Madya - Tim MTS PUI KEPUH MAJALENGKA - TIM 3 C (nilai 637)",
+                    "urut": 4
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putra Madya",
+                    "nama_juara": "JUARA 2",
+                    "keterangan": "Tandu Putra Madya - Tim MTS PUI KEPUH MAJALENGKA - TIM 3 A (nilai 637)",
+                    "urut": 5
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Campuran Madya",
+                    "nama_juara": "JUARA 3",
+                    "keterangan": "Tandu Campuran Madya - Tim MTS PUI KEPUH MAJALENGKA - TIM 3 A (nilai 620)",
+                    "urut": 6
+                }
+            ]
         },
         "Q2B9RS": {
             "school_name": "SMPN 1 PANGURAGAN",
@@ -464,7 +496,30 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Pertolongan Pertama Madya - Tim SMPN 1 PANGURAGAN - TIM 2 B (nilai 1680)",
+                    "urut": 1
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
+                    "nama_juara": "JUARA 1",
+                    "keterangan": "Pertolongan Pertama Madya - Tim SMPN 1 PANGURAGAN - TIM 2 A (nilai 1575)",
+                    "urut": 4
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Perawatan Keluarga Madya",
+                    "nama_juara": "JUARA 3",
+                    "keterangan": "Perawatan Keluarga Madya - Tim SMPN 1 PANGURAGAN - TIM 4 B (nilai 1854)",
+                    "urut": 6
+                }
+            ]
         },
         "R896SA": {
             "school_name": "SMPN 12 KOTA CIREBON",
@@ -821,7 +876,30 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Pertolongan Pertama Madya - Tim SMP NEGERI 1 LOHBENER - TIM 5 B (nilai 1620)",
+                    "urut": 2
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Perawatan Keluarga Madya",
+                    "nama_juara": "JUARA UTAMA 3",
+                    "keterangan": "Perawatan Keluarga Madya - Tim SMP NEGERI 1 LOHBENER - TIM 8 B (nilai 1893)",
+                    "urut": 3
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Perawatan Keluarga Madya",
+                    "nama_juara": "JUARA 1",
+                    "keterangan": "Perawatan Keluarga Madya - Tim SMP NEGERI 1 LOHBENER - TIM 8 A (nilai 1856)",
+                    "urut": 4
+                }
+            ]
         },
         "YU3GS7": {
             "school_name": "SMPN 1 SURANENGGALA",
@@ -982,7 +1060,79 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Perawatan Keluarga Madya",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Perawatan Keluarga Madya - Tim SMPN 1 SURANENGGALA - TIM 2 A (nilai 2100)",
+                    "urut": 1
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Perawatan Keluarga Madya",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Perawatan Keluarga Madya - Tim SMPN 1 SURANENGGALA - TIM 2 B (nilai 1998)",
+                    "urut": 2
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Smart Red Cross Madya",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Smart Red Cross Madya - Tim SMPN 1 SURANENGGALA - TIM 22 A (nilai 88.89)",
+                    "urut": 2
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Smart Red Cross Madya",
+                    "nama_juara": "JUARA UTAMA 3",
+                    "keterangan": "Smart Red Cross Madya - Tim SMPN 1 SURANENGGALA - TIM 22 D (nilai 88.89)",
+                    "urut": 3
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putri Madya",
+                    "nama_juara": "JUARA UTAMA 3",
+                    "keterangan": "Tandu Putri Madya - Tim SMPN 1 SURANENGGALA - TIM 14 A (nilai 654)",
+                    "urut": 3
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putri Madya",
+                    "nama_juara": "JUARA 1",
+                    "keterangan": "Tandu Putri Madya - Tim SMPN 1 SURANENGGALA - TIM 14 B (nilai 646)",
+                    "urut": 4
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Smart Red Cross Madya",
+                    "nama_juara": "JUARA 2",
+                    "keterangan": "Smart Red Cross Madya - Tim SMPN 1 SURANENGGALA - TIM 22 B (nilai 86.67)",
+                    "urut": 5
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
+                    "nama_juara": "JUARA 3",
+                    "keterangan": "Pertolongan Pertama Madya - Tim SMPN 1 SURANENGGALA - TIM 16 A (nilai 1565)",
+                    "urut": 6
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putra Madya",
+                    "nama_juara": "JUARA HARAPAN 2",
+                    "keterangan": "Tandu Putra Madya - Tim SMPN 1 SURANENGGALA - TIM 11 A (nilai 617)",
+                    "urut": 8
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Campuran Madya",
+                    "nama_juara": "JUARA HARAPAN 3",
+                    "keterangan": "Tandu Campuran Madya - Tim SMPN 1 SURANENGGALA - TIM 22 A (nilai 606)",
+                    "urut": 9
+                }
+            ]
         },
         "NB522U": {
             "school_name": "SMPN 2 KAPETAKAN",
@@ -1081,7 +1231,23 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
+                    "nama_juara": "JUARA 2",
+                    "keterangan": "Pertolongan Pertama Madya - Tim SMPN 2 KAPETAKAN - TIM 10 B (nilai 1570)",
+                    "urut": 5
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
+                    "nama_juara": "JUARA HARAPAN 3",
+                    "keterangan": "Pertolongan Pertama Madya - Tim SMPN 2 KAPETAKAN - TIM 10 A (nilai 1540)",
+                    "urut": 9
+                }
+            ]
         },
         "T7LGHJ": {
             "school_name": "MTS NEGERI 9 INDRAMAYU",
@@ -1223,7 +1389,37 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
+                    "nama_juara": "JUARA UTAMA 3",
+                    "keterangan": "Pertolongan Pertama Madya - Tim MTS NEGERI 9 INDRAMAYU - TIM 1 A (nilai 1605)",
+                    "urut": 3
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putra Madya",
+                    "nama_juara": "JUARA 3",
+                    "keterangan": "Tandu Putra Madya - Tim MTS NEGERI 9 INDRAMAYU - TIM 7 C (nilai 635)",
+                    "urut": 6
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Campuran Madya",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Tandu Campuran Madya - Tim MTS NEGERI 9 INDRAMAYU - TIM 7 C (nilai 616)",
+                    "urut": 7
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putri Madya",
+                    "nama_juara": "JUARA HARAPAN 2",
+                    "keterangan": "Tandu Putri Madya - Tim MTS NEGERI 9 INDRAMAYU - TIM 2 C (nilai 635)",
+                    "urut": 8
+                }
+            ]
         },
         "CGE3VL": {
             "school_name": "SMPN 1 ARJAWINANGUN",
@@ -1335,7 +1531,23 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Perawatan Keluarga Madya",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Perawatan Keluarga Madya - Tim SMPN 1 ARJAWINANGUN - TIM 18 A (nilai 1821)",
+                    "urut": 7
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
+                    "nama_juara": "JUARA HARAPAN 2",
+                    "keterangan": "Pertolongan Pertama Madya - Tim SMPN 1 ARJAWINANGUN - TIM 3 A (nilai 1540)",
+                    "urut": 8
+                }
+            ]
         },
         "7JKY75": {
             "school_name": "SMPN 2 PANYINGKIRAN",
@@ -1519,7 +1731,30 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putra Madya",
+                    "nama_juara": "JUARA UTAMA 3",
+                    "keterangan": "Tandu Putra Madya - Tim SMPN 1 KRANGKENG - TIM 9 A (nilai 648)",
+                    "urut": 3
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Campuran Madya",
+                    "nama_juara": "JUARA 2",
+                    "keterangan": "Tandu Campuran Madya - Tim SMPN 1 KRANGKENG - TIM 9 A (nilai 620)",
+                    "urut": 5
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putri Madya",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Tandu Putri Madya - Tim SMPN 1 KRANGKENG - TIM 7 A (nilai 638)",
+                    "urut": 7
+                }
+            ]
         },
         "UXRM6U": {
             "school_name": "SMPN 9 CIREBON",
@@ -1704,7 +1939,37 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Perawatan Keluarga Madya",
+                    "nama_juara": "JUARA 2",
+                    "keterangan": "Perawatan Keluarga Madya - Tim SMPN 2 KLANGENAN - TIM 19 B (nilai 1855)",
+                    "urut": 5
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Pertolongan Pertama Madya",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Pertolongan Pertama Madya - Tim SMPN 2 KLANGENAN - TIM 18 A (nilai 1545)",
+                    "urut": 7
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Perawatan Keluarga Madya",
+                    "nama_juara": "JUARA HARAPAN 2",
+                    "keterangan": "Perawatan Keluarga Madya - Tim SMPN 2 KLANGENAN - TIM 19 A (nilai 1801)",
+                    "urut": 8
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Smart Red Cross Madya",
+                    "nama_juara": "JUARA HARAPAN 2",
+                    "keterangan": "Smart Red Cross Madya - Tim SMPN 2 KLANGENAN - TIM 29 A (nilai 84.44)",
+                    "urut": 8
+                }
+            ]
         },
         "3GELHT": {
             "school_name": "SMPN 2 WERU",
@@ -1815,7 +2080,16 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Smart Red Cross Madya",
+                    "nama_juara": "JUARA 1",
+                    "keterangan": "Smart Red Cross Madya - Tim SMPN 2 WERU - TIM 30 B (nilai 86.67)",
+                    "urut": 4
+                }
+            ]
         },
         "2LYUKM": {
             "school_name": "SMPN 1 PLERED",
@@ -2037,7 +2311,16 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Madya",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Poster Madya - Tim SMPN 1 PLUMBON - TIM 20 C (nilai 225)",
+                    "urut": 7
+                }
+            ]
         },
         "EJY66C": {
             "school_name": "SMPI 5 AL AZHAR CIREBON",
@@ -2367,7 +2650,37 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Campuran Madya",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Tandu Campuran Madya - Tim SMPN 4 JATIWANGI - TIM 18 A (nilai 683)",
+                    "urut": 1
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putra Madya",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Tandu Putra Madya - Tim SMPN 4 JATIWANGI - TIM 14 A (nilai 652)",
+                    "urut": 2
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putri Madya",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Tandu Putri Madya - Tim SMPN 4 JATIWANGI - TIM 1 B (nilai 659)",
+                    "urut": 2
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Campuran Madya",
+                    "nama_juara": "JUARA HARAPAN 2",
+                    "keterangan": "Tandu Campuran Madya - Tim SMPN 4 JATIWANGI - TIM 18 B (nilai 610)",
+                    "urut": 8
+                }
+            ]
         },
         "3TBTTF": {
             "school_name": "SMKN 1 JAMBLANG",
@@ -3829,7 +4142,44 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putri Madya",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Tandu Putri Madya - Tim SMPN 1 CIWARINGIN - TIM 8 A (nilai 666)",
+                    "urut": 1
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Campuran Madya",
+                    "nama_juara": "JUARA 1",
+                    "keterangan": "Tandu Campuran Madya - Tim SMPN 1 CIWARINGIN - TIM 8 A (nilai 628)",
+                    "urut": 4
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putra Madya",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Tandu Putra Madya - Tim SMPN 1 CIWARINGIN - TIM 8 B (nilai 622)",
+                    "urut": 7
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Smart Red Cross Madya",
+                    "nama_juara": "JUARA HARAPAN 3",
+                    "keterangan": "Smart Red Cross Madya - Tim SMPN 1 CIWARINGIN - TIM 11 B (nilai 84.44)",
+                    "urut": 9
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putra Madya",
+                    "nama_juara": "JUARA HARAPAN 3",
+                    "keterangan": "Tandu Putra Madya - Tim SMPN 1 CIWARINGIN - TIM 8 A (nilai 612)",
+                    "urut": 9
+                }
+            ]
         },
         "DFYC5Q": {
             "school_name": "SMPN 2 GUNUNG JATI",
@@ -3957,7 +4307,44 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Madya",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Poster Madya - Tim SMPN 2 GUNUNG JATI - TIM 8 B (nilai 240)",
+                    "urut": 2
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Madya",
+                    "nama_juara": "JUARA 1",
+                    "keterangan": "Poster Madya - Tim SMPN 2 GUNUNG JATI - TIM 8 C (nilai 235)",
+                    "urut": 4
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putri Madya",
+                    "nama_juara": "JUARA 2",
+                    "keterangan": "Tandu Putri Madya - Tim SMPN 2 GUNUNG JATI - TIM 21 A (nilai 644)",
+                    "urut": 5
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putri Madya",
+                    "nama_juara": "JUARA 3",
+                    "keterangan": "Tandu Putri Madya - Tim SMPN 2 GUNUNG JATI - TIM 21 B (nilai 643)",
+                    "urut": 6
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Madya",
+                    "nama_juara": "JUARA HARAPAN 3",
+                    "keterangan": "Poster Madya - Tim SMPN 2 GUNUNG JATI - TIM 8 A (nilai 225)",
+                    "urut": 9
+                }
+            ]
         },
         "4MNSH6": {
             "school_name": "MTSN 6 CIREBON",
@@ -4059,7 +4446,16 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Madya",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Poster Madya - Tim MTSN 6 CIREBON - TIM 16 A (nilai 250)",
+                    "urut": 1
+                }
+            ]
         },
         "CC9J2G": {
             "school_name": "SMAN 1 SUSUKAN",
@@ -4872,7 +5268,16 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Madya",
+                    "nama_juara": "JUARA UTAMA 3",
+                    "keterangan": "Poster Madya - Tim SMPN 3 SUMBER - TIM 4 A (nilai 235)",
+                    "urut": 3
+                }
+            ]
         },
         "UUEGLW": {
             "school_name": "SMPN 2 CIWARINGIN",
@@ -5049,7 +5454,37 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Smart Red Cross Madya",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Smart Red Cross Madya - Tim SMPN 2 CIWARINGIN - TIM 19 D (nilai 88.89)",
+                    "urut": 1
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Smart Red Cross Madya",
+                    "nama_juara": "JUARA HARAPAN 1",
+                    "keterangan": "Smart Red Cross Madya - Tim SMPN 2 CIWARINGIN - TIM 19 B (nilai 84.44)",
+                    "urut": 7
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Madya",
+                    "nama_juara": "JUARA HARAPAN 2",
+                    "keterangan": "Poster Madya - Tim SMPN 2 CIWARINGIN - TIM 1 B (nilai 225)",
+                    "urut": 8
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putri Madya",
+                    "nama_juara": "JUARA HARAPAN 3",
+                    "keterangan": "Tandu Putri Madya - Tim SMPN 2 CIWARINGIN - TIM 17 B (nilai 626)",
+                    "urut": 9
+                }
+            ]
         },
         "M9TYXZ": {
             "school_name": "SMP TUNAS PERTIWI",
@@ -5285,7 +5720,16 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Campuran Madya",
+                    "nama_juara": "JUARA UTAMA 3",
+                    "keterangan": "Tandu Campuran Madya - Tim SMPN 2 GEGESIK - TIM 12 E (nilai 629)",
+                    "urut": 3
+                }
+            ]
         },
         "P9QYTJ": {
             "school_name": "SMPN 2 PLERED",
@@ -5354,7 +5798,16 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Madya",
+                    "nama_juara": "JUARA 3",
+                    "keterangan": "Poster Madya - Tim SMPN 2 PLERED - TIM 7 A (nilai 230)",
+                    "urut": 6
+                }
+            ]
         },
         "LTA2LS": {
             "school_name": "SMP NEGERI 1 LOSARI",
@@ -5399,7 +5852,16 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Poster Madya",
+                    "nama_juara": "JUARA 2",
+                    "keterangan": "Poster Madya - Tim SMP NEGERI 1 LOSARI - TIM 19 A (nilai 235)",
+                    "urut": 5
+                }
+            ]
         },
         "SEGQA4": {
             "school_name": "MTSN 4 CIREBON",
@@ -5511,7 +5973,16 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Smart Red Cross Madya",
+                    "nama_juara": "JUARA 3",
+                    "keterangan": "Smart Red Cross Madya - Tim MTSN 4 CIREBON - TIM 21 A (nilai 86.67)",
+                    "urut": 6
+                }
+            ]
         },
         "Z9R6V8": {
             "school_name": "SMP AL IRSYAD AL ISLAMIYYAH KOTA CIREBON",
@@ -6274,7 +6745,23 @@
                     ]
                 }
             ],
-            "ada_nilai": true
+            "ada_nilai": true,
+            "juara": [
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Putra Madya",
+                    "nama_juara": "JUARA UTAMA 1",
+                    "keterangan": "Tandu Putra Madya - Tim MTSN 3 MAJALENGKA - TIM 5 A (nilai 658)",
+                    "urut": 1
+                },
+                {
+                    "jenis": "lomba",
+                    "jenis_label": "Juara Mata Lomba Tandu Campuran Madya",
+                    "nama_juara": "JUARA UTAMA 2",
+                    "keterangan": "Tandu Campuran Madya - Tim MTSN 3 MAJALENGKA - TIM 23 A (nilai 655)",
+                    "urut": 2
+                }
+            ]
         },
         "3HWKRX": {
             "school_name": "SMAN 1 LIGUNG",
