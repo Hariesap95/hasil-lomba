@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-11-22 09:41:38 WIB",
+    "generated_at": "2026-11-22 10:52:23 WIB",
     "ada_nilai": true,
     "ada_juara": true,
     "competitions": [
@@ -3712,16 +3712,7 @@
                     ]
                 }
             ],
-            "ada_nilai": true,
-            "juara": [
-                {
-                    "jenis": "lomba",
-                    "jenis_label": "Juara Mata Lomba Poster Wira",
-                    "nama_juara": "JUARA 2",
-                    "keterangan": "Poster Wira - Tim MAN 2 KOTA CIREBON - TIM 9 A (nilai 250)",
-                    "urut": 5
-                }
-            ]
+            "ada_nilai": true
         },
         "V5XXQL": {
             "school_name": "SMAN 6 CIREBON",
@@ -4056,23 +4047,7 @@
                     ]
                 }
             ],
-            "ada_nilai": true,
-            "juara": [
-                {
-                    "jenis": "lomba",
-                    "jenis_label": "Juara Mata Lomba Poster Wira",
-                    "nama_juara": "JUARA 3",
-                    "keterangan": "Poster Wira - Tim MA SALAFIYAH BODESARI - TIM 5 A (nilai 245)",
-                    "urut": 6
-                },
-                {
-                    "jenis": "lomba",
-                    "jenis_label": "Juara Mata Lomba Poster Wira",
-                    "nama_juara": "JUARA HARAPAN 1",
-                    "keterangan": "Poster Wira - Tim MA SALAFIYAH BODESARI - TIM 5 B (nilai 245)",
-                    "urut": 7
-                }
-            ]
+            "ada_nilai": true
         },
         "PCGVBU": {
             "school_name": "SMAN 7 CIREBON",
@@ -5113,25 +5088,11 @@
             "ada_nilai": true,
             "juara": [
                 {
-                    "jenis": "lomba",
-                    "jenis_label": "Juara Mata Lomba Poster Wira",
-                    "nama_juara": "JUARA UTAMA 1",
-                    "keterangan": "Poster Wira - Tim SMAN 1 SURANENGGALA - TIM 11 C (nilai 270)",
-                    "urut": 1
-                },
-                {
                     "jenis": "umum_lomba",
                     "jenis_label": "Juara Umum Mata Lomba Poster Wira",
                     "nama_juara": "JUARA UTAMA 1",
                     "keterangan": "Poster Wira - 15 poin (poin tertinggi)",
                     "urut": 1
-                },
-                {
-                    "jenis": "lomba",
-                    "jenis_label": "Juara Mata Lomba Poster Wira",
-                    "nama_juara": "JUARA 1",
-                    "keterangan": "Poster Wira - Tim SMAN 1 SURANENGGALA - TIM 11 A (nilai 255)",
-                    "urut": 4
                 },
                 {
                     "jenis": "lomba",
@@ -5326,13 +5287,6 @@
                     "nama_juara": "JUARA HARAPAN 1",
                     "keterangan": "Tandu Campuran Wira - Tim SMAN TENGAH TANI - TIM 2 A (nilai 650)",
                     "urut": 7
-                },
-                {
-                    "jenis": "lomba",
-                    "jenis_label": "Juara Mata Lomba Poster Wira",
-                    "nama_juara": "JUARA HARAPAN 2",
-                    "keterangan": "Poster Wira - Tim SMAN TENGAH TANI - TIM 7 B (nilai 240)",
-                    "urut": 8
                 },
                 {
                     "jenis": "lomba",
@@ -5563,13 +5517,6 @@
             ],
             "ada_nilai": true,
             "juara": [
-                {
-                    "jenis": "lomba",
-                    "jenis_label": "Juara Mata Lomba Poster Wira",
-                    "nama_juara": "JUARA UTAMA 3",
-                    "keterangan": "Poster Wira - Tim SMA NEGERI 1 BABAKAN - TIM 15 A (nilai 260)",
-                    "urut": 3
-                },
                 {
                     "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Smart Red Cross Wira",
@@ -6977,13 +6924,6 @@
             "juara": [
                 {
                     "jenis": "lomba",
-                    "jenis_label": "Juara Mata Lomba Poster Wira",
-                    "nama_juara": "JUARA UTAMA 2",
-                    "keterangan": "Poster Wira - Tim SMKN 1 KRANGKENG - TIM 12 A (nilai 260)",
-                    "urut": 2
-                },
-                {
-                    "jenis": "lomba",
                     "jenis_label": "Juara Mata Lomba Tandu Putra Wira",
                     "nama_juara": "JUARA UTAMA 2",
                     "keterangan": "Tandu Putra Wira - Tim SMKN 1 KRANGKENG - TIM 12 D (nilai 687)",
@@ -7083,16 +7023,7 @@
                     ]
                 }
             ],
-            "ada_nilai": true,
-            "juara": [
-                {
-                    "jenis": "lomba",
-                    "jenis_label": "Juara Mata Lomba Poster Wira",
-                    "nama_juara": "JUARA HARAPAN 2",
-                    "keterangan": "Poster Wira - Tim MA TUNAS PERTIWI - TIM 3 A (nilai 240)",
-                    "urut": 8
-                }
-            ]
+            "ada_nilai": true
         },
         "JXE8SD": {
             "school_name": "SMPN 2 ARJAWINANGUN",
